@@ -1,0 +1,271 @@
+/:
+  BYGX-wcr: 0.173
+  Blueve: 0.2272
+  FengPan-Frank: 0.2895
+  Junchao-Mellanox: 0.0849
+  Pterosaur: 1.4411
+  StormLiangMS: 0.2533
+  abdosi: 0.072
+  adyeung: 0.0548
+  ahsalam: 0.072
+  anish-n: 0.2236
+  arlakshm: 0.1837
+  banidoru: 0.4486
+  bhouse-nexthop: 3.9334
+  bmridul: 0.9363
+  deepak-singhal0408: 2.8491
+  dgsudharsan: 0.5623
+  divyachandralekha: 0.1417
+  eddieruan-alibaba: 0.49
+  ganglyu: 0.4088
+  jaanah-hcl: 0.0742
+  kcudnik: 0.1353
+  kperumalbfn: 0.8886
+  lguohan: 1.1206
+  liat-grozovik: 0.9924
+  liuh-80: 1.0136
+  liushilongbuaa: 0.931
+  lunyue-ms: 1.5478
+  micas-net: 0.0553
+  mint570: 0.8774
+  nmoray: 0.0506
+  oleksandrivantsiv: 0.1998
+  prabhataravind: 1.8856
+  prgeor: 1.8214
+  prhoskot: 0.1129
+  prsunny: 4.3091
+  purush-nexthop: 0.4704
+  qiluo-msft: 26.8358
+  r12f: 1.7245
+  ridahanif96: 0.0549
+  rkavitha-hcl: 0.0742
+  rlhui: 1.0952
+  saiarcot895: 2.4049
+  senthil-nexthop: 2.566
+  stephenxs: 0.1337
+  sudarshankumar4893: 0.1161
+  sutharsansr: 0.152
+  tahmed-dev: 0.4349
+  vaibhavhd: 0.1977
+  venkit-nexthop: 0.6529
+  vivekkarri: 0.7323
+  vmittal-msft: 0.8384
+  volodymyrsamotiy: 0.156
+  vvbrcm: 0.055
+  wangxin: 0.0938
+  wen587: 0.1789
+  wumiaont: 0.1841
+  xq9mend: 0.6544
+  yijingyan2: 1.9587
+  yue-fred-gao: 1.094
+  yuezhoujk: 0.0597
+  yunang-c: 0.3659
+  yxieca: 0.954
+  zjswhhh: 0.4592
+/.azure-pipelines/:
+  Pterosaur: 0.5881
+  kperumalbfn: 0.0635
+  lguohan: 0.5007
+  liushilongbuaa: 0.8257
+  lunyue-ms: 0.6099
+  prsunny: 0.1229
+  qiluo-msft: 6.9521
+  r12f: 0.1503
+  saiarcot895: 0.24
+  senthil-nexthop: 0.5886
+  vmittal-msft: 0.2646
+  wangxin: 0.0938
+  yijingyan2: 0.9968
+  yxieca: 0.5357
+/.github/:
+  bhouse-nexthop: 1.9644
+  liat-grozovik: 0.8604
+  liushilongbuaa: 0.1052
+  saiarcot895: 0.6055
+  vaibhavhd: 0.1977
+/.github/workflows/:
+  bhouse-nexthop: 1.9644
+  liushilongbuaa: 0.1052
+  saiarcot895: 0.6055
+  vaibhavhd: 0.1977
+/build-env/:
+  qiluo-msft: 0.6474
+/build-env/packages/:
+  qiluo-msft: 0.6474
+/ci/:
+  qiluo-msft: 1.3355
+/ci/buildenv_setup/:
+  qiluo-msft: 1.3355
+/ci/tests/:
+  qiluo-msft: 1.3355
+/common/:
+  BYGX-wcr: 0.173
+  Blueve: 0.2272
+  FengPan-Frank: 0.2895
+  Junchao-Mellanox: 0.0849
+  Pterosaur: 0.8529
+  abdosi: 0.072
+  adyeung: 0.0548
+  ahsalam: 0.072
+  anish-n: 0.2236
+  arlakshm: 0.1837
+  banidoru: 0.4486
+  bmridul: 0.9363
+  deepak-singhal0408: 2.8491
+  dgsudharsan: 0.5623
+  divyachandralekha: 0.1417
+  eddieruan-alibaba: 0.49
+  ganglyu: 0.4088
+  jaanah-hcl: 0.0742
+  kcudnik: 0.1353
+  kperumalbfn: 0.8251
+  lguohan: 1.1206
+  liat-grozovik: 0.132
+  liuh-80: 0.9583
+  micas-net: 0.0553
+  mint570: 0.4944
+  nmoray: 0.0506
+  oleksandrivantsiv: 0.1998
+  prabhataravind: 1.3817
+  prgeor: 1.8214
+  prhoskot: 0.1129
+  prsunny: 4.1862
+  purush-nexthop: 0.4704
+  qiluo-msft: 19.1238
+  r12f: 1.5742
+  ridahanif96: 0.0549
+  rkavitha-hcl: 0.0742
+  rlhui: 1.0952
+  saiarcot895: 1.1779
+  senthil-nexthop: 1.9774
+  stephenxs: 0.1337
+  sudarshankumar4893: 0.1161
+  sutharsansr: 0.152
+  tahmed-dev: 0.4349
+  venkit-nexthop: 0.6529
+  vivekkarri: 0.3445
+  vmittal-msft: 0.5738
+  volodymyrsamotiy: 0.156
+  vvbrcm: 0.055
+  wen587: 0.1789
+  wumiaont: 0.1841
+  xq9mend: 0.6544
+  yue-fred-gao: 0.5844
+  yuezhoujk: 0.0597
+  yunang-c: 0.3659
+  yxieca: 0.4184
+  zjswhhh: 0.2517
+/common/c-api/:
+  ganglyu: 0.0606
+  lguohan: 0.1152
+  liuh-80: 0.2284
+  prsunny: 0.2616
+  qiluo-msft: 1.1405
+  r12f: 0.6499
+  saiarcot895: 0.8717
+  yue-fred-gao: 0.4145
+  zjswhhh: 0.1629
+/crates/:
+  prsunny: 0.2616
+  qiluo-msft: 1.7635
+  r12f: 0.5117
+  saiarcot895: 0.8717
+  yue-fred-gao: 0.9241
+  zjswhhh: 0.3705
+/crates/swss-common-testing/:
+  qiluo-msft: 0.3732
+  r12f: 0.3467
+  saiarcot895: 0.1962
+  yue-fred-gao: 0.2061
+  zjswhhh: 0.3705
+/crates/swss-common-testing/src/:
+  qiluo-msft: 0.3732
+  r12f: 0.3467
+  saiarcot895: 0.1962
+  yue-fred-gao: 0.2061
+  zjswhhh: 0.3705
+/crates/swss-common/:
+  prsunny: 0.2616
+  qiluo-msft: 1.5532
+  r12f: 0.5117
+  saiarcot895: 0.8717
+  yue-fred-gao: 0.7181
+  zjswhhh: 0.1629
+/crates/swss-common/src/:
+  prsunny: 0.2616
+  qiluo-msft: 1.5532
+  r12f: 0.5117
+  saiarcot895: 0.8717
+  yue-fred-gao: 0.5677
+  zjswhhh: 0.1629
+/crates/swss-common/src/types/:
+  prsunny: 0.2616
+  qiluo-msft: 1.2323
+  r12f: 0.5117
+  saiarcot895: 0.8717
+  yue-fred-gao: 0.4145
+/crates/swss-common/tests/:
+  qiluo-msft: 0.9776
+  r12f: 0.5117
+  saiarcot895: 0.3617
+  yue-fred-gao: 0.3159
+/debian/:
+  Pterosaur: 0.1618
+  deepak-singhal0408: 0.6942
+  qiluo-msft: 1.1625
+  r12f: 0.1503
+/goext/:
+  liuh-80: 0.0553
+  prabhataravind: 0.5038
+  qiluo-msft: 0.504
+/pyext/:
+  Pterosaur: 0.1618
+  lguohan: 0.5007
+  mint570: 0.7564
+  prabhataravind: 0.5038
+  qiluo-msft: 2.7502
+  yunang-c: 0.3659
+/pyext/py3/:
+  qiluo-msft: 0.9776
+/sonic-db-cli/:
+  prgeor: 0.6148
+  qiluo-msft: 1.4406
+  vivekkarri: 0.1801
+/tests/:
+  Pterosaur: 0.7499
+  banidoru: 0.4486
+  deepak-singhal0408: 2.1549
+  dgsudharsan: 0.032
+  divyachandralekha: 0.1417
+  ganglyu: 0.0566
+  jaanah-hcl: 0.0742
+  lguohan: 0.6199
+  liat-grozovik: 0.0529
+  liuh-80: 0.3421
+  mint570: 0.4944
+  oleksandrivantsiv: 0.1998
+  prgeor: 0.6148
+  prhoskot: 0.1129
+  prsunny: 0.2616
+  qiluo-msft: 14.1013
+  r12f: 1.1854
+  rkavitha-hcl: 0.0742
+  saiarcot895: 1.2533
+  senthil-nexthop: 1.5509
+  stephenxs: 0.0314
+  sutharsansr: 0.152
+  tahmed-dev: 0.4349
+  venkit-nexthop: 0.6529
+  vivekkarri: 0.3878
+  xq9mend: 0.6544
+  yue-fred-gao: 0.5844
+  yunang-c: 0.3659
+  zjswhhh: 0.1629
+/tests/cli_test_data/:
+  prgeor: 0.6148
+  qiluo-msft: 1.1866
+  vivekkarri: 0.1801
+/tests/redis_multi_db_ut_config/:
+  qiluo-msft: 0.3684
+  vivekkarri: 0.1801
+  zjswhhh: 0.1629

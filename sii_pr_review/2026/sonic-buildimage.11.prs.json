@@ -1,0 +1,2477 @@
+[
+    {
+        "additions": 2,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T18:01:22Z",
+        "number": 30994,
+        "title": "Update github/codeql-action action to v4 (master)",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 5,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T18:01:47Z",
+        "number": 30993,
+        "title": "Update actions/checkout action to v7 (master)",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T18:00:28Z",
+        "number": 30992,
+        "title": "Update pascalgn/automerge-action action to v0.16.4 (master)",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 2,
+        "author": "lotus-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T18:13:43Z",
+        "number": 30987,
+        "title": "[CODEOWNERS] Fix Nexthop & Nokia broadcom platform-modules paths",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 351,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T22:13:50Z",
+        "number": 30981,
+        "title": "Update crate patch updates (master) (patch)",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T22:13:53Z",
+        "number": 30975,
+        "title": "[submodule][master] Update submodule sonic-utilities to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T22:13:42Z",
+        "number": 30974,
+        "title": "[submodule][master] Update submodule sonic-swss-common to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T22:13:31Z",
+        "number": 30973,
+        "title": "[submodule][master] Update submodule sonic-swss to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T22:13:16Z",
+        "number": 30971,
+        "title": "[submodule][master] Update submodule sonic-sairedis to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T22:13:06Z",
+        "number": 30970,
+        "title": "[submodule][master] Update submodule sonic-platform-common to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T02:14:54Z",
+        "number": 30948,
+        "title": "[submodule][master] Update submodule sonic-mgmt-framework to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T02:14:44Z",
+        "number": 30947,
+        "title": "[submodule][master] Update submodule dhcpmon to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-21T19:14:01Z",
+        "number": 30929,
+        "title": "[submodule][master] Update submodule sonic-stp to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T15:13:52Z",
+        "number": 30928,
+        "title": "[submodule][master] Update submodule sonic-redfish to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T08:13:40Z",
+        "number": 30927,
+        "title": "[submodule][master] Update submodule sonic-platform-common to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T00:13:11Z",
+        "number": 30926,
+        "title": "[submodule][master] Update submodule platform/vpp to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 111,
+        "author": "yijingyan2",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T00:12:17Z",
+        "number": 30925,
+        "title": "[ci] send notifications when baseline test and upgrade version pipeline failed",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 3,
+        "author": "samuel-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T16:36:05Z",
+        "number": 30909,
+        "title": "[logrotate] Run every 10 minutes without random delay",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 13,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-22T16:12:39Z",
+        "number": 30907,
+        "title": "[202511] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 25,
+        "author": "anamehra",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T21:32:45Z",
+        "number": 30905,
+        "title": "[cisco] Make platform checkout optional",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T12:13:30Z",
+        "number": 30894,
+        "title": "[submodule][master] Update submodule sonic-utilities to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-21T17:13:56Z",
+        "number": 30893,
+        "title": "[submodule][master] Update submodule sonic-restapi to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T15:13:34Z",
+        "number": 30892,
+        "title": "[submodule][master] Update submodule sonic-host-services to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T04:13:05Z",
+        "number": 30891,
+        "title": "[submodule][master] Update submodule dhcprelay to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1613,
+        "author": "anamehra",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T22:11:35Z",
+        "number": 30890,
+        "title": "Add Cisco 8102-64H-O device data",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 2786,
+        "author": "anamehra",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T22:12:26Z",
+        "number": 30889,
+        "title": "Add Cisco 8101-32FH-O-C01 device data",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 33338,
+        "author": "anamehra",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T22:10:05Z",
+        "number": 30888,
+        "title": "Add Cisco 8101-32FH-O device data",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 16,
+        "author": "yijingyan2",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-19T00:46:00Z",
+        "number": 30885,
+        "title": "[ci]: Fix protected-file checks on reruns and pushes",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 46,
+        "author": "croos12",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-20T00:53:01Z",
+        "number": 30872,
+        "title": "[FRR]: Fix use-after-free in agentx_events_update()",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 3,
+        "author": "Pterosaur",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T23:30:55Z",
+        "number": 30866,
+        "title": "[broadcom]: Pass HFT device nodes to syncd",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 22,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-18T21:14:38Z",
+        "number": 30863,
+        "title": "[202511] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "lunyue-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T02:13:23Z",
+        "number": 30861,
+        "title": "[docker-ptf]: Refresh GoBGP networking dependencies",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 6,
+        "author": "lunyue-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T02:13:12Z",
+        "number": 30860,
+        "title": "[sonic-slave-bookworm]: Upgrade Bazelisk to v1.30.0",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-21T21:13:50Z",
+        "number": 30855,
+        "title": "[submodule][master] Update submodule sonic-ztp to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T06:13:29Z",
+        "number": 30854,
+        "title": "[submodule][master] Update submodule sonic-gnmi to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-18T13:14:05Z",
+        "number": 30853,
+        "title": "[submodule][202511] Update submodule sonic-sairedis to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 3348,
+        "author": "anamehra",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T21:46:40Z",
+        "number": 30852,
+        "title": "[cisco] Add shared Cisco 8000 device data",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 2,
+        "author": "aaronber0614",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T22:33:33Z",
+        "number": 30849,
+        "title": "[broadcom] Update XGS kernel modules for SAI 15.2.1.0.0.0.50.1 and load HFT modules",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 46,
+        "author": "shreyansh-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-21T06:18:58Z",
+        "number": 30836,
+        "title": "[b27] Deliver redfish certificates to the REST API paths and make -i optional in generate_certificates.sh",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 55,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T04:13:07Z",
+        "number": 30832,
+        "title": "[renovate]: Add Renovate configuration",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "xq9mend",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-19T19:29:14Z",
+        "number": 30831,
+        "title": "Pin Trixie FIPS bundle to SymCrypt 103.8.0",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T20:13:38Z",
+        "number": 30830,
+        "title": "[submodule][master] Update submodule sonic-utilities to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T02:13:56Z",
+        "number": 30829,
+        "title": "[submodule][master] Update submodule sonic-swss to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-21T18:13:47Z",
+        "number": 30828,
+        "title": "[submodule][master] Update submodule sonic-platform-daemons to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-19T20:13:41Z",
+        "number": 30827,
+        "title": "[submodule][master] Update submodule sonic-mgmt-common to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-19T19:13:49Z",
+        "number": 30825,
+        "title": "[submodule][master] Update submodule platform/vpp to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-17T10:13:37Z",
+        "number": 30824,
+        "title": "[submodule][202511] Update submodule sonic-sairedis to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1978,
+        "author": "gordon-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T18:25:09Z",
+        "number": 30821,
+        "title": "[Nexthop] NH-4210 encoded single global TX-FIR settings for all ports",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 17,
+        "author": "lunyue-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T16:03:17Z",
+        "number": 30811,
+        "title": "[mellanox]: Isolate VMOD tests from firmware security queries",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 11,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-21T23:39:50Z",
+        "number": 30808,
+        "title": "[202611] Update 202611 related templates and documentation",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-19T07:13:39Z",
+        "number": 30805,
+        "title": "[submodule][master] Update submodule sonic-platform-common to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T02:13:44Z",
+        "number": 30800,
+        "title": "[submodule][master] Update submodule wpasupplicant/sonic-wpa-supplicant to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-15T18:13:46Z",
+        "number": 30799,
+        "title": "[submodule][master] Update submodule sonic-ztp to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-21T18:13:29Z",
+        "number": 30798,
+        "title": "[submodule][master] Update submodule sonic-swss-common to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T08:13:12Z",
+        "number": 30797,
+        "title": "[submodule][master] Update submodule sonic-snmpagent to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-21T19:12:54Z",
+        "number": 30796,
+        "title": "[submodule][master] Update submodule sonic-sairedis to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T18:13:18Z",
+        "number": 30795,
+        "title": "[submodule][master] Update submodule sonic-restapi to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T02:13:29Z",
+        "number": 30794,
+        "title": "[submodule][master] Update submodule sonic-py-swsssdk to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-15T16:13:16Z",
+        "number": 30793,
+        "title": "[submodule][master] Update submodule sonic-platform-daemons to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-15T15:13:46Z",
+        "number": 30792,
+        "title": "[submodule][master] Update submodule sonic-mgmt-framework to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T17:13:34Z",
+        "number": 30791,
+        "title": "[submodule][master] Update submodule sonic-host-services to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T21:13:23Z",
+        "number": 30790,
+        "title": "[submodule][master] Update submodule sonic-dbsyncd to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-15T11:13:11Z",
+        "number": 30789,
+        "title": "[submodule][master] Update submodule dhcprelay to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 8,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-15T09:13:26Z",
+        "number": 30788,
+        "title": "[202511] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 230,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-15T08:13:35Z",
+        "number": 30783,
+        "title": "[master] Upgrade SONiC package Versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 78,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-14T21:13:12Z",
+        "number": 30778,
+        "title": "[202511] Upgrade SONiC package Versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 12,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-14T17:13:33Z",
+        "number": 30777,
+        "title": "[202511] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T20:13:20Z",
+        "number": 30776,
+        "title": "[submodule][master] Update submodule sonic-utilities to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-15T17:12:59Z",
+        "number": 30775,
+        "title": "[submodule][master] Update submodule sonic-swss to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T20:13:06Z",
+        "number": 30774,
+        "title": "[submodule][master] Update submodule sonic-sairedis to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T19:13:18Z",
+        "number": 30773,
+        "title": "[submodule][master] Update submodule sonic-platform-daemons to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T20:12:58Z",
+        "number": 30772,
+        "title": "[submodule][master] Update submodule sonic-platform-common to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T18:13:27Z",
+        "number": 30771,
+        "title": "[submodule][master] Update submodule sonic-host-services to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T20:12:49Z",
+        "number": 30770,
+        "title": "[submodule][master] Update submodule sonic-gnmi to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 4,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T18:42:28Z",
+        "number": 30761,
+        "title": "[sonic-yang-models] Use unique instead of a count() must for PREFIX_LIST sequence_number",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-14T02:12:36Z",
+        "number": 30755,
+        "title": "[action] [PR:30569] Disable MPTCP by default",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 6,
+        "author": "jianyuewu",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T14:04:43Z",
+        "number": 30742,
+        "title": "[Mellanox] Share buffer templates files between SN6600 and SN6810",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T16:13:16Z",
+        "number": 30739,
+        "title": "[submodule][master] Update submodule sonic-utilities to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T15:13:08Z",
+        "number": 30738,
+        "title": "[submodule][master] Update submodule sonic-swss-common to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T14:13:47Z",
+        "number": 30737,
+        "title": "[submodule][master] Update submodule sonic-swss to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T15:12:59Z",
+        "number": 30736,
+        "title": "[submodule][master] Update submodule sonic-sairedis to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T14:13:33Z",
+        "number": 30735,
+        "title": "[submodule][master] Update submodule sonic-platform-daemons to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T12:13:06Z",
+        "number": 30734,
+        "title": "[submodule][master] Update submodule sonic-linux-kernel to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T15:12:46Z",
+        "number": 30733,
+        "title": "[submodule][master] Update submodule sonic-gnmi to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T18:13:11Z",
+        "number": 30732,
+        "title": "[submodule][master] Update submodule platform/vpp to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 99,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T17:13:22Z",
+        "number": 30731,
+        "title": "[master] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 204,
+        "author": "lunyue-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T01:21:20Z",
+        "number": 30730,
+        "title": "[pipelines] Scope certificate signing material to the build job",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 14,
+        "author": "lunyue-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-15T22:42:12Z",
+        "number": 30729,
+        "title": "[sonic-slave-trixie]: Replace deprecated j2cli version lookup",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 258,
+        "author": "venky-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T17:48:52Z",
+        "number": 30728,
+        "title": "Add T0 buffer defaults for NH-4010",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 126,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T23:46:17Z",
+        "number": 30723,
+        "title": "[libyang3] Fix a use-after-free validating a list with an invalid key",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 25,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-15T09:13:05Z",
+        "number": 30713,
+        "title": "[validated] Submodule pipeline runs passed for 83d58888bd0e09f63b1a9ae848ab7ee768f4faa0",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "Junchao-Mellanox",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-15T07:01:27Z",
+        "number": 30711,
+        "title": "[Mellanox] Link the SN6810-LD psu_sensors_conf_updater to the common updater",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 13,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-12T13:13:15Z",
+        "number": 30710,
+        "title": "[202511] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-12T17:13:39Z",
+        "number": 30709,
+        "title": "[submodule][master] Update submodule sonic-utilities to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-12T18:13:18Z",
+        "number": 30708,
+        "title": "[submodule][master] Update submodule sonic-swss to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-12T18:13:07Z",
+        "number": 30707,
+        "title": "[submodule][master] Update submodule sonic-host-services to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 0,
+        "author": "deepak-singhal0408",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T00:48:38Z",
+        "number": 30703,
+        "title": "[device]: Remove remaining hardcoded ZMQ fields from ASIC_DB context_config.json",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 27,
+        "author": "caleb-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T16:58:37Z",
+        "number": 30699,
+        "title": "[Nexthop] NH-4210: Remove the DCDC0 temperature sensor",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 5,
+        "author": "aaronber0614",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T06:01:59Z",
+        "number": 30693,
+        "title": "[broadcom] Upgrade XGS SAI to 16.0.0.14.0.0.0.1 (SAI_16.0.0_EA7, SAI API 1.19.2)",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T12:13:35Z",
+        "number": 30692,
+        "title": "[submodule][master] Update submodule sonic-swss to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T10:13:36Z",
+        "number": 30691,
+        "title": "[submodule][master] Update submodule platform/vpp to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T08:13:26Z",
+        "number": 30690,
+        "title": "[submodule][master] Update submodule platform/alpinevs to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 24,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-12T20:13:05Z",
+        "number": 30676,
+        "title": "[master] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-12T17:13:13Z",
+        "number": 30675,
+        "title": "[submodule][master] Update submodule sonic-sairedis to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T14:13:43Z",
+        "number": 30674,
+        "title": "[submodule][master] Update submodule platform/vpp to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-10T10:13:08Z",
+        "number": 30673,
+        "title": "[submodule][202511] Update submodule sonic-utilities to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 37,
+        "author": "zbud-msft",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-12T19:02:47Z",
+        "number": 30619,
+        "title": "telemetry, gnmi: pass --paths_blacklist when a policy file is installed",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 134,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-10T00:13:11Z",
+        "number": 30618,
+        "title": "[action] [PR:27852] pmon: tolerate /dev reordering and bus hot-plug",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 2,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T03:57:08Z",
+        "number": 30614,
+        "title": "[sonic-utilities] Add Scapy wheel build dependency",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 10,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-10T13:13:30Z",
+        "number": 30613,
+        "title": "[202511] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-12T17:13:03Z",
+        "number": 30612,
+        "title": "[submodule][master] Update submodule sonic-platform-common to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "gordon-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T16:57:58Z",
+        "number": 30603,
+        "title": "[Nexthop] Set GRUB timeout_style=countdown on all Nexthop x86 platforms",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-08T12:13:43Z",
+        "number": 30601,
+        "title": "[submodule][master] Update submodule sonic-py-swsssdk to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T13:13:08Z",
+        "number": 30600,
+        "title": "[submodule][master] Update submodule sonic-host-services to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-09T20:13:09Z",
+        "number": 30599,
+        "title": "[submodule][master] Update submodule dhcprelay to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 15,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-08T09:13:43Z",
+        "number": 30598,
+        "title": "[202511] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 8,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-08T07:13:32Z",
+        "number": 30597,
+        "title": "[202605] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 137,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-07T17:14:08Z",
+        "number": 30596,
+        "title": "[202511] Upgrade SONiC package Versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 15,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-07T14:14:06Z",
+        "number": 30594,
+        "title": "[202605] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-09T21:12:56Z",
+        "number": 30593,
+        "title": "[submodule][master] Update submodule sonic-swss-common to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-12T01:12:46Z",
+        "number": 30592,
+        "title": "[submodule][master] Update submodule sonic-linux-kernel to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-07T13:13:17Z",
+        "number": 30591,
+        "title": "[submodule][master] Update submodule platform/vpp to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 72,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-10T03:12:51Z",
+        "number": 30588,
+        "title": "[action] [PR:30284] [thrift]: Remove unused PHP build dependencies",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-07T04:13:22Z",
+        "number": 30587,
+        "title": "[action] [PR:30569] Disable MPTCP by default",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 39,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-09T12:13:26Z",
+        "number": 30584,
+        "title": "[action] [PR:30434] Fix PMON device mirroring failures caused by ambiguous udev tag entries",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 2,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-09T21:12:36Z",
+        "number": 30583,
+        "title": "[action] [PR:27670] [H6-128]: Remove Ethernet1025 from device files in O256/P128",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 139,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-10T02:12:43Z",
+        "number": 30582,
+        "title": "[action] [PR:30294] [system-health] Report leaking sensor Not OK in every check cycle",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 32,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-09T22:12:56Z",
+        "number": 30581,
+        "title": "[action] [PR:27780] Add missing thermal sensors for Arista 7060X6-16PE-384C-B",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 703,
+        "author": "antonio-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T21:18:27Z",
+        "number": 30579,
+        "title": "[Nexthop] Report PSU firmware versions on Nexthop platforms",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 5,
+        "author": "norimeher-arista",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T21:05:18Z",
+        "number": 30576,
+        "title": "Fix Goldfinch CONSOLE_SWITCH nesting in init_cfg.json",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 6,
+        "author": "zedzean",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T16:07:20Z",
+        "number": 30575,
+        "title": "build: remove Python 2 swsssdk and redis-dump-load packages",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 44,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-09T10:12:58Z",
+        "number": 30574,
+        "title": "[action] [PR:28050] Add a service to save the epoch frequently",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 33,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-09T14:12:48Z",
+        "number": 30572,
+        "title": "[master] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T15:13:42Z",
+        "number": 30571,
+        "title": "[submodule][master] Update submodule sonic-sairedis to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "xq9mend",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T23:08:43Z",
+        "number": 30569,
+        "title": "Disable MPTCP by default",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 54,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-08T18:13:25Z",
+        "number": 30561,
+        "title": "[action] [PR:30278] [docker-sonic-mgmt] Patch pygnmi IPv6 and double value handling",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-05T19:12:49Z",
+        "number": 30560,
+        "title": "[action] [PR:30124] [pensando]: Update to 1.95.0-SS-21 release tag for Pensando-elba platform",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 309,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-08T18:13:13Z",
+        "number": 30559,
+        "title": "[action] [PR:30123] [Pensando]: Track DPU data plane health conditions and update platform config",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T15:12:42Z",
+        "number": 30555,
+        "title": "[submodule][master] Update submodule wpasupplicant/sonic-wpa-supplicant to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T17:13:19Z",
+        "number": 30554,
+        "title": "[submodule][master] Update submodule sonic-swss-common to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T13:12:57Z",
+        "number": 30553,
+        "title": "[submodule][master] Update submodule sonic-mgmt-common to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T15:13:16Z",
+        "number": 30552,
+        "title": "[submodule][master] Update submodule sonic-linux-kernel to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 15,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-05T10:13:18Z",
+        "number": 30551,
+        "title": "[202511] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 10,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-05T09:13:14Z",
+        "number": 30550,
+        "title": "[202605] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 11,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T10:13:10Z",
+        "number": 30549,
+        "title": "[master] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 0,
+        "author": "jianyuewu",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-15T07:02:25Z",
+        "number": 30546,
+        "title": "[Mellanox] Remove SPC5 scheduling key from SN6810 profiles",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 364,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-08T07:12:31Z",
+        "number": 30542,
+        "title": "[master] Upgrade SONiC package Versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 55,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-07T11:12:31Z",
+        "number": 30535,
+        "title": "[202605] Upgrade docker-sonic-mgmt package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 533,
+        "author": "jack-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-07T16:22:26Z",
+        "number": 30534,
+        "title": "[Nexthop][Aspeed] Harden watchdog stage scripts",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T22:12:42Z",
+        "number": 30532,
+        "title": "[submodule][master] Update submodule sonic-utilities to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-04T14:13:33Z",
+        "number": 30531,
+        "title": "[submodule][master] Update submodule sonic-sairedis to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-07T17:12:53Z",
+        "number": 30530,
+        "title": "[submodule][master] Update submodule sonic-platform-daemons to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 14,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-04T12:13:12Z",
+        "number": 30529,
+        "title": "[master] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 12,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-04T08:12:50Z",
+        "number": 30528,
+        "title": "[202605] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 254,
+        "author": "justin-wong-ce",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-12T03:54:11Z",
+        "number": 30523,
+        "title": "Arista-7060X6-32PE config updates",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1433,
+        "author": "RayWang-micas",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-20T22:43:05Z",
+        "number": 30516,
+        "title": "[Platform/Micas] update m2-w6940-128x1-fr4",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T16:12:28Z",
+        "number": 30513,
+        "title": "[submodule][master] Update submodule sonic-swss to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T15:12:32Z",
+        "number": 30512,
+        "title": "[submodule][master] Update submodule sonic-sairedis to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T12:13:07Z",
+        "number": 30511,
+        "title": "[submodule][master] Update submodule sonic-platform-common to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T12:13:18Z",
+        "number": 30510,
+        "title": "[submodule][master] Update submodule sonic-host-services to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T12:13:08Z",
+        "number": 30509,
+        "title": "[submodule][master] Update submodule platform/vpp to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 20,
+        "author": "Chloe-Huang-13",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-12T23:47:55Z",
+        "number": 30508,
+        "title": "[micas] Add overlay ECMP and tunnel support for M2-W6940 devices",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 72,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-03T11:12:50Z",
+        "number": 30506,
+        "title": "[action] [PR:30284] [thrift]: Remove unused PHP build dependencies",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 416,
+        "author": "dgsudharsan",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T16:34:49Z",
+        "number": 30502,
+        "title": "[Mellanox]Update SAI/FW/SDK/MFT/BFSOC versions ",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "saiarcot895",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T19:58:12Z",
+        "number": 30500,
+        "title": "Remove limit of 10 NTP servers being configured",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 208,
+        "author": "saiarcot895",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T19:55:43Z",
+        "number": 30499,
+        "title": "Add a NTP config test case with a src_intf element that is not present",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 42,
+        "author": "Pterosaur",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T23:50:34Z",
+        "number": 30497,
+        "title": "[docker-hft]: Pass the container arguments to countersyncd directly",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 90,
+        "author": "drozenblum",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-15T07:03:53Z",
+        "number": 30494,
+        "title": "[Mellanox] Update mellanox get_component_versions.py",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 33,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-04T16:12:57Z",
+        "number": 30493,
+        "title": "[master] Upgrade docker-sonic-mgmt package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 37,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-03T13:12:58Z",
+        "number": 30492,
+        "title": "[202605] Upgrade docker-sonic-mgmt package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 30,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-03T09:12:32Z",
+        "number": 30490,
+        "title": "[202511] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-04T14:12:57Z",
+        "number": 30489,
+        "title": "[submodule][master] Update submodule wpasupplicant/sonic-wpa-supplicant to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T14:13:01Z",
+        "number": 30488,
+        "title": "[submodule][master] Update submodule sonic-utilities to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T18:12:53Z",
+        "number": 30487,
+        "title": "[submodule][master] Update submodule sonic-swss-common to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T10:12:28Z",
+        "number": 30486,
+        "title": "[submodule][master] Update submodule sonic-swss to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T11:12:36Z",
+        "number": 30485,
+        "title": "[submodule][master] Update submodule sonic-snmpagent to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "lunyue-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T23:05:50Z",
+        "number": 30484,
+        "title": "[scripts]: Increase KVM installer disk to 6 GiB",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-01T10:12:23Z",
+        "number": 30478,
+        "title": "[submodule][master] Update submodule sonic-host-services to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-01T09:12:47Z",
+        "number": 30477,
+        "title": "[submodule][202511] Update submodule sonic-sairedis to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 38,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T16:12:38Z",
+        "number": 30476,
+        "title": "[master] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 30,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-03T08:12:41Z",
+        "number": 30475,
+        "title": "[202605] Upgrade docker-ptf package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 114,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-02T01:12:30Z",
+        "number": 30473,
+        "title": "[202605] Upgrade SONiC package Versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 68,
+        "author": "shreyansh-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T23:58:37Z",
+        "number": 30461,
+        "title": "[redfish] Harden certificate staging: key file mode, staged checks, validate-then-install",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-01T09:12:26Z",
+        "number": 30456,
+        "title": "[submodule][202605] Update submodule sonic-sairedis to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 8,
+        "author": "xq9mend",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T19:00:48Z",
+        "number": 30453,
+        "title": "[sonic-slave]: Limit Azure Node configuration to armhf",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 221,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T10:36:01Z",
+        "number": 30452,
+        "title": "[sonic-yang-models] Count priority-tagged VLAN members in the one-PVID-per-port check",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 892,
+        "author": "Junchao-Mellanox",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-15T07:05:28Z",
+        "number": 30449,
+        "title": "[Mellanox] SN6810_LD: OE FW version compare in auto upgrade and get_component_versions.py",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 241,
+        "author": "nikamirrr",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T04:56:17Z",
+        "number": 30448,
+        "title": "[Aspeed]: Run only the detected platform's U-Boot env vendor hook",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 4,
+        "author": "gpunathilell",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T19:11:51Z",
+        "number": 30447,
+        "title": "[HFT] Support dropped trim counters",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 26,
+        "author": "YairRaviv",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T02:23:15Z",
+        "number": 30443,
+        "title": "[FRR] Start bgpd in GR mode on warm and fast reboot",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "aaronber0614",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-05T14:32:46Z",
+        "number": 30441,
+        "title": "[202605][broadcom] Upgrade XGS SAI version to 15.2.1.0.0.0.50.1",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "aaronber0614",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T00:15:35Z",
+        "number": 30440,
+        "title": "[broadcom] Upgrade XGS SAI to 15.2.1.0.0.0.50.1",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 32,
+        "author": "Yakiv-Huryk",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-08T05:00:59Z",
+        "number": 30437,
+        "title": "[sonic-config-engine] keep the platform console default on a BMC",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 39,
+        "author": "dimimat",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T22:42:11Z",
+        "number": 30434,
+        "title": "Fix PMON device mirroring failures caused by ambiguous udev tag entries",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 45,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-01T17:12:54Z",
+        "number": 30433,
+        "title": "[master] Upgrade docker-sonic-mgmt package versions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 465,
+        "author": "caleb-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T22:58:25Z",
+        "number": 30422,
+        "title": "[Nexthop] NH-4210: Decode a 12V rail loss as a power loss reboot, ranked below specific DPM faults",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 49,
+        "author": "lunyue-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T22:09:26Z",
+        "number": 30401,
+        "title": "[sonic-slave-trixie]: Refresh Python build tools",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 17,
+        "author": "justin-oliver",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T21:47:57Z",
+        "number": 30396,
+        "title": "Update health monitor config for 7060XE7_64PRS",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 2194,
+        "author": "justin-wong-ce",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-01T18:51:08Z",
+        "number": 30394,
+        "title": "Add new HWSKU definitions for Arista-7060X6-32PE",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "fraserg-arista",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T19:37:55Z",
+        "number": 30391,
+        "title": "Update submodule sonic-platform-modules-arista to the latest HEAD",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 274,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T14:37:05Z",
+        "number": 30389,
+        "title": "[sbom] Stop losing the fragments of extra .debs that make skips, and name the source repository of submodule-built artifacts",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 61,
+        "author": "yashnsinha-arista",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T23:49:36Z",
+        "number": 30386,
+        "title": "Disable unsupported BMC features",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 160,
+        "author": "ganglyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T13:25:50Z",
+        "number": 30383,
+        "title": "[Mellanox] Accept NVMe SSDs of other models in the PCIe device check",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 18,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-09T16:30:23Z",
+        "number": 30368,
+        "title": "Remove unsupported GoBGP routing stack",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 61,
+        "author": "gpunathilell",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-15T07:07:58Z",
+        "number": 30367,
+        "title": "[Mellanox] Discover SX PTP devices at runtime in syncd",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 127,
+        "author": "tahmed-dev",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T23:23:40Z",
+        "number": 30365,
+        "title": "[sonic-yang-models]: Add the FDB_SYNC table and the L3EvpnMH device subtype",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 163,
+        "author": "shreyansh-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-08T01:32:42Z",
+        "number": 30363,
+        "title": "[b27] Install redfish certificates through REDFISH|certs in generate_certificates.sh",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 11,
+        "author": "balaji-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T18:10:46Z",
+        "number": 30362,
+        "title": "[Nexthop] Use the software PFC watchdog on NH-4010, NH-4020 and NH-4220",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "YairRaviv",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T02:04:33Z",
+        "number": 30358,
+        "title": "[config-setup] Migrate otel_config.yml on image upgrade",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 13,
+        "author": "anrao1",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T20:16:16Z",
+        "number": 30353,
+        "title": "[build]: Fix libnss-radius DPKG cache DEP_FILES aliasing",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 78,
+        "author": "Xichen96",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-04T08:05:06Z",
+        "number": 30345,
+        "title": "[dhcp_server] Retry unstable Kea lease snapshots",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 63,
+        "author": "nitin-kalavala",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-04T18:54:18Z",
+        "number": 30332,
+        "title": "[sonic-yang-models] Accept default VRF name",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 109,
+        "author": "chartsai-nvidia",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T08:00:50Z",
+        "number": 30331,
+        "title": "[Mellanox] Coordinate batch DPU power cycles and warn on post-startup failure",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 2,
+        "author": "anamehra",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T06:13:20Z",
+        "number": 30329,
+        "title": "platform/cisco: use source rule dependencies",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 32,
+        "author": "anamehra",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T06:15:51Z",
+        "number": 30328,
+        "title": "platform/cisco: gate DShell startup by capability",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "justin-wong-ce",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T18:57:29Z",
+        "number": 30308,
+        "title": "[submodule] Update submodule sonic-platform-modules-arista to the latest HEAD",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 110,
+        "author": "samuel-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-21T02:48:52Z",
+        "number": 30302,
+        "title": "[Nexthop] Fix BMC/host bmc0 bring-up and first-boot service ordering",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 90,
+        "author": "prajjwal-arista",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T23:20:39Z",
+        "number": 30300,
+        "title": "aspeed: add aspeed_app repo tools for aspeed platform.",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 139,
+        "author": "yuazhe",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T13:30:52Z",
+        "number": 30294,
+        "title": "[system-health] Report leaking sensor Not OK in every check cycle",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-11T16:18:02Z",
+        "number": 30287,
+        "title": "[submodule][202605] Update submodule sonic-host-services to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 6,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T05:22:36Z",
+        "number": 30285,
+        "title": "Configure Renovate",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 76,
+        "author": "antonio-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T18:42:52Z",
+        "number": 30277,
+        "title": "[pddf] fix kernel panic on pddf_util.py clean then install",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T00:12:27Z",
+        "number": 30257,
+        "title": "[submodule][master] Update submodule sonic-gnmi to the latest HEAD automatically",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 35,
+        "author": "theasianpianist",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T22:10:05Z",
+        "number": 30252,
+        "title": "[arp_update]: Ignore DualToR IPv4 link-local MAC mismatches",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 73,
+        "author": "antonio-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T18:43:19Z",
+        "number": 30250,
+        "title": "[docker-pde] Fix pde-bench, syseeprom.py and the PDE host commands",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 34,
+        "author": "saksarav-nokia",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T20:14:35Z",
+        "number": 30247,
+        "title": "(macsec): persist replay-protect fields on macsec profile add",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 15,
+        "author": "Yakiv-Huryk",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T01:15:24Z",
+        "number": 30241,
+        "title": "[aspeed] enable the console feature via platform init_cfg.json",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 3538,
+        "author": "rbarnes-nvidia",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-15T12:07:43Z",
+        "number": 30238,
+        "title": "[Mellanox] Add SN6600 LD V320P48C2 and V512C2 SKUs",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "tirupatihemanth",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T07:59:43Z",
+        "number": 30226,
+        "title": "Clean patches-sonic before Mellanox SDK integration",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 849,
+        "author": "jianyuewu",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-07T16:53:53Z",
+        "number": 30183,
+        "title": "[Mellanox] Configure Spectrum 6 service-port buffers",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 2458,
+        "author": "nishant111",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-01T12:46:16Z",
+        "number": 30159,
+        "title": "[dhcp] dhcp server match mode cli commands",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 12,
+        "author": "nikamirrr",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-07T10:35:55Z",
+        "number": 30146,
+        "title": "[nvidia-bluefield] Give the syncd container access to /dev/mst",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 2,
+        "author": "mdhoff-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T22:55:18Z",
+        "number": 30122,
+        "title": "[swss.sh] Detect ports from CONFIG_DB ahead of HWSKU file deprecation",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 75,
+        "author": "Junchao-Mellanox",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T13:37:51Z",
+        "number": 30108,
+        "title": "[sonic-yang-models] Add proxy_arp leaf to INTERFACE table",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 139,
+        "author": "william8545",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T16:32:58Z",
+        "number": 30103,
+        "title": "[yang] Add GNMI_CLIENT: client credential paths for the BMC's gNOI client",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 124,
+        "author": "william8545",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-07T16:55:36Z",
+        "number": 30097,
+        "title": "[Mellanox] Do not wait for the hardware reboot cause on SimX",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 386,
+        "author": "yuazhe",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T13:40:22Z",
+        "number": 30095,
+        "title": "[Mellanox][SN6600_LD] Add service-port (port 65) IM SI settings",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 171,
+        "author": "william8545",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-07T10:37:02Z",
+        "number": 30070,
+        "title": "[config-setup] Initialize configuration on multi-ASIC first boot",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 8,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T18:03:09Z",
+        "number": 30003,
+        "title": "[nexthop] syncd_post_stop: keep the ASIC up on a syncd warm restart",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 3,
+        "author": "tirupatihemanth",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T07:58:43Z",
+        "number": 29983,
+        "title": "[Mellanox] Set glibc memset tunable for syncd",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 3,
+        "author": "pavannaregundi",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-01T05:04:08Z",
+        "number": 29949,
+        "title": "[202605][Marvell-teralynx] Update SAI debian and SDK driver to release T8.1.0",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 79,
+        "author": "antonio-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T18:40:08Z",
+        "number": 29936,
+        "title": "[pddf] Expose PSU firmware version as raw hex",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 5,
+        "author": "zedzean",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-07T09:10:57Z",
+        "number": 29862,
+        "title": "build: remove Nephos platform support",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 169,
+        "author": "ymd-arista",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-06T07:31:31Z",
+        "number": 29754,
+        "title": "[Arista][202605][Citrine][TP1&2] Update thermal-policy for arista_7280r4(k)_32qf_32df",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 182,
+        "author": "ymd-arista",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-06T07:31:09Z",
+        "number": 29753,
+        "title": "[Arista][202605][QuartzDD][TP1&2] Update thermal policy for arista_7280dr3a[k|m]_36[s] SKUs",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1302,
+        "author": "gordon-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T21:17:41Z",
+        "number": 29674,
+        "title": "[Nexthop] Improve SW handling of asic reset behaviour",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 148,
+        "author": "kjia-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T19:17:41Z",
+        "number": 29664,
+        "title": "[device/nexthop] Order NH4210 PDDF i2c channel entries by channel number",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 70,
+        "author": "chinmoy-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-21T06:17:51Z",
+        "number": 29652,
+        "title": "[aspeed] ZTP support to SONiC BMC (ENABLE_BMC_ZTP build flag, OOB provisioning only, default ENABLE_BMC_ZTP=n)",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 73,
+        "author": "judyjoseph",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T17:49:02Z",
+        "number": 29640,
+        "title": "Add Major system leak support - sonicBMC",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 2,
+        "author": "jon-nokia",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T23:53:52Z",
+        "number": 29634,
+        "title": "[Nokia IXR7250e] hide grub menu",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1609,
+        "author": "saiarcot895",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-15T00:49:39Z",
+        "number": 29598,
+        "title": "Add support for updating the timezone in containers via containercfgd",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 100,
+        "author": "miatttao",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-09T18:35:53Z",
+        "number": 29569,
+        "title": "[yang] Add an optional boolean install_on_kernel leaf to VNET_ROUTE_TUNNEL_LIST",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 48,
+        "author": "lunyue-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T03:43:34Z",
+        "number": 29441,
+        "title": "[CodeQL] Make PAC MAB socket replies length-safe",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1,
+        "author": "lunyue-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T04:50:23Z",
+        "number": 29440,
+        "title": "[CodeQL] Remove unused CEL EEPROM suppression",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 56,
+        "author": "lunyue-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T23:35:43Z",
+        "number": 29437,
+        "title": "[CodeQL] Restrict Centec SFP cache directory permissions",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 105,
+        "author": "lunyue-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T04:49:35Z",
+        "number": 29436,
+        "title": "[CodeQL] Harden Mellanox dump receiver file creation",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 8,
+        "author": "lunyue-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T23:05:52Z",
+        "number": 29433,
+        "title": "[CodeQL] Bound Mitac watchdog timeout formatting",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 25,
+        "author": "lunyue-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-20T02:05:06Z",
+        "number": 29432,
+        "title": "[CodeQL] Harden Ragile firmware parsing and debug handling",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 182,
+        "author": "lunyue-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T02:25:50Z",
+        "number": 29431,
+        "title": "[CodeQL] Make Micas DDR memory traversal bounds-safe",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 9,
+        "author": "lunyue-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T03:22:44Z",
+        "number": 29430,
+        "title": "[CodeQL] Document CLI test import side effects",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 3,
+        "author": "lunyue-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T02:05:28Z",
+        "number": 29429,
+        "title": "[CodeQL] Fix TACACS test argument buffer overflow",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 12,
+        "author": "lunyue-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T23:06:36Z",
+        "number": 29428,
+        "title": "[CodeQL] Use pytest temporary paths in Nexthop EEPROM tests",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 520,
+        "author": "yifei-micas",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T22:49:00Z",
+        "number": 29394,
+        "title": "[Micas]: Update W6940 buffer settings and enable lossless mode",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 60,
+        "author": "Naveen-Rampuram",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T20:27:44Z",
+        "number": 29357,
+        "title": "Remove deprecated debian support stretch/jessie/buster",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 2366,
+        "author": "tahmed-dev",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T00:30:05Z",
+        "number": 29312,
+        "title": "[sonic-frr]: Sync EVPN MACs between SONiC and FRR over the FPM channel",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 296,
+        "author": "Bojun-Feng",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-19T02:19:50Z",
+        "number": 29288,
+        "title": "[bgpcfgd]: Stabilize unnumbered neighbor configuration",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 314,
+        "author": "devesh-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-01T05:18:06Z",
+        "number": 29266,
+        "title": "[docker-ptf]: add native MACsec encode/decode support to PTF dataplane",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 131,
+        "author": "benle7",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T22:47:00Z",
+        "number": 29206,
+        "title": "[SONiC BMC] Define the BMC OS per HwSKU for choosing the communication path",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 1831,
+        "author": "liamkearney-msft",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T17:36:15Z",
+        "number": 29102,
+        "title": "[macsec]: Add config/show commands for MACsec fallback key & MKA",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 139,
+        "author": "saiarcot895",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T12:17:11Z",
+        "number": 28427,
+        "title": "Update to Linux 6.12.94",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 30,
+        "author": "anamehra",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-20T00:21:30Z",
+        "number": 28335,
+        "title": "Add optional platform metadata to ONIE installer header",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 545,
+        "author": "Rod-Persky",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T23:20:30Z",
+        "number": 27667,
+        "title": "[tacacs]: Add SSH TraceId authorization attribute",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 152,
+        "author": "DavidZagury",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-15T11:19:55Z",
+        "number": 27433,
+        "title": "[Mellanox] Trigger FW upgrade when device is in prod_image_dev_capable state",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 34,
+        "author": "anamehra",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T23:17:25Z",
+        "number": 24522,
+        "title": "factory-reset: clear hostname and ssh keys, and reset motd banner",
+        "repo": "sonic-buildimage"
+    },
+    {
+        "additions": 174,
+        "author": "tshalvi",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-15T12:24:21Z",
+        "number": 23866,
+        "title": "[Mellanox] Retry mechanism to EEPROM accesses",
+        "repo": "sonic-buildimage"
+    }
+]

@@ -1,5 +1,50 @@
 [
     {
+        "additions": 5,
+        "author": "Xichen96",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-23T06:29:02Z",
+        "number": 127,
+        "title": "[202605][dhcpmon] Serialize shared MUX table access",
+        "repo": "sonic-dhcpmon"
+    },
+    {
+        "additions": 5,
+        "author": "Xichen96",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-20T07:08:22Z",
+        "number": 126,
+        "title": "[dhcpmon] Serialize shared MUX table access",
+        "repo": "sonic-dhcpmon"
+    },
+    {
+        "additions": 150,
+        "author": "Xichen96",
+        "baseRefName": "202605",
+        "mergedAt": "2026-10-18T22:16:51Z",
+        "number": 122,
+        "title": "[202605][dhcpmon] Backport controlled shutdown and DHCPv6 health fixes",
+        "repo": "sonic-dhcpmon"
+    },
+    {
+        "additions": 70,
+        "author": "Xichen96",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-14T06:44:42Z",
+        "number": 121,
+        "title": "[dhcpmon] Exit cleanly on fatal callback exceptions",
+        "repo": "sonic-dhcpmon"
+    },
+    {
+        "additions": 58,
+        "author": "jithinv86",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-29T19:20:14Z",
+        "number": 119,
+        "title": "[dhcpmon] Bound DHCPv6 option parsing against truncated packets",
+        "repo": "sonic-dhcpmon"
+    },
+    {
         "additions": 50,
         "author": "Xichen96",
         "baseRefName": "202411",

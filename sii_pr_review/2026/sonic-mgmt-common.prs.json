@@ -1,5 +1,104 @@
 [
     {
+        "additions": 3,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T10:52:57Z",
+        "number": 282,
+        "title": "Update module google.golang.org/grpc to v1.83.2 [SECURITY] (master)",
+        "repo": "sonic-mgmt-common"
+    },
+    {
+        "additions": 26,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T03:26:46Z",
+        "number": 281,
+        "title": "Update go security updates [SECURITY] (master) (minor)",
+        "repo": "sonic-mgmt-common"
+    },
+    {
+        "additions": 9,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T01:50:37Z",
+        "number": 280,
+        "title": "Renovate: merge labeled security updates with Renovate's own automerge",
+        "repo": "sonic-mgmt-common"
+    },
+    {
+        "additions": 159,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T02:15:45Z",
+        "number": 275,
+        "title": "Translate a parenthesized expression in a CVL predicate to Lua",
+        "repo": "sonic-mgmt-common"
+    },
+    {
+        "additions": 3,
+        "author": "yijingyan2",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-29T00:24:14Z",
+        "number": 272,
+        "title": "[ci] switch to sonic-ubuntu-1c agent pool",
+        "repo": "sonic-mgmt-common"
+    },
+    {
+        "additions": 82,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T19:30:53Z",
+        "number": 270,
+        "title": "Renovate: hold openconfig/gnmi for approval, and build with the container's Go",
+        "repo": "sonic-mgmt-common"
+    },
+    {
+        "additions": 35,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T21:43:42Z",
+        "number": 269,
+        "title": "Update go minor updates (master) (minor)",
+        "repo": "sonic-mgmt-common"
+    },
+    {
+        "additions": 8,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T02:34:18Z",
+        "number": 268,
+        "title": "Update module github.com/Workiva/go-datastructures to v1.0.54 (master)",
+        "repo": "sonic-mgmt-common"
+    },
+    {
+        "additions": 4,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-30T23:14:07Z",
+        "number": 265,
+        "title": "Update module github.com/redis/go-redis/v9 to v9.6.3 [SECURITY] (master)",
+        "repo": "sonic-mgmt-common"
+    },
+    {
+        "additions": 49,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-23T18:34:13Z",
+        "number": 262,
+        "title": "Add Renovate configuration",
+        "repo": "sonic-mgmt-common"
+    },
+    {
+        "additions": 515,
+        "author": "nishant111",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-13T06:18:55Z",
+        "number": 256,
+        "title": "Upgrade antchfx/xpath to v1.3.6 for  CVE-2026-32287",
+        "repo": "sonic-mgmt-common"
+    },
+    {
         "additions": 1,
         "author": "xq9mend",
         "baseRefName": "202605",
@@ -27,6 +126,15 @@
         "repo": "sonic-mgmt-common"
     },
     {
+        "additions": 1372,
+        "author": "aliyahhoda",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-12T15:28:54Z",
+        "number": 241,
+        "title": "Support for UMF Interfaces Model - PortChannel",
+        "repo": "sonic-mgmt-common"
+    },
+    {
         "additions": 967,
         "author": "bibhuprasad-hcl",
         "baseRefName": "master",
@@ -36,12 +144,48 @@
         "repo": "sonic-mgmt-common"
     },
     {
+        "additions": 128,
+        "author": "aliyahhoda",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-08T18:19:36Z",
+        "number": 233,
+        "title": "Support for UMF Interfaces Model - Wildcard Subscription",
+        "repo": "sonic-mgmt-common"
+    },
+    {
+        "additions": 1293,
+        "author": "ksravani-hcl",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-01T18:30:04Z",
+        "number": 231,
+        "title": "Support for UMF Interfaces Model -CPU model",
+        "repo": "sonic-mgmt-common"
+    },
+    {
+        "additions": 936,
+        "author": "niranjanivivek",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-06T13:18:52Z",
+        "number": 230,
+        "title": "Support for UMF Components Model Software Components",
+        "repo": "sonic-mgmt-common"
+    },
+    {
         "additions": 2256,
         "author": "aliyahhoda",
         "baseRefName": "master",
         "mergedAt": "2026-09-16T21:57:14Z",
         "number": 229,
         "title": "Support for UMF Interfaces Model - Front Panel Interfaces",
+        "repo": "sonic-mgmt-common"
+    },
+    {
+        "additions": 2578,
+        "author": "divyagayathri-hcl",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-28T23:55:24Z",
+        "number": 226,
+        "title": "Support for UMF Componenets Model - Transceivers",
         "repo": "sonic-mgmt-common"
     },
     {

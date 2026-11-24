@@ -1,5 +1,563 @@
 [
     {
+        "additions": 11,
+        "author": "wsycqyz",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T08:12:37Z",
+        "number": 5102,
+        "title": "[ci]: Free disk space on the hosted agent before the data build",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 167,
+        "author": "mhchann",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-19T20:14:28Z",
+        "number": 5082,
+        "title": "[reboot]: Reject unexpected arguments before rebooting",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 12,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T00:03:10Z",
+        "number": 5078,
+        "title": "Renovate: merge labeled security updates with Renovate's own automerge",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 2,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T21:44:34Z",
+        "number": 5073,
+        "title": "Update github/codeql-action action to v4 (master)",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 2,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T21:44:27Z",
+        "number": 5068,
+        "title": "Update actions/checkout action to v7 (master)",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 1,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T17:03:22Z",
+        "number": 5066,
+        "title": "Update actions/stale action to v10.4.0 (master)",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 281,
+        "author": "ronan-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-24T00:11:44Z",
+        "number": 5059,
+        "title": "Remove telemetry container references in favour of gnmi",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 4,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T02:00:10Z",
+        "number": 5055,
+        "title": "Add Renovate configuration",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 108,
+        "author": "elybarneams",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T06:18:37Z",
+        "number": 5040,
+        "title": "[sonic-installer]: Consolidate safe db pruning under --commit",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 87,
+        "author": "balaji-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T18:43:54Z",
+        "number": 5039,
+        "title": "[GCU] Refuse PFC_WD GLOBAL changes under a hardware PFC watchdog",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 11,
+        "author": "yijingyan2",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T06:32:49Z",
+        "number": 5037,
+        "title": "[ci]: Migrate pipeline build environment to Trixie",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 2,
+        "author": "Ryangwaite",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T19:24:48Z",
+        "number": 5036,
+        "title": "[tests] Explicitly Declare Scapy as a test dependency",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 172,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-09T19:15:02Z",
+        "number": 5035,
+        "title": "[action] [PR:4995] [portstat]: Count ingress buffer drops in Overruns Received",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 186,
+        "author": "mhchann",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T16:36:43Z",
+        "number": 5030,
+        "title": "[GCU]: Plan teardown for a newly added create-only field",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 92,
+        "author": "anamehra",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-19T02:59:21Z",
+        "number": 5027,
+        "title": "Prevent service restarts during committed reboot shutdown",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 2,
+        "author": "Junchao-Mellanox",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T02:10:15Z",
+        "number": 5026,
+        "title": "[hft] Enable CLI on SN6810_LD platforms",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 4,
+        "author": "antonio-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T17:49:35Z",
+        "number": 5025,
+        "title": "SONiC EOL and Deprecation Plan for 202611 -- Remove the Barefoot platform commands and collectors",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 277,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-05T15:13:52Z",
+        "number": 5024,
+        "title": "[action] [PR:4972] uboot bootloader get_installed_images fix for Issue-4968",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 216,
+        "author": "Fajunzhang",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T03:15:48Z",
+        "number": 5023,
+        "title": "[show] Support interface-based BGP neighbor queries for IPv4 and IPv6",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 287,
+        "author": "Fajunzhang",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T22:04:04Z",
+        "number": 5022,
+        "title": "[config] Preserve interface-name case for BGP shutdown and startup",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 150,
+        "author": "leaht22269",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T16:36:50Z",
+        "number": 5021,
+        "title": "fix: isolate diff state in GCU move generators",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 47,
+        "author": "yijingyan2",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-04T00:16:06Z",
+        "number": 5019,
+        "title": "[ci]: Replace injected diff coverage with pipeline-owned checks",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 198,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-04T15:46:28Z",
+        "number": 5017,
+        "title": "Avoid duplicate chrony restarts for NTP server updates",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 5,
+        "author": "balaji-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T17:21:30Z",
+        "number": 5016,
+        "title": "[Nexthop] Add NH-4010 and NH-4020 TH5 HWSKUs to GCU field operation validators",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 451,
+        "author": "nikamirrr",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T04:58:01Z",
+        "number": 5015,
+        "title": "[system-health] Run show system-health checks through the Rust binary",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 669,
+        "author": "Ryangwaite",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-05T21:51:54Z",
+        "number": 5013,
+        "title": "[202605][warm-reboot]: Preserve negotiated LACP retry counts during shutdown",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 20,
+        "author": "pinky-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T19:24:08Z",
+        "number": 5001,
+        "title": "[GCU] Fix PFC_WD GLOBAL POLL_INTERVAL add rejected by field validator",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 128,
+        "author": "gpunathilell",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T07:45:56Z",
+        "number": 4998,
+        "title": "[hft] Allow multiple telemetry profiles",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 39,
+        "author": "augusdn",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T04:21:59Z",
+        "number": 4996,
+        "title": "[consutil] Prevent clear from terminating another console line",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 172,
+        "author": "az-pz",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-28T01:12:55Z",
+        "number": 4995,
+        "title": "[portstat]: Count ingress buffer drops in Overruns Received",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 1,
+        "author": "justin-wong-ce",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-29T19:59:31Z",
+        "number": 4994,
+        "title": "Add Arista-7060X6-32PE SKU to gcu_field_operation_validators.conf.json",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 403,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T17:50:28Z",
+        "number": 4993,
+        "title": "Remove unsupported Quagga routing paths",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 228,
+        "author": "hdwhdw",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T23:59:33Z",
+        "number": 4988,
+        "title": "[smartswitch] Fix DPU HALT completion detection",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 559,
+        "author": "nazariig",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-12T23:53:23Z",
+        "number": 4987,
+        "title": "[mirror]: Add Mirror Session Label CLI",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 93,
+        "author": "yashnsinha-arista",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T21:31:02Z",
+        "number": 4986,
+        "title": "Add config bmc reset command from the switch host",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 1473,
+        "author": "Janetxxx",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-19T22:54:56Z",
+        "number": 4985,
+        "title": "[Port Mirror][CLI] Add per-port sampled ERSPAN bindings and sFlow exclusion",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 23,
+        "author": "abdosi",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T18:09:59Z",
+        "number": 4980,
+        "title": "[sfpshow] Display Pre-FEC BER current value from TRANSCEIVER_DOM_SENSOR in 'show interfaces transceiver eeprom -d'",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 207,
+        "author": "lolyu",
+        "baseRefName": "202605",
+        "mergedAt": "2026-10-27T00:14:09Z",
+        "number": 4979,
+        "title": "[202605][dualtor_neighbor_check]: Validate zero-MAC NO_HOST_ROUTE neighbors (#4975)",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 191,
+        "author": "gupurush",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-01T06:13:25Z",
+        "number": 4976,
+        "title": "[config][chassis_modules] Stop fabric ASIC services before powering off the card",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 209,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-22T06:06:45Z",
+        "number": 4975,
+        "title": "[dualtor_neighbor_check]: Validate zero-MAC NO_HOST_ROUTE neighbors",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 277,
+        "author": "seveerap79",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-28T12:22:45Z",
+        "number": 4972,
+        "title": "uboot bootloader get_installed_images fix for Issue-4968",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 198,
+        "author": "nikamirrr",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-07T07:17:12Z",
+        "number": 4970,
+        "title": "[techsupport] Do not run the BMC debug log dump in noop mode",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 620,
+        "author": "Ryangwaite",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T21:51:20Z",
+        "number": 4960,
+        "title": "[warm-reboot]: Preserve negotiated LACP retry counts during shutdown",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 211,
+        "author": "nhegde-microsoft",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-21T18:13:43Z",
+        "number": 4917,
+        "title": "[cSONiC] Make show CLI work in docker-sonic-vs neighbors",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 55,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T18:03:03Z",
+        "number": 4916,
+        "title": "[fdbshow] Treat an all-zero endpoint address as no endpoint",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 80,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-10-07T00:14:49Z",
+        "number": 4915,
+        "title": "[action] [PR:4652] acl-loader: Skip adding `IP_TYPE` on ACLs that don't support it",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "202511",
+        "mergedAt": "2026-10-06T23:14:01Z",
+        "number": 4914,
+        "title": "[action] [PR:4645] [GCU] Add Arista-7280DR3AM-36 (j2c+) to PFC_WD GCU validator hwsku map",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 148,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-08T00:55:40Z",
+        "number": 4912,
+        "title": "redis: use Unix sockets for local utility clients",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 962,
+        "author": "william8545",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T23:25:27Z",
+        "number": 4906,
+        "title": "[reboot]: Support BMC-initiated switch-host pre-shutdown",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 76,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-07T17:42:30Z",
+        "number": 4902,
+        "title": "[fast-reboot] Check for a leftover CPA tunnel only when setting up CPA",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 2550,
+        "author": "rameshraghupathy",
+        "baseRefName": "202605",
+        "mergedAt": "2026-11-06T01:24:00Z",
+        "number": 4901,
+        "title": "[202605][sonic-installer][reboot] Backport platform.json-driven disk-space and SWAP checks (#4598, #4850)",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 212,
+        "author": "nitin-kalavala",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-20T17:21:58Z",
+        "number": 4900,
+        "title": "[config] Support L3VNI mapping for default VRF",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 83,
+        "author": "vinamra-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-12T17:46:25Z",
+        "number": 4898,
+        "title": "[pfcwd] Reject start detection/restoration time below poll interval",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 24,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-10-01T07:14:26Z",
+        "number": 4897,
+        "title": "[action] [PR:4625] [Port Mirror][CLI] Align ERSPAN sample_rate range with YANG model",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 61,
+        "author": "pkawatkar14",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-02T22:48:54Z",
+        "number": 4895,
+        "title": "[config] Warn when selecting SNMPv3 MD5 authentication",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 0,
+        "author": "zedzean",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-07T01:30:10Z",
+        "number": 4893,
+        "title": "fast-reboot: remove Nephos module shutdown",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 425,
+        "author": "anamehra",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T18:05:15Z",
+        "number": 4891,
+        "title": "show interfaces status: include chassis-packet supervisor",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 103,
+        "author": "gauravnagesh-msft",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-09T23:34:59Z",
+        "number": 4889,
+        "title": "[monit scripts/disk_check]: Fix RO detection blocking tacacs login",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 20,
+        "author": "DavidZagury",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-14T21:36:27Z",
+        "number": 4888,
+        "title": "service_mgmt.sh.j2: recover a container orphaned by a mid-start stop",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 84,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-02T01:04:08Z",
+        "number": 4884,
+        "title": "Verify SSH host keys for package manifest downloads",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 247,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-02T01:05:18Z",
+        "number": 4883,
+        "title": "storyteller: constrain log directory and prefix",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 94,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-02T01:06:52Z",
+        "number": 4882,
+        "title": "scripts: isolate inline Python helpers",
+        "repo": "sonic-utilities"
+    },
+    {
         "additions": 10,
         "author": "mssonicbld",
         "baseRefName": "202511",
@@ -27,12 +585,39 @@
         "repo": "sonic-utilities"
     },
     {
+        "additions": 7437,
+        "author": "ArthurMicas",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-28T05:45:39Z",
+        "number": 4864,
+        "title": "Add common cpoutil command",
+        "repo": "sonic-utilities"
+    },
+    {
         "additions": 121,
         "author": "pkawatkar14",
         "baseRefName": "master",
         "mergedAt": "2026-09-22T23:57:24Z",
         "number": 4863,
         "title": "nbrshow: fix CLI argument injection via shell=True",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 226,
+        "author": "judyjoseph",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T23:59:53Z",
+        "number": 4860,
+        "title": "Add Major system leak support - sonicBMC",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 41,
+        "author": "rajkumar1-arista",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-22T03:57:24Z",
+        "number": 4858,
+        "title": "Tolerate ENOENT in vlanintf_validator ip neigh flush (#4809)",
         "repo": "sonic-utilities"
     },
     {
@@ -45,6 +630,15 @@
         "repo": "sonic-utilities"
     },
     {
+        "additions": 538,
+        "author": "SahilChaudhari",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T22:18:22Z",
+        "number": 4850,
+        "title": "Read SWAP size and total memory threshold from platform.json",
+        "repo": "sonic-utilities"
+    },
+    {
         "additions": 208,
         "author": "pkawatkar14",
         "baseRefName": "master",
@@ -54,12 +648,57 @@
         "repo": "sonic-utilities"
     },
     {
+        "additions": 28,
+        "author": "dovsianko-nvda",
+        "baseRefName": "202511",
+        "mergedAt": "2026-10-20T16:53:25Z",
+        "number": 4845,
+        "title": "[Cherry-pick][202511]Speed up techsupport collection",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 2,
+        "author": "YairRaviv",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-05T13:40:46Z",
+        "number": 4844,
+        "title": "[Doc] Updated description of 'show interfaces label-port status' command in CLI command reference",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 1,
+        "author": "nikamirrr",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-14T21:49:43Z",
+        "number": 4841,
+        "title": "[generate_dump] Collect get_component_versions.py on the NVIDIA BMC",
+        "repo": "sonic-utilities"
+    },
+    {
         "additions": 1,
         "author": "yifei-micas",
         "baseRefName": "master",
         "mergedAt": "2026-09-20T13:03:34Z",
         "number": 4837,
         "title": "[Micas] Add M2-W6940 HWSKUs to GCU field operation validators",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 53,
+        "author": "justin-wong-ce",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-27T18:24:01Z",
+        "number": 4834,
+        "title": "7060CX device state migration via upgrade",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 581,
+        "author": "tahmed-dev",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-20T17:02:27Z",
+        "number": 4833,
+        "title": "[fdb]: Add CLI to select the MAC synchronization mode",
         "repo": "sonic-utilities"
     },
     {
@@ -198,6 +837,15 @@
         "repo": "sonic-utilities"
     },
     {
+        "additions": 367,
+        "author": "benle7",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-19T06:31:29Z",
+        "number": 4807,
+        "title": "[SONiC BMC] Align BMC CLIs to use the per-HwSKU BMC OS",
+        "repo": "sonic-utilities"
+    },
+    {
         "additions": 15,
         "author": "xq9mend",
         "baseRefName": "master",
@@ -216,6 +864,15 @@
         "repo": "sonic-utilities"
     },
     {
+        "additions": 54,
+        "author": "justin-wong-ce",
+        "baseRefName": "202605",
+        "mergedAt": "2026-10-27T18:16:04Z",
+        "number": 4801,
+        "title": "[202605] 7060CX device state migration via upgrade",
+        "repo": "sonic-utilities"
+    },
+    {
         "additions": 31,
         "author": "ashutosh-agrawal",
         "baseRefName": "master",
@@ -231,6 +888,15 @@
         "mergedAt": "2026-08-24T07:15:32Z",
         "number": 4797,
         "title": "[action] [PR:4783] [route_check] Close the vtysh read end before waiting on a parse failure",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 83,
+        "author": "mlok-nokia",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-21T17:34:13Z",
+        "number": 4793,
+        "title": "[chassis][show_techsupport] Enhance generate_dump to save CHASSIS_APP_DB, CHASSIS_STATE_DB and Fabric info",
         "repo": "sonic-utilities"
     },
     {
@@ -360,6 +1026,15 @@
         "repo": "sonic-utilities"
     },
     {
+        "additions": 491,
+        "author": "saksarav-nokia",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-29T05:37:28Z",
+        "number": 4771,
+        "title": "Speed up show ip route on large multi-ASIC RIBs",
+        "repo": "sonic-utilities"
+    },
+    {
         "additions": 44,
         "author": "drozenblum",
         "baseRefName": "master",
@@ -414,6 +1089,15 @@
         "repo": "sonic-utilities"
     },
     {
+        "additions": 144,
+        "author": "Rod-Persky",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T23:20:12Z",
+        "number": 4743,
+        "title": "[tacacs]: Add SSH client TraceId configuration CLI",
+        "repo": "sonic-utilities"
+    },
+    {
         "additions": 8769,
         "author": "nikamirrr",
         "baseRefName": "master",
@@ -447,6 +1131,15 @@
         "mergedAt": "2026-08-03T19:07:55Z",
         "number": 4731,
         "title": "[generic_config_updater]: Fix emptying a leaf-list writing an invalid value to CONFIG_DB",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 34,
+        "author": "YairRaviv",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-11T10:42:22Z",
+        "number": 4730,
+        "title": "Preserve IPv6 connected routes during fast-reboot",
         "repo": "sonic-utilities"
     },
     {
@@ -504,6 +1197,15 @@
         "repo": "sonic-utilities"
     },
     {
+        "additions": 57,
+        "author": "anamehra",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T04:10:52Z",
+        "number": 4717,
+        "title": "utilities: support cisco ASIC name",
+        "repo": "sonic-utilities"
+    },
+    {
         "additions": 1,
         "author": "bining-nexthop",
         "baseRefName": "master",
@@ -549,6 +1251,15 @@
         "repo": "sonic-utilities"
     },
     {
+        "additions": 1903,
+        "author": "elybarneams",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T21:15:45Z",
+        "number": 4701,
+        "title": "[sonic-installer] Prune stale UEFI Secure Boot db certificates on image removal",
+        "repo": "sonic-utilities"
+    },
+    {
         "additions": 185,
         "author": "elybarneams",
         "baseRefName": "master",
@@ -585,6 +1296,15 @@
         "repo": "sonic-utilities"
     },
     {
+        "additions": 236,
+        "author": "ShauliTaragin",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-26T18:46:00Z",
+        "number": 4692,
+        "title": "[SED] Wipe SSD CLI",
+        "repo": "sonic-utilities"
+    },
+    {
         "additions": 2,
         "author": "mssonicbld",
         "baseRefName": "202605",
@@ -609,6 +1329,15 @@
         "mergedAt": "2026-08-12T17:18:16Z",
         "number": 4686,
         "title": "log_ssd_health: detect storage device from /host",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 358,
+        "author": "nats-nokia",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-11T00:09:38Z",
+        "number": 4685,
+        "title": "[console] Add new commands for Console Logging feature in CONSOLE_PORT",
         "repo": "sonic-utilities"
     },
     {
@@ -672,6 +1401,15 @@
         "mergedAt": "2026-07-13T08:12:13Z",
         "number": 4668,
         "title": "fix GCU patch sorter crash on create-only field change referenced by a leaf-list",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 218,
+        "author": "DavidZagury",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-20T23:16:18Z",
+        "number": 4663,
+        "title": "[hft] Target per-key path in JSON Patch ops to avoid wiping the table",
         "repo": "sonic-utilities"
     },
     {
@@ -765,12 +1503,30 @@
         "repo": "sonic-utilities"
     },
     {
+        "additions": 1,
+        "author": "LinJin23",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-01T02:12:07Z",
+        "number": 4645,
+        "title": "[GCU] Add Arista-7280DR3AM-36 (j2c+) to PFC_WD GCU validator hwsku map",
+        "repo": "sonic-utilities"
+    },
+    {
         "additions": 402,
         "author": "saksarav-nokia",
         "baseRefName": "master",
         "mergedAt": "2026-07-24T19:39:06Z",
         "number": 4641,
         "title": "Add isolate reason, isolated link count, and -nz filtering for fabric cli commands",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 464,
+        "author": "nkanchi-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T21:34:27Z",
+        "number": 4640,
+        "title": "Fec counters clear function",
         "repo": "sonic-utilities"
     },
     {
@@ -1269,6 +2025,15 @@
         "repo": "sonic-utilities"
     },
     {
+        "additions": 236,
+        "author": "miatttao",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-05T21:35:02Z",
+        "number": 4528,
+        "title": "[show/vnet] Add pretty print wrapping for local/non-tunnel routes",
+        "repo": "sonic-utilities"
+    },
+    {
         "additions": 81,
         "author": "vivekkarri",
         "baseRefName": "master",
@@ -1428,6 +2193,15 @@
         "mergedAt": "2026-04-24T18:13:57Z",
         "number": 4493,
         "title": "[action] [PR:4472] Fix Pensando DPU reboot handling in smartswitch operations",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 765,
+        "author": "rajath-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-20T05:06:44Z",
+        "number": 4490,
+        "title": "Add show copp stats and sonic-clear copp for CoPP policer stats",
         "repo": "sonic-utilities"
     },
     {
@@ -2004,6 +2778,15 @@
         "mergedAt": "2026-04-16T07:20:44Z",
         "number": 4386,
         "title": "Add multi-asic support for mirror_session commands",
+        "repo": "sonic-utilities"
+    },
+    {
+        "additions": 932,
+        "author": "arawat-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T07:43:31Z",
+        "number": 4384,
+        "title": "[pfcwd]: Add hardware PFC watchdog CLI support (with unit tests)",
         "repo": "sonic-utilities"
     },
     {

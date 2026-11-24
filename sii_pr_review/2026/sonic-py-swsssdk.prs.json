@@ -1,5 +1,41 @@
 [
     {
+        "additions": 12,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T00:03:46Z",
+        "number": 172,
+        "title": "Renovate: merge labeled security updates with Renovate's own automerge",
+        "repo": "sonic-py-swsssdk"
+    },
+    {
+        "additions": 4,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T15:55:19Z",
+        "number": 166,
+        "title": "Add Renovate configuration",
+        "repo": "sonic-py-swsssdk"
+    },
+    {
+        "additions": 3,
+        "author": "yijingyan2",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-08T00:26:58Z",
+        "number": 165,
+        "title": "[ci] switch to sonic-ubuntu-1c agent pool",
+        "repo": "sonic-py-swsssdk"
+    },
+    {
+        "additions": 14,
+        "author": "yijingyan2",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-15T03:33:52Z",
+        "number": 163,
+        "title": "[ci] migrate from buster to trixie container",
+        "repo": "sonic-py-swsssdk"
+    },
+    {
         "additions": 2,
         "author": "mssonicbld",
         "baseRefName": "202605",

@@ -1,0 +1,275 @@
+/:
+  BYGX-wcr: 0.8473
+  bhouse-nexthop: 4.9184
+  dypet: 3.9078
+  erer1243: 0.0632
+  lihuay: 0.335
+  qiluo-msft: 2.6612
+  r12f: 5.1418
+  renovate-approve: 1.9598
+  vivekkarri: 10.6701
+  yijingyan2: 0.5443
+  yue-fred-gao: 5.3839
+  yxieca: 0.5416
+  zjswhhh: 19.6357
+/.github/:
+  bhouse-nexthop: 0.9846
+  lihuay: 0.335
+  qiluo-msft: 0.3107
+  vivekkarri: 0.528
+  yue-fred-gao: 0.5015
+  zjswhhh: 1.4404
+/.github/skills/:
+  vivekkarri: 0.528
+  zjswhhh: 0.5277
+/.github/skills/build-dash-ha-container/:
+  zjswhhh: 0.5277
+/.github/skills/build-test-dash-ha/:
+  vivekkarri: 0.528
+  zjswhhh: 0.5277
+/.github/skills/deploy-dash-ha/:
+  vivekkarri: 0.528
+  zjswhhh: 0.5277
+/.github/skills/sonic-mgmt-int-testing/:
+  zjswhhh: 0.5277
+/.github/workflows/:
+  bhouse-nexthop: 0.9846
+  qiluo-msft: 0.1569
+  zjswhhh: 0.1569
+/crates/:
+  bhouse-nexthop: 1.9647
+  dypet: 3.9078
+  qiluo-msft: 1.384
+  r12f: 4.9452
+  vivekkarri: 10.6701
+  yue-fred-gao: 4.3514
+  zjswhhh: 17.0303
+/crates/container/:
+  qiluo-msft: 0.4175
+  r12f: 0.3941
+/crates/container/src/:
+  qiluo-msft: 0.1655
+  r12f: 0.2437
+/crates/hamgrd/:
+  dypet: 2.7191
+  qiluo-msft: 1.384
+  r12f: 1.8444
+  vivekkarri: 8.7133
+  yue-fred-gao: 2.6744
+  zjswhhh: 12.7591
+/crates/hamgrd/src/:
+  dypet: 2.7191
+  qiluo-msft: 1.132
+  r12f: 1.694
+  vivekkarri: 8.7133
+  yue-fred-gao: 2.6744
+  zjswhhh: 12.7591
+/crates/hamgrd/src/actors/:
+  dypet: 2.0753
+  qiluo-msft: 0.9665
+  r12f: 1.403
+  vivekkarri: 8.2229
+  yue-fred-gao: 2.495
+  zjswhhh: 11.5504
+/crates/hamgrd/src/actors/ha_scope/:
+  qiluo-msft: 0.9665
+  vivekkarri: 6.5421
+  yue-fred-gao: 1.0884
+  zjswhhh: 6.0835
+/crates/sonic-common/:
+  dypet: 0.3359
+  qiluo-msft: 1.2185
+  r12f: 0.75
+  yue-fred-gao: 0.9301
+  zjswhhh: 1.0357
+/crates/sonic-common/src/:
+  dypet: 0.3359
+  qiluo-msft: 0.9665
+  r12f: 0.5997
+  yue-fred-gao: 0.9301
+  zjswhhh: 1.0357
+/crates/sonic-dash-api-proto/:
+  dypet: 0.3759
+  yue-fred-gao: 0.5396
+  zjswhhh: 0.3907
+/crates/sonic-dash-api-proto/src/:
+  yue-fred-gao: 0.5396
+/crates/sonicdb-derive/:
+  bhouse-nexthop: 0.9846
+  dypet: 0.3359
+  qiluo-msft: 0.252
+  r12f: 0.4355
+  yue-fred-gao: 0.158
+  zjswhhh: 0.4721
+/crates/sonicdb-derive/src/:
+  dypet: 0.3359
+  r12f: 0.2852
+  yue-fred-gao: 0.158
+  zjswhhh: 0.4721
+/crates/sonicdb-derive/tests/:
+  r12f: 0.1361
+  yue-fred-gao: 0.158
+  zjswhhh: 0.1361
+/crates/swbus-actor/:
+  dypet: 0.3831
+  qiluo-msft: 0.252
+  r12f: 1.5416
+  vivekkarri: 0.4904
+  yue-fred-gao: 0.7573
+  zjswhhh: 3.066
+/crates/swbus-actor/src/:
+  dypet: 0.1915
+  r12f: 1.3912
+  vivekkarri: 0.4904
+  yue-fred-gao: 0.7573
+  zjswhhh: 2.8714
+/crates/swbus-actor/src/state/:
+  dypet: 0.1915
+  r12f: 0.8869
+  yue-fred-gao: 0.7573
+  zjswhhh: 2.7175
+/crates/swbus-actor/tests/:
+  dypet: 0.3831
+  r12f: 0.496
+  yue-fred-gao: 0.1278
+  zjswhhh: 1.1424
+/crates/swbus-cli/:
+  dypet: 0.4556
+  qiluo-msft: 0.252
+  r12f: 1.6523
+  yue-fred-gao: 0.3557
+  zjswhhh: 1.6611
+/crates/swbus-cli/src/:
+  dypet: 0.4556
+  r12f: 1.502
+  yue-fred-gao: 0.3557
+  zjswhhh: 1.6611
+/crates/swbus-cli/src/show/:
+  dypet: 0.2279
+  r12f: 0.4009
+  yue-fred-gao: 0.3557
+  zjswhhh: 1.0115
+/crates/swbus-cli/src/show/hamgrd/:
+  dypet: 0.2279
+  r12f: 0.2744
+  yue-fred-gao: 0.3557
+  zjswhhh: 0.885
+/crates/swbus-cli/src/show/swbusd/:
+  r12f: 0.1241
+  zjswhhh: 0.2992
+/crates/swbus-config/:
+  dypet: 0.2277
+  qiluo-msft: 0.252
+  r12f: 0.996
+  zjswhhh: 0.8255
+/crates/swbus-config/src/:
+  dypet: 0.2277
+  r12f: 0.8456
+  zjswhhh: 0.8255
+/crates/swbus-core/:
+  dypet: 0.4092
+  r12f: 1.0873
+  vivekkarri: 1.3218
+  zjswhhh: 2.9185
+/crates/swbus-core/src/:
+  dypet: 0.4092
+  r12f: 1.0873
+  vivekkarri: 1.3218
+  zjswhhh: 2.9185
+/crates/swbus-core/src/mux/:
+  dypet: 0.4092
+  r12f: 1.0873
+  vivekkarri: 1.3218
+  zjswhhh: 2.9185
+/crates/swbus-core/tests/:
+  dypet: 0.4092
+  r12f: 0.821
+  zjswhhh: 0.8377
+/crates/swbus-core/tests/common/:
+  dypet: 0.1815
+  r12f: 0.7169
+  zjswhhh: 0.6096
+/crates/swbus-core/tests/data/:
+  dypet: 0.4092
+  r12f: 0.3009
+  zjswhhh: 0.7113
+/crates/swbus-core/tests/data/b2b/:
+  dypet: 0.2277
+  zjswhhh: 0.4041
+/crates/swbus-core/tests/data/inter-cluster/:
+  dypet: 0.4092
+  zjswhhh: 0.5881
+/crates/swbus-edge/:
+  dypet: 0.1916
+  r12f: 1.4675
+  zjswhhh: 2.0634
+/crates/swbus-edge/src/:
+  dypet: 0.1916
+  r12f: 1.4675
+  zjswhhh: 2.0634
+/crates/swbus-edge/src/message_router/:
+  dypet: 0.1916
+  r12f: 0.0914
+  zjswhhh: 0.1946
+/crates/swbus-proto/:
+  dypet: 0.2277
+  qiluo-msft: 0.9665
+  r12f: 0.7171
+  zjswhhh: 0.9429
+/crates/swbus-proto/proto/:
+  r12f: 0.4229
+  zjswhhh: 0.7147
+/crates/swbus-proto/src/:
+  dypet: 0.2277
+  qiluo-msft: 0.9665
+  r12f: 0.6559
+  zjswhhh: 0.5273
+/crates/swbusd/:
+  r12f: 0.5562
+  zjswhhh: 0.5867
+/crates/swbusd/sample/:
+  r12f: 0.0904
+  zjswhhh: 0.1759
+/crates/swbusd/sample/inter-cluster/:
+  zjswhhh: 0.1759
+/crates/swbusd/src/:
+  r12f: 0.5562
+  zjswhhh: 0.4108
+/crates/swss-common-bridge/:
+  dypet: 0.8966
+  qiluo-msft: 0.252
+  r12f: 0.6594
+  vivekkarri: 0.6351
+  yue-fred-gao: 0.158
+  zjswhhh: 1.676
+/crates/swss-common-bridge/src/:
+  dypet: 0.8966
+  qiluo-msft: 0.252
+  r12f: 0.509
+  vivekkarri: 0.6351
+  yue-fred-gao: 0.158
+  zjswhhh: 1.676
+/crates/swss-serde/:
+  bhouse-nexthop: 0.9801
+  qiluo-msft: 0.252
+  r12f: 0.5096
+  zjswhhh: 0.7266
+/crates/swss-serde/src/:
+  r12f: 0.3592
+  zjswhhh: 0.7266
+/debian/:
+  qiluo-msft: 0.9665
+  r12f: 0.0904
+  yue-fred-gao: 0.2235
+  zjswhhh: 0.5441
+/scripts/:
+  yue-fred-gao: 0.2235
+  zjswhhh: 0.2282
+/test_utils/:
+  r12f: 0.9378
+  yue-fred-gao: 0.3624
+  zjswhhh: 1.0087
+/test_utils/hamgrd/:
+  r12f: 0.7874
+  yue-fred-gao: 0.3624
+  zjswhhh: 1.0087

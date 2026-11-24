@@ -1,0 +1,145 @@
+/:
+  AkeelAli: 0.1154
+  aaronber0614: 0.2178
+  dypet: 0.142
+  lolyu: 0.1244
+  nhegde-microsoft: 0.2019
+  yue-fred-gao: 1.0
+/.azure-pipelines/:
+  AkeelAli: 0.803
+/.git/:
+  nhegde-microsoft: 0.1094
+  yue-fred-gao: 0.6
+/docker-sonic-vpp/:
+  AkeelAli: 0.649
+  mmiklus: 0.5368
+/docker-sonic-vpp/buildinfo/:
+  AkeelAli: 0.6
+  mmiklus: 0.5368
+/docker-sonic-vpp/etc/:
+  AkeelAli: 0.6
+  mmiklus: 0.5368
+/docker-sonic-vpp/frr/:
+  AkeelAli: 0.6
+  mmiklus: 0.5368
+/docker-syncd-vpp/:
+  AkeelAli: 0.6239
+  yue-fred-gao: 1.0
+/docs/:
+  lolyu: 0.3262
+  yejianquan: 0.4714
+  yue-fred-gao: 1.0
+/docs/HLD/:
+  lolyu: 0.3262
+  yejianquan: 0.4714
+  yue-fred-gao: 1.0
+/platform/:
+  AkeelAli: 0.1064
+  yue-fred-gao: 0.6
+/platform/mkrules/:
+  yue-fred-gao: 0.6
+/platform/mkrules/dockers/:
+  yue-fred-gao: 0.6
+/platform/mkrules/src/:
+  yue-fred-gao: 0.6
+/platform/mkrules/src/sonic-sairedis/:
+  yue-fred-gao: 0.6
+/platform/mkrules/src/sonic-sairedis/debian/:
+  yue-fred-gao: 0.6
+/platform/mkrules/src/sonic-sairedis/saidiscovery/:
+  yue-fred-gao: 0.6
+/platform/mkrules/src/sonic-sairedis/saisdkdump/:
+  yue-fred-gao: 0.6
+/platform/mkrules/src/sonic-sairedis/tests/:
+  yue-fred-gao: 0.6
+/platform/mkrules/src/sonic-sairedis/unittest/:
+  yue-fred-gao: 0.6
+/platform/mkrules/src/sonic-swss/:
+  yue-fred-gao: 0.6
+/platform/vpp/:
+  AkeelAli: 0.6
+/platform/vpp/vppbld/:
+  AkeelAli: 0.6
+/platform/vpp/vppbld/plugins/:
+  AkeelAli: 0.6
+/platform/vpp/vppbld/plugins/tunterm_acl/:
+  AkeelAli: 0.6
+/rules/:
+  yue-fred-gao: 1.0
+/scripts/:
+  nhegde-microsoft: 0.1094
+  yue-fred-gao: 0.6
+/sonic-version/:
+  nhegde-microsoft: 0.1094
+  yue-fred-gao: 0.6
+/vppbld/:
+  AkeelAli: 0.2166
+  aaronber0614: 0.4049
+  dypet: 0.2219
+  lolyu: 0.2087
+  nhegde-microsoft: 0.4291
+  taran9999: 0.1342
+  yue-fred-gao: 1.0
+/vppbld/patches/:
+  aaronber0614: 0.3147
+  dypet: 0.3742
+  lolyu: 0.1819
+  nhegde-microsoft: 0.1411
+  taran9999: 0.2271
+  yejianquan: 0.2735
+  yue-fred-gao: 1.0
+/vppbld/plugins/:
+  AkeelAli: 0.2826
+  aaronber0614: 0.5582
+  dypet: 0.1693
+  lolyu: 0.2307
+  nhegde-microsoft: 0.5683
+  yue-fred-gao: 1.0
+/vppbld/plugins/src/:
+  AkeelAli: 0.1944
+  aaronber0614: 0.7825
+  dypet: 0.1596
+  lolyu: 0.2438
+  nhegde-microsoft: 0.4262
+  yue-fred-gao: 1.0
+/vppbld/plugins/src/ip_validate/:
+  AkeelAli: 0.9031
+  yue-fred-gao: 0.8193
+/vppbld/plugins/src/sonic_ext/:
+  AkeelAli: 0.1356
+  aaronber0614: 0.7936
+  dypet: 0.1599
+  lolyu: 0.2472
+  nhegde-microsoft: 0.4303
+  yue-fred-gao: 1.0
+/vppbld/plugins/src/tunterm_acl/:
+  AkeelAli: 0.5009
+  aaronber0614: 0.4844
+  dypet: 0.4104
+  lolyu: 0.5483
+  nhegde-microsoft: 0.1808
+  yue-fred-gao: 0.6
+/vppbld/plugins/tests/:
+  AkeelAli: 0.2868
+  aaronber0614: 0.4799
+  dypet: 0.1631
+  lolyu: 0.1778
+  nhegde-microsoft: 0.5754
+  taran9999: 0.1061
+  yue-fred-gao: 1.0
+/vppbld/plugins/tests/sonic_ext/:
+  AkeelAli: 0.2568
+  aaronber0614: 0.4834
+  dypet: 0.1644
+  lolyu: 0.1794
+  nhegde-microsoft: 0.5811
+  taran9999: 0.1075
+  yue-fred-gao: 1.0
+/vppbld/plugins/tests/tunterm_acl/:
+  AkeelAli: 0.624
+  aaronber0614: 0.2485
+  dypet: 0.4977
+  lolyu: 0.5129
+  nhegde-microsoft: 0.4126
+  taran9999: 0.1061
+  yue-fred-gao: 0.6

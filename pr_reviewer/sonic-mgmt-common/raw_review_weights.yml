@@ -1,0 +1,213 @@
+/:
+  Almah-Roshni-Dell: 0.0829
+  Gokulnath-Raja: 0.1167
+  StormLiangMS: 0.8549
+  Verma-Anukul: 0.8396
+  amrutasali: 0.1113
+  anand-kumar-subramanian: 0.4687
+  anilkpan: 0.1605
+  bhouse-nexthop: 1.9181
+  hdwhdw: 2.2121
+  kwangsuk: 6.1344
+  leeprecy: 0.0743
+  lguohan: 0.5102
+  lihuay: 0.335
+  mbalachandar: 0.513
+  ndas7: 9.0333
+  niranjanivivek: 0.8178
+  qiluo-msft: 5.299
+  renovate-approve: 1.9556
+  rlucus: 3.5896
+  sachinholla: 0.1712
+  saiarcot895: 0.7966
+  slicking: 0.0565
+  sneelam20: 6.0649
+  yxieca: 0.4029
+/.github/:
+  lihuay: 0.335
+  qiluo-msft: 0.936
+/.github/workflows/:
+  qiluo-msft: 0.936
+/config/:
+  amrutasali: 0.1113
+  anand-kumar-subramanian: 0.1113
+  anilkpan: 0.1605
+  kwangsuk: 3.4254
+  mbalachandar: 0.1113
+  ndas7: 5.0312
+  rlucus: 2.5978
+  sneelam20: 2.2785
+/config/transformer/:
+  amrutasali: 0.1113
+  anand-kumar-subramanian: 0.1113
+  anilkpan: 0.1605
+  kwangsuk: 3.4254
+  mbalachandar: 0.1113
+  ndas7: 5.0312
+  rlucus: 2.5978
+  sneelam20: 2.2785
+/cvl/:
+  Almah-Roshni-Dell: 0.0829
+  anand-kumar-subramanian: 0.1655
+  hdwhdw: 0.9371
+  kwangsuk: 0.0821
+  lguohan: 0.5102
+  saiarcot895: 0.4251
+  sneelam20: 0.4769
+/cvl/custom_validation/:
+  anand-kumar-subramanian: 0.0824
+  kwangsuk: 0.0821
+/cvl/internal/:
+  lguohan: 0.5102
+/cvl/internal/util/:
+  lguohan: 0.5102
+/cvl/internal/yparser/:
+  lguohan: 0.5102
+/cvl/testdata/:
+  Almah-Roshni-Dell: 0.0829
+  anand-kumar-subramanian: 0.1655
+  hdwhdw: 0.9371
+  kwangsuk: 0.0821
+/cvl/testdata/schema/:
+  Almah-Roshni-Dell: 0.0829
+  anand-kumar-subramanian: 0.1655
+  hdwhdw: 0.9371
+  kwangsuk: 0.0821
+/models/:
+  Gokulnath-Raja: 0.1167
+  Verma-Anukul: 0.8396
+  amrutasali: 0.1113
+  anand-kumar-subramanian: 0.1113
+  anilkpan: 0.1605
+  kwangsuk: 4.9486
+  leeprecy: 0.0743
+  mbalachandar: 0.3401
+  ndas7: 7.5709
+  niranjanivivek: 0.8178
+  rlucus: 2.6004
+  sachinholla: 0.1146
+  slicking: 0.0565
+  sneelam20: 4.5959
+/models/yang/:
+  Gokulnath-Raja: 0.1167
+  Verma-Anukul: 0.8396
+  amrutasali: 0.1113
+  anand-kumar-subramanian: 0.1113
+  anilkpan: 0.1605
+  kwangsuk: 4.9486
+  leeprecy: 0.0743
+  mbalachandar: 0.3401
+  ndas7: 7.5709
+  niranjanivivek: 0.8178
+  rlucus: 2.6004
+  sachinholla: 0.1146
+  slicking: 0.0565
+  sneelam20: 4.5959
+/models/yang/annotations/:
+  Verma-Anukul: 0.8396
+  amrutasali: 0.1113
+  anand-kumar-subramanian: 0.1113
+  anilkpan: 0.1605
+  kwangsuk: 3.8374
+  mbalachandar: 0.2253
+  ndas7: 5.8106
+  niranjanivivek: 0.8178
+  rlucus: 1.6278
+  sneelam20: 3.4574
+/models/yang/common/:
+  kwangsuk: 0.1629
+  leeprecy: 0.0743
+  rlucus: 0.0565
+  slicking: 0.0565
+  sneelam20: 0.0744
+/models/yang/extensions/:
+  Gokulnath-Raja: 0.1167
+  amrutasali: 0.1113
+  anand-kumar-subramanian: 0.1113
+  anilkpan: 0.1605
+  kwangsuk: 1.9306
+  mbalachandar: 0.2261
+  ndas7: 2.2551
+  niranjanivivek: 0.8178
+  sachinholla: 0.1146
+  sneelam20: 0.8529
+/models/yang/sonic/:
+  amrutasali: 0.1113
+  anand-kumar-subramanian: 0.1113
+  anilkpan: 0.1605
+  kwangsuk: 0.2675
+  mbalachandar: 0.1113
+/patches/:
+  StormLiangMS: 0.8549
+  hdwhdw: 0.9371
+  qiluo-msft: 0.8902
+  saiarcot895: 0.4251
+/tools/:
+  anand-kumar-subramanian: 0.1085
+  kwangsuk: 0.1085
+/tools/pyang/:
+  anand-kumar-subramanian: 0.1085
+  kwangsuk: 0.1085
+/tools/pyang/pyang_plugins/:
+  anand-kumar-subramanian: 0.1085
+  kwangsuk: 0.1085
+/translib/:
+  Gokulnath-Raja: 0.1167
+  Verma-Anukul: 0.8396
+  amrutasali: 0.1113
+  anand-kumar-subramanian: 0.1948
+  anilkpan: 0.1605
+  hdwhdw: 0.2135
+  kwangsuk: 5.781
+  leeprecy: 0.0743
+  mbalachandar: 0.513
+  ndas7: 8.4082
+  niranjanivivek: 0.8178
+  rlucus: 3.3662
+  sachinholla: 0.1712
+  slicking: 0.0565
+  sneelam20: 4.1599
+/translib/cs/:
+  ndas7: 0.3862
+  sneelam20: 0.4269
+/translib/db/:
+  kwangsuk: 0.1143
+  mbalachandar: 0.114
+  ndas7: 0.3862
+  sneelam20: 0.4269
+/translib/platform/:
+  kwangsuk: 0.7313
+  ndas7: 0.6724
+/translib/test/:
+  leeprecy: 0.0743
+  rlucus: 0.0565
+  slicking: 0.0565
+  sneelam20: 0.0744
+/translib/test/system/:
+  leeprecy: 0.0743
+  rlucus: 0.0565
+  slicking: 0.0565
+  sneelam20: 0.0744
+/translib/tlerr/:
+  ndas7: 0.2984
+  rlucus: 0.2965
+  sneelam20: 0.3615
+/translib/transformer/:
+  Gokulnath-Raja: 0.1167
+  Verma-Anukul: 0.8396
+  amrutasali: 0.1113
+  anand-kumar-subramanian: 0.1113
+  anilkpan: 0.1605
+  kwangsuk: 5.6979
+  mbalachandar: 0.4563
+  ndas7: 8.4082
+  niranjanivivek: 0.8178
+  rlucus: 3.3097
+  sachinholla: 0.1146
+  sneelam20: 4.027
+/translib/transformer/test/:
+  kwangsuk: 0.1143
+  mbalachandar: 0.114
+/translib/utils/:
+  anilkpan: 0.1605
+  kwangsuk: 0.1562

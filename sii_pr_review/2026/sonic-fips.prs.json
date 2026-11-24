@@ -1,5 +1,59 @@
 [
     {
+        "additions": 14,
+        "author": "lunyue-ms",
+        "baseRefName": "main",
+        "mergedAt": "2026-11-23T06:07:36Z",
+        "number": 100,
+        "title": "[golang]: Preserve authenticated FIPS archives during packaging",
+        "repo": "sonic-fips"
+    },
+    {
+        "additions": 4,
+        "author": "lunyue-ms",
+        "baseRefName": "main",
+        "mergedAt": "2026-11-20T05:37:09Z",
+        "number": 99,
+        "title": "[golang]: Upgrade FIPS Go to 1.26.10",
+        "repo": "sonic-fips"
+    },
+    {
+        "additions": 2,
+        "author": "xq9mend",
+        "baseRefName": "main",
+        "mergedAt": "2026-11-12T22:48:10Z",
+        "number": 97,
+        "title": "Align SymCrypt package revision with new FIPS bundle",
+        "repo": "sonic-fips"
+    },
+    {
+        "additions": 4,
+        "author": "xq9mend",
+        "baseRefName": "main",
+        "mergedAt": "2026-11-11T19:45:20Z",
+        "number": 96,
+        "title": "Restore SymCrypt 103.8.0 package pair",
+        "repo": "sonic-fips"
+    },
+    {
+        "additions": 2,
+        "author": "lunyue-ms",
+        "baseRefName": "main",
+        "mergedAt": "2026-10-13T22:28:41Z",
+        "number": 94,
+        "title": "[openssl]: Upgrade FIPS packages to Debian u3",
+        "repo": "sonic-fips"
+    },
+    {
+        "additions": 7,
+        "author": "lunyue-ms",
+        "baseRefName": "main",
+        "mergedAt": "2026-10-03T01:04:43Z",
+        "number": 93,
+        "title": "Upgrade Golang FIPS to 1.26.7",
+        "repo": "sonic-fips"
+    },
+    {
         "additions": 3,
         "author": "yijingyan2",
         "baseRefName": "main",

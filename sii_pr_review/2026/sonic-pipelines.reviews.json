@@ -1,5 +1,1416 @@
 [
     {
+        "number": 261,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-22T06:07:49Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 261,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-22T06:07:57Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 261,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-22T06:08:05Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 261,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-22T22:07:39Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 261,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-11-22T22:07:39Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 260,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-21T23:53:20Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 260,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-21T23:53:29Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 260,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-21T23:53:36Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 260,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-23T21:59:12Z",
+        "review_author": "qiluo-msft"
+    },
+    {
+        "number": 260,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-23T21:59:28Z",
+        "review_author": "qiluo-msft"
+    },
+    {
+        "number": 260,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-11-23T21:59:28Z",
+        "latestReview_author": "qiluo-msft",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 259,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-20T02:26:51Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 259,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-20T02:27:00Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 259,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-20T02:27:08Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 259,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-20T02:29:17Z",
+        "review_author": "yijingyan2"
+    },
+    {
+        "number": 259,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-11-20T02:29:17Z",
+        "latestReview_author": "yijingyan2",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 258,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-16T22:50:27Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 258,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-16T22:50:37Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 258,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-16T22:50:47Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 258,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-17T01:19:08Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 258,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-11-17T01:19:08Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 257,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-16T03:22:07Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 257,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-16T03:22:16Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 257,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-16T03:22:24Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 257,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-16T03:44:26Z",
+        "review_author": "wsycqyz"
+    },
+    {
+        "number": 257,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-11-16T03:44:26Z",
+        "latestReview_author": "wsycqyz",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 256,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-15T22:19:42Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 256,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-15T22:19:51Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 256,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-15T22:19:59Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 256,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-15T22:28:07Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 256,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-11-15T22:28:07Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 255,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-13T23:00:24Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 255,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-13T23:00:26Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 255,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-13T23:00:35Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 255,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-14T01:01:59Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 255,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-14T01:02:07Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 255,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-14T00:52:45Z",
+        "review_author": "copilot-pull-request-reviewer"
+    },
+    {
+        "number": 255,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-14T00:55:38Z",
+        "review_author": "qiluo-msft"
+    },
+    {
+        "number": 255,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-14T01:02:06Z",
+        "review_author": "bhouse-nexthop"
+    },
+    {
+        "number": 255,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-14T01:43:15Z",
+        "review_author": "qiluo-msft"
+    },
+    {
+        "number": 255,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-11-14T00:52:45Z",
+        "latestReview_author": "copilot-pull-request-reviewer",
+        "latestReview_state": "COMMENTED"
+    },
+    {
+        "number": 255,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-11-14T01:43:15Z",
+        "latestReview_author": "qiluo-msft",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 254,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T03:52:47Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 254,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T03:52:56Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 254,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T03:53:03Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 254,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-12T03:59:17Z",
+        "review_author": "yijingyan2"
+    },
+    {
+        "number": 254,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-12T03:59:29Z",
+        "review_author": "yijingyan2"
+    },
+    {
+        "number": 254,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-11-12T03:59:29Z",
+        "latestReview_author": "yijingyan2",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T01:58:07Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T01:58:17Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T01:58:24Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T02:02:00Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T02:02:08Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T02:18:01Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T02:18:09Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T02:26:07Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T02:26:15Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T02:32:44Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T02:32:51Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T02:50:38Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T02:50:45Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T02:59:50Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T02:59:58Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T03:09:30Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-12T03:09:37Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-13T23:44:41Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-13T23:44:49Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-13T23:39:25Z",
+        "review_author": "qiluo-msft"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-13T23:44:23Z",
+        "review_author": "bhouse-nexthop"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-13T23:52:11Z",
+        "review_author": "qiluo-msft"
+    },
+    {
+        "number": 253,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-11-13T23:52:11Z",
+        "latestReview_author": "qiluo-msft",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 252,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-08T22:22:26Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 252,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-08T22:22:35Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 252,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-08T22:22:44Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 252,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-08T22:23:54Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 252,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-11-08T22:23:54Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 251,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-07T01:42:48Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 251,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-07T01:42:57Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 251,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-07T01:43:05Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 251,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-10T19:06:32Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 251,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-10T19:06:42Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 251,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-10T19:08:03Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 251,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-10T19:08:13Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 251,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-11T21:28:12Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 251,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-11T21:28:19Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines will not run the associated pipelines, because the pull request was updated after the run command was issued. Review the pull request again and issue a new run command.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 251,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-10T20:14:54Z",
+        "review_author": "qiluo-msft"
+    },
+    {
+        "number": 251,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-10T22:12:45Z",
+        "review_author": "yijingyan2"
+    },
+    {
+        "number": 251,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-11T21:29:21Z",
+        "review_author": "bhouse-nexthop"
+    },
+    {
+        "number": 251,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-11-10T20:14:54Z",
+        "latestReview_author": "qiluo-msft",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 249,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-05T21:03:27Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 249,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-05T21:03:36Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 249,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-05T21:03:46Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 249,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-14T00:47:58Z",
+        "review_author": "qiluo-msft"
+    },
+    {
+        "number": 249,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-14T00:49:32Z",
+        "review_author": "copilot-pull-request-reviewer"
+    },
+    {
+        "number": 249,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-11-14T00:49:32Z",
+        "latestReview_author": "copilot-pull-request-reviewer",
+        "latestReview_state": "COMMENTED"
+    },
+    {
+        "number": 249,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-11-14T00:47:58Z",
+        "latestReview_author": "qiluo-msft",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 248,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-04T06:52:25Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 248,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-04T06:52:34Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 248,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-04T06:52:42Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 248,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-04T07:06:48Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 248,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-11-04T07:06:48Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 247,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-02T17:00:25Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 247,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-02T17:00:35Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 247,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-11-02T17:00:44Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 247,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-03T02:25:07Z",
+        "review_author": "qiluo-msft"
+    },
+    {
+        "number": 247,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-11-03T02:25:07Z",
+        "latestReview_author": "qiluo-msft",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 246,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-30T00:16:28Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 246,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-30T00:16:37Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 246,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-30T00:16:46Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 246,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-10-30T00:19:08Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 246,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-10-30T00:19:08Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 243,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-28T03:34:16Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 243,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-28T03:34:26Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 243,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-28T03:34:34Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 243,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-10-28T06:14:22Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 243,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-10-28T06:14:22Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 242,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-28T00:16:23Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 242,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-28T00:16:32Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 242,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-28T00:16:40Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 242,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-10-28T01:07:04Z",
+        "review_author": "qiluo-msft"
+    },
+    {
+        "number": 242,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-10-28T01:07:04Z",
+        "latestReview_author": "qiluo-msft",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 241,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-27T02:33:41Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 241,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-27T02:33:47Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 241,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-27T02:33:51Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 241,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-10-27T02:34:24Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 241,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-10-27T02:34:24Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 240,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-23T01:54:00Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 240,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-23T01:54:09Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 240,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-23T01:54:17Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 240,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-10-23T02:04:01Z",
+        "review_author": "yijingyan2"
+    },
+    {
+        "number": 240,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-10-23T02:04:01Z",
+        "latestReview_author": "yijingyan2",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 239,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-22T01:13:21Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 239,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-22T01:13:31Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 239,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-22T01:13:39Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 239,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-22T01:37:02Z",
+        "comment_author": "qiluo-msft",
+        "comment_body": "The robot's trust anchor for Renovate PRs is the PR author plus the `automerge` and `security` labels. Someone with write access can push a commit onto an open Renovate security PR (or have someone with triage add the labels to a major one), and the robot will merge it with `--admin` and no reviewer once checks pass. Consider also requiring every commit on the PR to be authored by `renovate[bot]` (or `github-actions[bot]` for the go.sum commit in sonic-gnmi); `gh pr list --json commits` already has what is needed.\n\nAlso, the shared preset sets no `minimumReleaseAge`, so repositories that don't set it themselves get no cooldown on non-security updates (sonic-gnmi#832 currently fails the required Semgrep rule `renovate-missing-minimum-release-age` for the same reason). Adding it to a `packageRules` entry in the preset would cover every repository; vulnerability alerts override it by default, so security updates are not delayed.\n"
+    },
+    {
+        "number": 239,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-22T02:24:28Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 239,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-22T02:24:38Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 239,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-22T02:25:02Z",
+        "comment_author": "bhouse-nexthop",
+        "comment_body": "Thanks, both done.\n\n**Commit authors.** Fixed in 9e38f3e, and it checks a bit more than the author. A pushed commit can name any author, `renovate[bot]` included, so the robot now merges a Renovate PR only when every commit on it is:\n- signed by GitHub (`wasSignedByGitHub`), and\n- authored by `renovate[bot]` or `github-actions[bot]`,\n\nand the last commit is the head it evaluated. GitHub signs the commits Renovate makes through its API. It doesn't sign a pushed commit, and a REST API commit naming `renovate[bot]` as its author also comes back unsigned. To make the sonic-gnmi `go.sum` fixup pass, it now commits through `createCommitOnBranch` instead of `git push` (sonic-net/sonic-gnmi#832, 714c4d0). That commit comes back GitHub-verified, and it fails if Renovate moved the branch in the meantime. The check passes against the live onboarding PRs sonic-net/sonic-mgmt-common#261 and sonic-net/sonic-gnmi#831. It fails a human PR, a Dependabot PR, a wrong head commit, and an unsigned commit that names `renovate[bot]`. `gh pr list --json commits` doesn't carry signatures, so this is one GraphQL call per Renovate PR. The HLD (7.6) and 13.1 cover it.\n\nOne gap is left. Someone with write access could push a workflow to another branch that makes a `github-actions[bot]` commit with `GITHUB_TOKEN`. Closing that needs a limit on who can run workflows, which is beyond what the robot can see.\n\n**Release age.** Added to the preset as a `matchPackageNames: [\"*\"]` rule, `minimumReleaseAge: 7 days`. `vulnerabilityAlerts` resets `minimumReleaseAge` to `null`, so security updates are not delayed. On sonic-gnmi#832 the Semgrep rule matches every `packageRules` entry that names packages, not the config as a whole. What fired there was the patched-module rule, even though the repository set `minimumReleaseAge` at the top level. Both patched-module rules now repeat the 7 days, and the top-level setting in sonic-gnmi is gone. Locally, the rule fails the old `renovate.json` and passes the new one, and `p/default` reports nothing.\n"
+    },
+    {
+        "number": 239,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-23T00:31:15Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 239,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-23T00:31:23Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 239,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-23T01:24:00Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 239,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-23T01:24:08Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 239,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-10-22T01:29:10Z",
+        "review_author": "qiluo-msft"
+    },
+    {
+        "number": 239,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-10-22T01:32:06Z",
+        "review_author": "qiluo-msft"
+    },
+    {
+        "number": 239,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-10-22T02:24:58Z",
+        "review_author": "bhouse-nexthop"
+    },
+    {
+        "number": 239,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-10-23T18:30:02Z",
+        "review_author": "qiluo-msft"
+    },
+    {
+        "number": 239,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-10-23T18:30:02Z",
+        "latestReview_author": "qiluo-msft",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 237,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-14T23:04:11Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 237,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-14T23:04:20Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 237,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-14T23:04:29Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 237,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-10-14T23:21:01Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 237,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-10-14T23:21:01Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 236,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-13T06:48:42Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 236,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-13T06:48:52Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 236,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-13T06:48:59Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 236,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-11-06T04:12:17Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 236,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-11-06T04:12:17Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 235,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-12T23:51:20Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 235,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-12T23:51:29Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 235,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-12T23:51:37Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 235,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-10-12T23:51:36Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 235,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-10-12T23:51:36Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 234,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-12T23:24:55Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 234,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-12T23:25:04Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 234,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-12T23:25:11Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 234,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-10-12T23:30:13Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 234,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-10-12T23:30:13Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 233,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-12T22:28:54Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 233,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-12T22:29:03Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 233,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-12T22:29:11Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 233,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-10-12T22:30:47Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 233,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-10-12T22:30:47Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 232,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-12T09:31:38Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 232,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-12T09:31:47Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 232,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-12T09:31:55Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 232,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-10-12T09:35:16Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 232,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-10-12T09:35:16Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 231,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-12T07:13:47Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 231,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-12T07:13:56Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 231,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-12T07:14:04Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 231,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-10-12T07:38:21Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 231,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-10-12T07:38:21Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 230,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-09T05:22:37Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 230,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-09T05:22:47Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 230,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-09T05:22:54Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 230,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-10-09T06:15:09Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 230,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-10-09T06:15:09Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 229,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-06T05:13:10Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 229,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-06T05:13:19Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 229,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-06T05:13:27Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 229,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-10-06T05:37:38Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 229,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-10-06T05:37:38Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 228,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-02T08:08:05Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 228,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-02T08:08:15Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 228,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-10-02T08:08:23Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 228,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-10-02T08:11:05Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 228,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-10-02T08:11:05Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 227,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-09-29T23:34:15Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 227,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-09-29T23:34:24Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 227,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-09-29T23:34:32Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 227,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-09-29T23:36:18Z",
+        "comment_author": "yijingyan2",
+        "comment_body": "/easycla"
+    },
+    {
+        "number": 227,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-09-29T23:36:44Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 227,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-09-29T23:36:44Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 226,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-09-29T08:22:59Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 226,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-09-29T08:23:08Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 226,
+        "repo": "sonic-pipelines",
+        "comment_at": "2026-09-29T08:23:16Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nNo pipelines were found matching this branch/path.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 226,
+        "repo": "sonic-pipelines",
+        "review_at": "2026-09-29T08:25:35Z",
+        "review_author": "lunyue-ms"
+    },
+    {
+        "number": 226,
+        "repo": "sonic-pipelines",
+        "latestReview_at": "2026-09-29T08:25:35Z",
+        "latestReview_author": "lunyue-ms",
+        "latestReview_state": "APPROVED"
+    },
+    {
         "number": 225,
         "repo": "sonic-pipelines",
         "comment_at": "2026-09-23T07:22:56Z",

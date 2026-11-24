@@ -1,11 +1,56 @@
 [
     {
+        "additions": 12,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T00:03:30Z",
+        "number": 143,
+        "title": "Renovate: merge labeled security updates with Renovate's own automerge",
+        "repo": "sonic-wpa-supplicant"
+    },
+    {
+        "additions": 6,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T15:55:45Z",
+        "number": 140,
+        "title": "Add Renovate configuration",
+        "repo": "sonic-wpa-supplicant"
+    },
+    {
+        "additions": 1650,
+        "author": "liamkearney-msft",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T02:15:32Z",
+        "number": 138,
+        "title": "MACsec: make SAK rollover safe across multiple peers",
+        "repo": "sonic-wpa-supplicant"
+    },
+    {
+        "additions": 19,
+        "author": "liamkearney-msft",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T01:30:18Z",
+        "number": 135,
+        "title": "MACsec: fix participant creation and SAK Use races",
+        "repo": "sonic-wpa-supplicant"
+    },
+    {
         "additions": 68,
         "author": "liamkearney-msft",
         "baseRefName": "liamkearney-msft-macsec-fallback-cak-c27",
         "mergedAt": "2026-09-03T10:58:51Z",
         "number": 131,
         "title": "MACsec: keep SAK Use scoped to its CA",
+        "repo": "sonic-wpa-supplicant"
+    },
+    {
+        "additions": 300,
+        "author": "rajshekhar-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-01T06:05:42Z",
+        "number": 122,
+        "title": "mka: escape CP TRANSMIT state on new SAK or connectivity change",
         "repo": "sonic-wpa-supplicant"
     },
     {

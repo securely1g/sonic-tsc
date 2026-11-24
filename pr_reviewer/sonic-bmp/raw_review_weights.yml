@@ -1,0 +1,49 @@
+/:
+  FengPan-Frank: 0.8791
+  hdwhdw: 0.3759
+  lihuay: 0.3351
+  qiluo-msft: 1.1543
+  r12f: 0.1134
+  rookie-who: 0.514
+  vaibhavhd: 0.5141
+  w1nda: 0.1134
+  xincunli-sonic: 0.0561
+  xq9mend: 0.376
+/.github/:
+  lihuay: 0.3351
+/Server/:
+  FengPan-Frank: 0.8791
+  hdwhdw: 0.3759
+  qiluo-msft: 1.096
+  r12f: 0.1134
+  w1nda: 0.1134
+  xincunli-sonic: 0.0561
+  xq9mend: 0.376
+/Server/src/:
+  FengPan-Frank: 0.8791
+  hdwhdw: 0.3759
+  qiluo-msft: 1.096
+  r12f: 0.1134
+  w1nda: 0.1134
+  xincunli-sonic: 0.0561
+  xq9mend: 0.376
+/Server/src/bgp/:
+  qiluo-msft: 0.0578
+  xincunli-sonic: 0.0561
+/Server/src/bmp/:
+  FengPan-Frank: 0.8791
+  qiluo-msft: 0.8633
+/Server/src/kafka/:
+  FengPan-Frank: 0.8791
+  qiluo-msft: 0.8633
+/Server/src/redis/:
+  qiluo-msft: 0.1192
+  xincunli-sonic: 0.0561
+/Server/tests/:
+  FengPan-Frank: 0.8791
+  qiluo-msft: 0.8633
+/debian/:
+  qiluo-msft: 0.0583
+/docs/:
+  FengPan-Frank: 0.8791
+  qiluo-msft: 0.8633

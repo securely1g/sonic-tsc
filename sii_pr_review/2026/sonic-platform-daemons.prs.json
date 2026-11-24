@@ -1,11 +1,191 @@
 [
     {
+        "additions": 10,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T21:49:42Z",
+        "number": 963,
+        "title": "Update Rust crate syslog to v7 (master)",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 2,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T21:49:36Z",
+        "number": 962,
+        "title": "Update crate minor updates (master) (minor)",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 18,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T21:49:31Z",
+        "number": 960,
+        "title": "Update crate patch updates (master) (patch)",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 4,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T11:15:12Z",
+        "number": 959,
+        "title": "Update Rust crate tokio to v1.53.3 [SECURITY] (master)",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 12,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T00:03:20Z",
+        "number": 955,
+        "title": "Renovate: merge labeled security updates with Renovate's own automerge",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 2,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T21:43:53Z",
+        "number": 952,
+        "title": "Update github/codeql-action action to v4 (master)",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 2,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T21:43:47Z",
+        "number": 950,
+        "title": "Update actions/checkout action to v7 (master)",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 6,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T15:55:13Z",
+        "number": 948,
+        "title": "Add Renovate configuration",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 96,
+        "author": "ArthurMicas",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-19T03:14:24Z",
+        "number": 945,
+        "title": "[xcvrd] Fix CPO device lookup in shared media-settings paths",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 289,
+        "author": "judyjoseph",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T21:23:51Z",
+        "number": 943,
+        "title": "Implement handling of leak injected by test leak APIs",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 375,
+        "author": "pnakka28",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T18:19:24Z",
+        "number": 938,
+        "title": "[xcvrd]: Apply module TP1/TP4 precoding from optics_si_settings.json",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 1272,
+        "author": "bgallagher-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-12T22:38:24Z",
+        "number": 933,
+        "title": "[CPO] Add CpoDomInfoUpdateTask",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 122,
+        "author": "mike-dubrovsky",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T23:41:22Z",
+        "number": 931,
+        "title": "[xcvrd]  Every 2 seconds  KEYS scan of APPL_DB for gearbox (high Redis CPU at scale)",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 108,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-10-01T04:14:51Z",
+        "number": 921,
+        "title": "[action] [PR:911] [CMIS] Add UT for the successful decommission path",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 17016,
+        "author": "ganglyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T10:00:42Z",
+        "number": 915,
+        "title": "[pmon]: Port thermalctld to Rust",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 33,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-28T19:14:52Z",
+        "number": 912,
+        "title": "[action] [PR:897] [xcvrd]: Skip decommission when all staged AppSel values are zero",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 106,
+        "author": "wsycqyz",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-28T14:15:36Z",
+        "number": 911,
+        "title": "[CMIS] Add UT for the successful decommission path",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 42,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-10-01T05:13:50Z",
+        "number": 906,
+        "title": "[action] [PR:842] [CMIS] Continue CMIS state even if Decommission fails",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 59,
+        "author": "zjswhhh",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-28T17:57:44Z",
+        "number": 905,
+        "title": "[ycabled]: Prefer CONFIG_DB gRPC certificate settings",
+        "repo": "sonic-platform-daemons"
+    },
+    {
         "additions": 33,
         "author": "mssonicbld",
         "baseRefName": "202511",
         "mergedAt": "2026-09-22T19:15:06Z",
         "number": 902,
         "title": "[action] [PR:897] [xcvrd]: Skip decommission when all staged AppSel values are zero",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 57,
+        "author": "gordon-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T22:40:51Z",
+        "number": 899,
+        "title": "[pcied] Honour PCIE_DETACH_INFO on platforms that are not smartswitches",
         "repo": "sonic-platform-daemons"
     },
     {
@@ -24,6 +204,15 @@
         "mergedAt": "2026-09-22T01:53:05Z",
         "number": 897,
         "title": "[xcvrd]: Skip decommission when all staged AppSel values are zero",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 783,
+        "author": "judyjoseph",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T16:55:49Z",
+        "number": 896,
+        "title": "Add Major system leak support - sonicBMC",
         "repo": "sonic-platform-daemons"
     },
     {
@@ -60,6 +249,42 @@
         "mergedAt": "2026-08-30T23:36:30Z",
         "number": 885,
         "title": "[action] [PR:818] [PMON] Bmcctld improvements & thermalctld: push thermals from Switch-Host --> BMC",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 1211,
+        "author": "bgallagher-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-23T18:45:30Z",
+        "number": 884,
+        "title": "[CPO] Add CpoStateUpdateTask",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 188,
+        "author": "harjotsinghpawra",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-31T02:07:36Z",
+        "number": 882,
+        "title": "[ycabled][active-standby] Ignore transceiver updates for initialized MUX simulator.",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 153,
+        "author": "judyjoseph",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-12T17:25:46Z",
+        "number": 880,
+        "title": "Add handler in bmcctld for RACK_MANAGER_DATA_TABLE for rack manager telemetry",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 324,
+        "author": "judyjoseph",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-19T18:20:20Z",
+        "number": 879,
+        "title": "[BMC] Thermalctld hardening and fixes",
         "repo": "sonic-platform-daemons"
     },
     {
@@ -258,6 +483,15 @@
         "mergedAt": "2026-06-16T17:14:17Z",
         "number": 838,
         "title": "[action] [PR:827] azure-pipelines: install only libyang3 (drop libyang1)",
+        "repo": "sonic-platform-daemons"
+    },
+    {
+        "additions": 230,
+        "author": "zjswhhh",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-19T19:13:00Z",
+        "number": 836,
+        "title": "[ycabled]: Add IPv6 only active-active SoC gRPC",
         "repo": "sonic-platform-daemons"
     },
     {

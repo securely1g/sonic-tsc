@@ -1,5 +1,464 @@
 [
     {
+        "additions": 7,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-20T17:43:26Z",
+        "number": 5149,
+        "title": "dvs: fix FRR supervisor startup and preserve container diagnostics",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 153,
+        "author": "nazariig",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T22:40:45Z",
+        "number": 5122,
+        "title": "[mirror]: Skip HW resources check for warm-restored sessions",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 5,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T18:00:06Z",
+        "number": 5113,
+        "title": "[tests]: Restart neighsyncd in the dual-ToR VLAN fixture of test_neighbor.py",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 10,
+        "author": "Xichen96",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T17:49:54Z",
+        "number": 5093,
+        "title": "[neighsyncd]: Configure the cached role in unit-test setup",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 63,
+        "author": "balaji-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T22:08:22Z",
+        "number": 5092,
+        "title": "[pfcwdhworch] Stop rewriting a deferred port's state on every retry",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 102,
+        "author": "balaji-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T22:07:56Z",
+        "number": 5091,
+        "title": "[pfcwdhworch] Retry a start with a new action while the stop is still tearing down",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 39,
+        "author": "balaji-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-21T01:46:12Z",
+        "number": 5090,
+        "title": "[pfcwdhworch] clear stale hardware watchdog state at startup",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 104,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-04T01:12:07Z",
+        "number": 5083,
+        "title": "[fpmsyncd] Reset the VNI and router MAC for each EVPN ECMP next hop",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 11,
+        "author": "prabhataravind",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-30T18:00:37Z",
+        "number": 5076,
+        "title": "[copp]: Align VS tests with LLDP and UDLD queue3 mapping",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 154,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T17:15:22Z",
+        "number": 5075,
+        "title": "[neighsync]: Remove failed neighbor entry when a VLAN neighbor is deleted",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 184,
+        "author": "gpunathilell",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-20T23:31:20Z",
+        "number": 5057,
+        "title": "[countersyncd] Support template-driven observation time widths",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 289,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T23:15:45Z",
+        "number": 5054,
+        "title": "[intfsorch][portsorch]: Create a port RIF only after the port has left its VLANs",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 125,
+        "author": "yyynini",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-12T18:29:23Z",
+        "number": 5048,
+        "title": "[orchagent]: Fix negative neighbor NH ref count for routes via standby mux neighbor",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 6,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T05:18:40Z",
+        "number": 5044,
+        "title": "Configure Renovate",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 354,
+        "author": "saksarav-nokia",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T20:15:17Z",
+        "number": 5037,
+        "title": "[macsecorch] Apply MACsec profile replay protection on ingress SCs",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 1,
+        "author": "AkeelAli",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-26T20:32:29Z",
+        "number": 5031,
+        "title": "Download platform-vpp artifacts from the build branch",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 30,
+        "author": "Bojun-Feng",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-26T20:34:57Z",
+        "number": 5029,
+        "title": "[intfmgr]: Match link-local neighbors by exact interface",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 868,
+        "author": "Pterosaur",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-19T21:08:11Z",
+        "number": 5024,
+        "title": "[countersyncd]: Track stats reporter state per IPFIX template",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 127,
+        "author": "YairRaviv",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-26T20:41:54Z",
+        "number": 5023,
+        "title": "[orchagent] Skip samplepacket ownership checks during warm restore",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 681,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T22:35:20Z",
+        "number": 5021,
+        "title": "[evpnmhorch][l2nhgorch][fdborch]: EVPN multihoming fixes for unsupported DF and bridge port next hop groups, group delete order, and neighbors behind a group",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 143,
+        "author": "Pterosaur",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-19T21:08:38Z",
+        "number": 5020,
+        "title": "[countersyncd]: Default netlink receive buffer to 128 MiB via SO_RCVBUFFORCE",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 120,
+        "author": "gpunathilell",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-21T21:04:55Z",
+        "number": 5019,
+        "title": "[countersyncd] Preserve OTel flush deadlines for buffered data",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 361,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T22:34:46Z",
+        "number": 5014,
+        "title": "[evpnmhorch]: Drop tunnel-terminated BUM on the non-DF, not the DF",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 91,
+        "author": "YairRaviv",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T00:57:04Z",
+        "number": 5009,
+        "title": "[aclorch] Defer ACL counter polling registration until warm boot ends",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 140,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-16T17:13:36Z",
+        "number": 5008,
+        "title": "[vstest][routeorch]: Fix four failures of the vstest job on master",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 248,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T22:34:11Z",
+        "number": 5000,
+        "title": "[fdborch]: Do not log an error for an aged event on a removed bridge port",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 301,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-04T04:06:31Z",
+        "number": 4999,
+        "title": "[vxlanorch] Handle tunnel map types the switch does not support",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 757,
+        "author": "senthil-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-27T16:57:38Z",
+        "number": 4994,
+        "title": "[macsecmgrd] clear stale APPL_DB MACsec state before a new MKA session",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 15,
+        "author": "deepak-singhal0408",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-26T18:07:37Z",
+        "number": 4993,
+        "title": "[fpmsyncd]: enable jemalloc background reclaim",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 128,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T22:38:14Z",
+        "number": 4992,
+        "title": "[fdbsyncd]: Do not log an error for an FDB entry that is already gone",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 258,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-20T23:14:03Z",
+        "number": 4986,
+        "title": "[fpmsyncd] Reconcile EVPN MH tables separately during bgp warm restart",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 314,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-20T23:13:39Z",
+        "number": 4985,
+        "title": "[fdbsyncd] Flush a port's local MACs in a VLAN it has left",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 506,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T22:37:09Z",
+        "number": 4984,
+        "title": "[fdborch] Re-add an aged static or remote MAC on its stored bridge port",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 84,
+        "author": "rajkumar1-arista",
+        "baseRefName": "202605",
+        "mergedAt": "2026-10-22T05:39:34Z",
+        "number": 4983,
+        "title": "[cherry-pick][4828]Fix double tunnel route deletion for standalone zero-MAC neighbors",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 9,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-10T01:21:14Z",
+        "number": 4980,
+        "title": "swss: use Unix sockets for local Redis clients",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 577,
+        "author": "zjswhhh",
+        "baseRefName": "202605",
+        "mergedAt": "2026-10-09T17:35:24Z",
+        "number": 4976,
+        "title": "[202605][routeorch]: Preserve VNet route ownership on duplicate create",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 2231,
+        "author": "prashanth-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-24T00:34:10Z",
+        "number": 4974,
+        "title": "[routeorch][nhgorch] Protection NHG group support with software controlled switchover",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 1039,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T22:33:03Z",
+        "number": 4969,
+        "title": "[nhgorch]: Move a group's routes before an update replaces its SAI ID",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 2760,
+        "author": "Janetxxx",
+        "baseRefName": "202605",
+        "mergedAt": "2026-10-07T15:41:45Z",
+        "number": 4968,
+        "title": "[202605][switchorch][mirrororch]: Add sampled port mirroring with truncation support (#4502)",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 87,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T22:36:25Z",
+        "number": 4966,
+        "title": "[vxlanorch]: Do not read a VNI from a remote VNI delete",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 383,
+        "author": "sreeiyer-1",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-20T15:30:56Z",
+        "number": 4964,
+        "title": "[p4orch] Support netdev hostif fallback for user defined traps for alpinevs-lite",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 1016,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-20T23:13:19Z",
+        "number": 4951,
+        "title": "[fdbsyncd]: Keep remote VNIs and MACs across a warm restart",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 561,
+        "author": "zjswhhh",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-06T22:32:29Z",
+        "number": 4950,
+        "title": "[routeorch]: Preserve VNet route ownership on duplicate create",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 54,
+        "author": "theasianpianist",
+        "baseRefName": "202605",
+        "mergedAt": "2026-10-01T01:14:20Z",
+        "number": 4949,
+        "title": "[202605] [neighsync]: Limit failed neighbor recovery to VLAN interfaces",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 54,
+        "author": "theasianpianist",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-01T01:13:42Z",
+        "number": 4948,
+        "title": "[neighsync]: Limit failed neighbor recovery to VLAN interfaces",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 58,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-28T21:13:38Z",
+        "number": 4947,
+        "title": "[action] [PR:4923] Fix flakey dvs test test_multi_nexthop_all_standby_then_delete_route",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 104,
+        "author": "rajkumar1-arista",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-29T18:06:18Z",
+        "number": 4941,
+        "title": "[202605] Fix orchagent  on shutdown in active-standby dualtor topologies. (#4830)",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 191,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-29T18:09:12Z",
+        "number": 4933,
+        "title": "[neighorch]: Clear the NEIGH_RESOLVE entry raised by an FDB age-out",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 912,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-09T20:32:01Z",
+        "number": 4932,
+        "title": "[switchorch][vxlanorch]: Restore VxLAN switch attributes on SWITCH_TABLE DEL; retry a failed remote VTEP flood member add",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 308,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-28T16:00:06Z",
+        "number": 4931,
+        "title": "[vxlanorch][vnetorch]: Handle VxLAN tunnel next hop create failures in VNET routes",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 15,
+        "author": "saiarcot895",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T23:16:02Z",
+        "number": 4929,
+        "title": "Add support for parsing the fallback mode as a string instead of boolean",
+        "repo": "sonic-swss"
+    },
+    {
         "additions": 23,
         "author": "ashutosh-agrawal",
         "baseRefName": "master",
@@ -15,6 +474,15 @@
         "mergedAt": "2026-09-25T18:25:43Z",
         "number": 4927,
         "title": "stpmgrd: reject malformed numeric configuration",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 29,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-06T22:30:16Z",
+        "number": 4926,
+        "title": "[teammgrd] Validate LAG system MAC addresses",
         "repo": "sonic-swss"
     },
     {
@@ -36,6 +504,15 @@
         "repo": "sonic-swss"
     },
     {
+        "additions": 721,
+        "author": "jayakj",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-26T20:30:15Z",
+        "number": 4919,
+        "title": "[vnetorch] Make VNET connected-route replay idempotent",
+        "repo": "sonic-swss"
+    },
+    {
         "additions": 304,
         "author": "mssonicbld",
         "baseRefName": "202605",
@@ -51,6 +528,24 @@
         "mergedAt": "2026-09-19T03:13:36Z",
         "number": 4904,
         "title": "[action] [PR:4638] Fix multi-asic VoQ entries being silently dropped",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 189,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-06T20:36:48Z",
+        "number": 4900,
+        "title": "[neighorch] Keep NO_HOST_ROUTE and the prefix route in sync on neighbor update",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 420,
+        "author": "yizhenzha",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-19T14:19:45Z",
+        "number": 4894,
+        "title": "[buffermgrd] Add SAI sync barrier before SHP disable via over-subscribe-ratio",
         "repo": "sonic-swss"
     },
     {
@@ -117,12 +612,30 @@
         "repo": "sonic-swss"
     },
     {
+        "additions": 450,
+        "author": "pinky-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-06T00:15:03Z",
+        "number": 4881,
+        "title": "[pfcwd] improve detect plugin cost, charge detection based on elapsed time, add poll accounting",
+        "repo": "sonic-swss"
+    },
+    {
         "additions": 4,
         "author": "markx-arista",
         "baseRefName": "master",
         "mergedAt": "2026-09-14T21:30:35Z",
         "number": 4880,
         "title": "Set default port role to external",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 8,
+        "author": "arista-nwolfe",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-01T06:09:55Z",
+        "number": 4865,
+        "title": "[portsorch] Skip `SAI_PORT_ATTR_PORT_SERDES_ID` calls on internal ports",
         "repo": "sonic-swss"
     },
     {
@@ -150,6 +663,42 @@
         "mergedAt": "2026-09-18T23:26:03Z",
         "number": 4858,
         "title": "[stpmgrd]: Fix STPd IPC socket descriptor validation and lifecycle",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 2602,
+        "author": "tahmed-dev",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T17:56:03Z",
+        "number": 4857,
+        "title": "[fpmsyncd/fdbsyncd]: Sync EVPN MACs with FRR over the FPM channel",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 159,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-29T18:41:30Z",
+        "number": 4856,
+        "title": "vxlanmgr: Reject invalid tunnel addresses before creating netdevices",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 1789,
+        "author": "deepak-singhal0408",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-28T18:36:41Z",
+        "number": 4855,
+        "title": "[fpmsyncd]: coalesce ZMQ route sends behind a dedicated send thread",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 2322,
+        "author": "arawat-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T18:43:41Z",
+        "number": 4854,
+        "title": "[Hw PFCWD feature] Counter handling for hardware PFC watchdog",
         "repo": "sonic-swss"
     },
     {
@@ -207,6 +756,15 @@
         "repo": "sonic-swss"
     },
     {
+        "additions": 303,
+        "author": "tahmed-dev",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-27T22:15:40Z",
+        "number": 4841,
+        "title": "[portsorch]: Do not let an optional DF attribute fail object creation",
+        "repo": "sonic-swss"
+    },
+    {
         "additions": 5,
         "author": "taran9999",
         "baseRefName": "master",
@@ -249,6 +807,15 @@
         "mergedAt": "2026-09-22T15:46:41Z",
         "number": 4828,
         "title": "Fix double tunnel route deletion for standalone zero-MAC neighbors",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 740,
+        "author": "theasianpianist",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-06T21:50:12Z",
+        "number": 4821,
+        "title": "[ci]: Complete sonic-swss CI-unification cutover",
         "repo": "sonic-swss"
     },
     {
@@ -378,6 +945,15 @@
         "repo": "sonic-swss"
     },
     {
+        "additions": 229,
+        "author": "haojun291",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T18:19:45Z",
+        "number": 4801,
+        "title": "[portsorch] Skip default VLAN and bridge port removal during warm restart",
+        "repo": "sonic-swss"
+    },
+    {
         "additions": 426,
         "author": "mssonicbld",
         "baseRefName": "202605",
@@ -420,6 +996,15 @@
         "mergedAt": "2026-08-26T17:50:34Z",
         "number": 4795,
         "title": "[202605] recover from stale-SAK after dirty macsec docker restart",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 31,
+        "author": "anamehra",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T02:29:02Z",
+        "number": 4793,
+        "title": "[orchagent]: support cisco platform name",
         "repo": "sonic-swss"
     },
     {
@@ -567,12 +1152,30 @@
         "repo": "sonic-swss"
     },
     {
+        "additions": 74,
+        "author": "ypcisco",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-04T04:05:01Z",
+        "number": 4735,
+        "title": "Cache dual-ToR PEER_SWITCH role at startup to avoid per-netlink-messa…",
+        "repo": "sonic-swss"
+    },
+    {
         "additions": 4,
         "author": "pbrisset",
         "baseRefName": "master",
         "mergedAt": "2026-07-06T17:51:33Z",
         "number": 4734,
         "title": "[fdborch]: Revert FDB flush-all to dynamic-only flush",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 4216,
+        "author": "DavidZagury",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-20T15:32:54Z",
+        "number": 4732,
+        "title": "[HFT][countersyncd]: Support SAI_TAM_TEL_TYPE_MODE_MIXED_TYPE",
         "repo": "sonic-swss"
     },
     {
@@ -591,6 +1194,15 @@
         "mergedAt": "2026-07-02T00:51:25Z",
         "number": 4727,
         "title": "Revert \"cherry-pick-202511: Disable bulk requests for PORT counters\"",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 11,
+        "author": "AnantKishorSharma",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-26T20:40:45Z",
+        "number": 4725,
+        "title": "orchagent_restart_check: report the specific failure reason",
         "repo": "sonic-swss"
     },
     {
@@ -775,7 +1387,7 @@
     },
     {
         "additions": 25,
-        "author": "eddieruan-alibaba",
+        "author": "eddieruan-sonic",
         "baseRefName": "master",
         "mergedAt": "2026-06-30T00:21:48Z",
         "number": 4681,
@@ -861,6 +1473,15 @@
         "mergedAt": "2026-06-12T14:23:59Z",
         "number": 4662,
         "title": "[routeorch] Remove Mellanox ECMP group count divisor workaround",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 279,
+        "author": "AnantKishorSharma",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-01T17:43:53Z",
+        "number": 4661,
+        "title": "AclOrch: skip default ACL table match fields unsupported by the platform",
         "repo": "sonic-swss"
     },
     {
@@ -1611,6 +2232,15 @@
         "repo": "sonic-swss"
     },
     {
+        "additions": 667,
+        "author": "rajath-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T21:00:31Z",
+        "number": 4514,
+        "title": "[copporch]: Expose CoPP policer stats, gated on SAI stats capability",
+        "repo": "sonic-swss"
+    },
+    {
         "additions": 211,
         "author": "mssonicbld",
         "baseRefName": "202511",
@@ -2025,6 +2655,15 @@
         "repo": "sonic-swss"
     },
     {
+        "additions": 2369,
+        "author": "abhishek-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T18:13:52Z",
+        "number": 4412,
+        "title": "[Hw PFCWD feature] Implementation for H/w based PFCWD",
+        "repo": "sonic-swss"
+    },
+    {
         "additions": 351,
         "author": "divyagayathri-hcl",
         "baseRefName": "master",
@@ -2103,6 +2742,15 @@
         "mergedAt": "2026-04-06T14:18:06Z",
         "number": 4392,
         "title": "[agent][stpmgrd] Fix file descriptor leak in debug reload check",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 4389,
+        "author": "manamand2020",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-20T23:15:54Z",
+        "number": 4390,
+        "title": "Protection Nexthop group support in nhgorch",
         "repo": "sonic-swss"
     },
     {
@@ -2319,6 +2967,15 @@
         "mergedAt": "2026-03-17T16:11:10Z",
         "number": 4340,
         "title": "[test] Fix test_sub_port_intf assuming exactly one VRF in ASIC_DB",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 190,
+        "author": "abdosi",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T19:00:15Z",
+        "number": 4339,
+        "title": "[orchagent]: Reject cross-interface IP overlaps without retrying",
         "repo": "sonic-swss"
     },
     {
@@ -3150,6 +3807,15 @@
         "repo": "sonic-swss"
     },
     {
+        "additions": 1741,
+        "author": "NavdhaJindal",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-09T20:02:47Z",
+        "number": 4158,
+        "title": "Fine Grained ECMP for Vnet Tunnel Routes",
+        "repo": "sonic-swss"
+    },
+    {
         "additions": 2,
         "author": "saksarav-nokia",
         "baseRefName": "master",
@@ -3948,6 +4614,15 @@
         "mergedAt": "2026-05-15T22:44:07Z",
         "number": 3551,
         "title": "Add log message to display next-hop weight information ",
+        "repo": "sonic-swss"
+    },
+    {
+        "additions": 8,
+        "author": "rbpittman",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-06T17:22:02Z",
+        "number": 3290,
+        "title": "PFC-WD class cleanup",
         "repo": "sonic-swss"
     }
 ]

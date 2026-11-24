@@ -1,5 +1,95 @@
 [
     {
+        "additions": 1,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T21:42:46Z",
+        "number": 235,
+        "title": "Update Rust crate vergen to v10 (master)",
+        "repo": "sonic-dash-ha"
+    },
+    {
+        "additions": 40,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T21:42:40Z",
+        "number": 234,
+        "title": "Update Rust crate thiserror to v2 (master)",
+        "repo": "sonic-dash-ha"
+    },
+    {
+        "additions": 15,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T21:42:35Z",
+        "number": 233,
+        "title": "Update Rust crate syn to v3 (master)",
+        "repo": "sonic-dash-ha"
+    },
+    {
+        "additions": 1,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T21:42:29Z",
+        "number": 232,
+        "title": "Update actions/checkout action to v7 (master)",
+        "repo": "sonic-dash-ha"
+    },
+    {
+        "additions": 3,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T17:10:10Z",
+        "number": 228,
+        "title": "Update Rust crate serde_serializer_quick_unsupported to v1 (master)",
+        "repo": "sonic-dash-ha"
+    },
+    {
+        "additions": 38,
+        "author": "app/renovate",
+        "baseRefName": "202611",
+        "mergedAt": "2026-11-20T03:16:57Z",
+        "number": 225,
+        "title": "Update crate security updates [SECURITY] (202611) (patch)",
+        "repo": "sonic-dash-ha"
+    },
+    {
+        "additions": 173,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-19T12:15:59Z",
+        "number": 224,
+        "title": "Update crate security updates [SECURITY] (master) (minor)",
+        "repo": "sonic-dash-ha"
+    },
+    {
+        "additions": 38,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T17:11:57Z",
+        "number": 223,
+        "title": "Update crate security updates [SECURITY] (master) (patch)",
+        "repo": "sonic-dash-ha"
+    },
+    {
+        "additions": 7,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T14:02:46Z",
+        "number": 221,
+        "title": "Fix lints reported by newer clippy",
+        "repo": "sonic-dash-ha"
+    },
+    {
+        "additions": 45,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T15:57:46Z",
+        "number": 220,
+        "title": "Add Renovate configuration",
+        "repo": "sonic-dash-ha"
+    },
+    {
         "additions": 203,
         "author": "mssonicbld",
         "baseRefName": "202605",

@@ -1,0 +1,438 @@
+/:
+  AkeelAli: 3174
+  aaronber0614: 3863
+  aronovic: 6
+  bendrapubalareddy: 136
+  bhouse-nexthop: 7
+  cyw233: 108
+  dypet: 2079
+  honllum: 1
+  linqingxuan: 12
+  litmingc: 0
+  liushilongbuaa: 1
+  lolyu: 2828
+  lunyue-ms: 455
+  mike-dubrovsky: 4
+  mmiklus: 107
+  nhegde-microsoft: 4953
+  ritvikiscool9: 339
+  rnwolfe: 189
+  rustiqly: 31
+  saiarcot895: 53
+  skobza: 3
+  taran9999: 2184
+  xq9mend: 1
+  yejianquan: 2045
+  yijingyan2: 3
+  yue-fred-gao: 27157
+  zedzean: 8
+/.azure-pipelines/:
+  AkeelAli: 328
+  saiarcot895: 26
+  yue-fred-gao: 46
+/.git/:
+  AkeelAli: 3174
+  aaronber0614: 3863
+  aronovic: 6
+  bendrapubalareddy: 136
+  bhouse-nexthop: 7
+  cyw233: 108
+  dypet: 2079
+  honllum: 1
+  linqingxuan: 12
+  litmingc: 0
+  liushilongbuaa: 1
+  lolyu: 2828
+  lunyue-ms: 455
+  mike-dubrovsky: 4
+  mmiklus: 107
+  nhegde-microsoft: 4953
+  ritvikiscool9: 339
+  rnwolfe: 189
+  rustiqly: 31
+  saiarcot895: 53
+  skobza: 3
+  taran9999: 2184
+  xq9mend: 1
+  yejianquan: 2045
+  yijingyan2: 3
+  yue-fred-gao: 27157
+  zedzean: 8
+/.github/:
+  rustiqly: 31
+/docker-gbsyncd-vpp/:
+  dypet: 1
+  honllum: 0
+  yue-fred-gao: 0
+/docker-sonic-vpp/:
+  AkeelAli: 57
+  dypet: 2
+  lolyu: 17
+  mike-dubrovsky: 4
+  mmiklus: 51
+  nhegde-microsoft: 14
+  rnwolfe: 1
+  taran9999: 1
+  yue-fred-gao: 44
+/docker-sonic-vpp/buildinfo/:
+  AkeelAli: 57
+  dypet: 2
+  lolyu: 17
+  mike-dubrovsky: 4
+  mmiklus: 51
+  nhegde-microsoft: 14
+  rnwolfe: 1
+  taran9999: 1
+  yue-fred-gao: 44
+/docker-sonic-vpp/conf/:
+  AkeelAli: 37
+  dypet: 1
+  lolyu: 17
+  mmiklus: 11
+  nhegde-microsoft: 14
+  rnwolfe: 1
+  taran9999: 1
+  yue-fred-gao: 28
+/docker-sonic-vpp/etc/:
+  AkeelAli: 57
+  dypet: 2
+  lolyu: 17
+  mike-dubrovsky: 4
+  mmiklus: 51
+  nhegde-microsoft: 14
+  rnwolfe: 1
+  taran9999: 1
+  yue-fred-gao: 44
+/docker-sonic-vpp/frr/:
+  AkeelAli: 57
+  dypet: 2
+  lolyu: 17
+  mike-dubrovsky: 4
+  mmiklus: 51
+  nhegde-microsoft: 14
+  rnwolfe: 1
+  taran9999: 1
+  yue-fred-gao: 44
+/docker-sonic-vpp/scripts/:
+  AkeelAli: 20
+  mmiklus: 8
+  yue-fred-gao: 16
+/docker-syncd-vpp/:
+  AkeelAli: 57
+  aronovic: 0
+  dypet: 2
+  honllum: 0
+  lolyu: 24
+  nhegde-microsoft: 14
+  ritvikiscool9: 1
+  rnwolfe: 1
+  taran9999: 1
+  yue-fred-gao: 59
+/docker-syncd-vpp/conf/:
+  AkeelAli: 37
+  aronovic: 0
+  dypet: 1
+  lolyu: 20
+  nhegde-microsoft: 14
+  ritvikiscool9: 1
+  rnwolfe: 1
+  taran9999: 1
+  yue-fred-gao: 37
+/docker-syncd-vpp/scripts/:
+  AkeelAli: 20
+  lolyu: 5
+  yue-fred-gao: 19
+/docs/:
+  AkeelAli: 28
+  bendrapubalareddy: 64
+  cyw233: 108
+  lolyu: 393
+  mmiklus: 11
+  yejianquan: 568
+  yue-fred-gao: 723
+/docs/HLD/:
+  AkeelAli: 28
+  bendrapubalareddy: 8
+  cyw233: 108
+  lolyu: 393
+  yejianquan: 568
+  yue-fred-gao: 723
+/platform/:
+  AkeelAli: 125
+  bendrapubalareddy: 28
+  linqingxuan: 12
+  xq9mend: 1
+  yue-fred-gao: 705
+  zedzean: 8
+/platform/mkrules/:
+  bendrapubalareddy: 0
+  xq9mend: 1
+  yue-fred-gao: 431
+  zedzean: 8
+/platform/mkrules/dockers/:
+  bendrapubalareddy: 0
+  xq9mend: 1
+  yue-fred-gao: 431
+  zedzean: 8
+/platform/mkrules/files/:
+  yue-fred-gao: 11
+/platform/mkrules/files/build_templates/:
+  yue-fred-gao: 1
+/platform/mkrules/files/build_templates/per_namespace/:
+  yue-fred-gao: 0
+/platform/mkrules/rules/:
+  bendrapubalareddy: 0
+  yue-fred-gao: 3
+/platform/mkrules/src/:
+  bendrapubalareddy: 0
+  xq9mend: 1
+  yue-fred-gao: 417
+  zedzean: 8
+/platform/mkrules/src/sonic-sairedis/:
+  bendrapubalareddy: 0
+  yue-fred-gao: 417
+  zedzean: 8
+/platform/mkrules/src/sonic-sairedis/debian/:
+  yue-fred-gao: 393
+/platform/mkrules/src/sonic-sairedis/saidiscovery/:
+  bendrapubalareddy: 0
+  yue-fred-gao: 417
+  zedzean: 8
+/platform/mkrules/src/sonic-sairedis/saisdkdump/:
+  bendrapubalareddy: 0
+  yue-fred-gao: 417
+  zedzean: 8
+/platform/mkrules/src/sonic-sairedis/syncd/:
+  zedzean: 8
+/platform/mkrules/src/sonic-sairedis/syncd/scripts/:
+  zedzean: 8
+/platform/mkrules/src/sonic-sairedis/tests/:
+  bendrapubalareddy: 0
+  yue-fred-gao: 417
+  zedzean: 8
+/platform/mkrules/src/sonic-sairedis/unittest/:
+  bendrapubalareddy: 0
+  yue-fred-gao: 417
+  zedzean: 8
+/platform/mkrules/src/sonic-swss/:
+  bendrapubalareddy: 0
+  xq9mend: 1
+  yue-fred-gao: 417
+  zedzean: 8
+/platform/mkrules/src/sonic-vppcfgd/:
+  xq9mend: 1
+  yue-fred-gao: 0
+/platform/mkrules/src/sonic-vppcfgd/vppcfgd/:
+  xq9mend: 1
+/platform/vpp/:
+  AkeelAli: 125
+  linqingxuan: 12
+  yue-fred-gao: 24
+/platform/vpp/docker-sonic-vpp/:
+  AkeelAli: 0
+  linqingxuan: 12
+  yue-fred-gao: 1
+/platform/vpp/docker-sonic-vpp/frr/:
+  linqingxuan: 12
+/platform/vpp/docker-sonic-vpp/frr/frr/:
+  linqingxuan: 12
+/platform/vpp/docker-sonic-vpp/frr/frr/bgpd/:
+  linqingxuan: 12
+/platform/vpp/docker-sonic-vpp/frr/frr/bgpd/idf_isolate/:
+  linqingxuan: 1
+/platform/vpp/docker-sonic-vpp/frr/frr/bgpd/wcmp/:
+  linqingxuan: 1
+/platform/vpp/vppbld/:
+  AkeelAli: 125
+  yue-fred-gao: 8
+/platform/vpp/vppbld/plugins/:
+  AkeelAli: 124
+/platform/vpp/vppbld/plugins/tunterm_acl/:
+  AkeelAli: 124
+/platform/vpp/vppbld/plugins/tunterm_acl/docs/:
+  AkeelAli: 3
+/rules/:
+  AkeelAli: 6
+  aaronber0614: 2
+  bhouse-nexthop: 7
+  dypet: 11
+  litmingc: 0
+  lolyu: 10
+  mmiklus: 13
+  nhegde-microsoft: 16
+  rnwolfe: 2
+  xq9mend: 1
+  yejianquan: 4
+  yue-fred-gao: 61
+/scripts/:
+  AkeelAli: 3174
+  aaronber0614: 3863
+  aronovic: 6
+  bendrapubalareddy: 136
+  bhouse-nexthop: 7
+  cyw233: 108
+  dypet: 2079
+  honllum: 1
+  linqingxuan: 12
+  litmingc: 0
+  liushilongbuaa: 1
+  lolyu: 2828
+  lunyue-ms: 455
+  mike-dubrovsky: 4
+  mmiklus: 107
+  nhegde-microsoft: 4953
+  ritvikiscool9: 339
+  rnwolfe: 189
+  rustiqly: 31
+  saiarcot895: 53
+  skobza: 3
+  taran9999: 2184
+  xq9mend: 1
+  yejianquan: 2045
+  yijingyan2: 3
+  yue-fred-gao: 27157
+  zedzean: 8
+/sonic-platform-modules-vpp/:
+  linqingxuan: 0
+  lolyu: 5
+  yue-fred-gao: 5
+/sonic-platform-modules-vpp/debian/:
+  yue-fred-gao: 2
+/sonic-platform-modules-vpp/files/:
+  linqingxuan: 0
+  lolyu: 5
+  yue-fred-gao: 3
+/sonic-platform-modules-vpp/files/etc/:
+  lolyu: 5
+/sonic-platform-modules-vpp/files/etc/config-setup/:
+  lolyu: 5
+/sonic-platform-modules-vpp/files/etc/config-setup/factory-default-hooks.d/:
+  lolyu: 5
+/sonic-platform-modules-vpp/files/service/:
+  yue-fred-gao: 1
+/sonic-platform-modules-vpp/files/usr/:
+  linqingxuan: 0
+  yue-fred-gao: 2
+/sonic-platform-modules-vpp/files/usr/bin/:
+  linqingxuan: 0
+  yue-fred-gao: 2
+/sonic-version/:
+  AkeelAli: 3174
+  aaronber0614: 3863
+  aronovic: 6
+  bendrapubalareddy: 136
+  bhouse-nexthop: 7
+  cyw233: 108
+  dypet: 2079
+  honllum: 1
+  linqingxuan: 12
+  litmingc: 0
+  liushilongbuaa: 1
+  lolyu: 2828
+  lunyue-ms: 455
+  mike-dubrovsky: 4
+  mmiklus: 107
+  nhegde-microsoft: 4953
+  ritvikiscool9: 339
+  rnwolfe: 189
+  rustiqly: 31
+  saiarcot895: 53
+  skobza: 3
+  taran9999: 2184
+  xq9mend: 1
+  yejianquan: 2045
+  yijingyan2: 3
+  yue-fred-gao: 27157
+  zedzean: 8
+/tests/:
+  yue-fred-gao: 7
+/tests/docs/:
+  yue-fred-gao: 7
+/tests/misc/:
+  yue-fred-gao: 7
+/tests/vxlan-configs/:
+  yue-fred-gao: 7
+/vppbld/:
+  AkeelAli: 2510
+  aaronber0614: 3861
+  aronovic: 5
+  dypet: 1902
+  lolyu: 2378
+  lunyue-ms: 455
+  nhegde-microsoft: 4909
+  ritvikiscool9: 336
+  rnwolfe: 185
+  taran9999: 2183
+  yejianquan: 1473
+  yue-fred-gao: 9759
+/vppbld/patches/:
+  AkeelAli: 107
+  aaronber0614: 459
+  dypet: 1256
+  lolyu: 584
+  nhegde-microsoft: 297
+  ritvikiscool9: 336
+  rnwolfe: 185
+  taran9999: 1223
+  yejianquan: 1473
+  yue-fred-gao: 3231
+/vppbld/plugins/:
+  AkeelAli: 2394
+  aaronber0614: 3402
+  dypet: 616
+  lolyu: 1788
+  lunyue-ms: 455
+  nhegde-microsoft: 4612
+  taran9999: 959
+  yue-fred-gao: 6359
+/vppbld/plugins/src/:
+  AkeelAli: 506
+  aaronber0614: 2425
+  dypet: 52
+  lolyu: 754
+  nhegde-microsoft: 905
+  yue-fred-gao: 3004
+/vppbld/plugins/src/ip_validate/:
+  AkeelAli: 58
+  yue-fred-gao: 67
+/vppbld/plugins/src/sonic_ext/:
+  AkeelAli: 448
+  aaronber0614: 2425
+  dypet: 52
+  lolyu: 754
+  nhegde-microsoft: 905
+  yue-fred-gao: 2937
+/vppbld/plugins/src/tunterm_acl/:
+  AkeelAli: 506
+  aaronber0614: 2425
+  dypet: 52
+  lolyu: 754
+  nhegde-microsoft: 905
+  yue-fred-gao: 3004
+/vppbld/plugins/tests/:
+  AkeelAli: 881
+  aaronber0614: 977
+  dypet: 384
+  lolyu: 453
+  nhegde-microsoft: 1622
+  taran9999: 417
+  yue-fred-gao: 2359
+/vppbld/plugins/tests/ip_validate/:
+  yue-fred-gao: 31
+/vppbld/plugins/tests/sonic_ext/:
+  AkeelAli: 881
+  aaronber0614: 977
+  dypet: 384
+  lolyu: 453
+  nhegde-microsoft: 1622
+  taran9999: 417
+  yue-fred-gao: 2327
+/vppbld/plugins/tests/tunterm_acl/:
+  AkeelAli: 881
+  aaronber0614: 977
+  dypet: 384
+  lolyu: 453
+  nhegde-microsoft: 1622
+  taran9999: 417
+  yue-fred-gao: 2359
+

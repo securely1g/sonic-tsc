@@ -1,11 +1,200 @@
 [
     {
+        "additions": 14,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T21:49:26Z",
+        "number": 822,
+        "title": "Lock file maintenance (master)",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 11,
+        "author": "wsycqyz",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T03:37:41Z",
+        "number": 821,
+        "title": "[ci]: Free disk space on the hosted agent before the build",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 12,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T00:03:15Z",
+        "number": 814,
+        "title": "Renovate: merge labeled security updates with Renovate's own automerge",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 14,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T17:02:46Z",
+        "number": 811,
+        "title": "Lock file maintenance (master)",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 14,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T02:46:08Z",
+        "number": 810,
+        "title": "Lock file maintenance (master)",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 4,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T02:43:51Z",
+        "number": 806,
+        "title": "Pin dependencies (master)",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 38,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T02:00:03Z",
+        "number": 805,
+        "title": "Renovate: build CI in trixie, check each Rust crate with its own lock file, skip push builds of Renovate branches",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 28,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T17:03:10Z",
+        "number": 804,
+        "title": "Update Rust crate pyo3 to 0.30 (master)",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 142,
+        "author": "xq9mend",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T19:30:50Z",
+        "number": 801,
+        "title": "[platform-pyo3]: Adapt bridge to PyO3 0.29 API",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 265,
+        "author": "pnakka28",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T18:19:41Z",
+        "number": 797,
+        "title": "[sonic_xcvr]: Add TP1/TP4 module precoding control",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 15,
+        "author": "xq9mend",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T22:58:08Z",
+        "number": 796,
+        "title": "[renovate]: Onboard with the shared SONiC preset",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 1844,
+        "author": "ganglyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T11:07:17Z",
+        "number": 795,
+        "title": "[platform-api]: Preserve platform reads and generate Rust during builds",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 68,
+        "author": "prajjwal-arista",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-19T04:02:00Z",
+        "number": 787,
+        "title": "Add get_bmc_if_link_status API in ChassisBase",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 15,
+        "author": "yashnsinha-arista",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T03:38:43Z",
+        "number": 785,
+        "title": "Add platform API for local BMC reset from switch host",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 18,
+        "author": "bgallagher-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-21T00:20:49Z",
+        "number": 771,
+        "title": "Add Davisson codes classes for CPO",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 33863,
+        "author": "ganglyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-30T02:45:23Z",
+        "number": 768,
+        "title": "[platform-api] A cross-language platform API, declared once in a .pyi",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 34,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-28T19:14:39Z",
+        "number": 767,
+        "title": "[action] [PR:757] [CMIS] Fix VDM freeze/unfreeze as per CMIS 5.4",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 112,
+        "author": "nikamirrr",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-14T21:48:46Z",
+        "number": 764,
+        "title": "[redfish] Report a missing firmware inventory member as an error code",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 2708,
+        "author": "ArthurMicas",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-09T02:44:06Z",
+        "number": 763,
+        "title": "Add Bailly OE/ELSFP factory dispatch and CPO control hooks",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 56,
+        "author": "judyjoseph",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-26T22:31:52Z",
+        "number": 762,
+        "title": "Add Major system leak support - sonicBMC",
+        "repo": "sonic-platform-common"
+    },
+    {
         "additions": 34,
         "author": "prgeor",
         "baseRefName": "master",
         "mergedAt": "2026-09-17T02:14:14Z",
         "number": 757,
         "title": "[CMIS] Fix VDM freeze/unfreeze as per CMIS 5.4",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 245,
+        "author": "Natgerbi",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T07:46:41Z",
+        "number": 755,
+        "title": "[CPO] Register the NVIDIA SPC6 optical engine and els",
         "repo": "sonic-platform-common"
     },
     {
@@ -51,6 +240,15 @@
         "mergedAt": "2026-09-07T16:05:00Z",
         "number": 748,
         "title": "[eeprom] Use swsscommon instead of redis-py in eeprom_tlvinfo.",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 325,
+        "author": "benle7",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-09T18:20:57Z",
+        "number": 747,
+        "title": "[SONiC BMC] Get the BMC eeprom from Redis",
         "repo": "sonic-platform-common"
     },
     {
@@ -153,6 +351,15 @@
         "repo": "sonic-platform-common"
     },
     {
+        "additions": 233,
+        "author": "lotus-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-20T20:18:30Z",
+        "number": 730,
+        "title": "Implement get_transceiver_dom_flags for SFF-8636 modules",
+        "repo": "sonic-platform-common"
+    },
+    {
         "additions": 99,
         "author": "aditya-nexthop",
         "baseRefName": "master",
@@ -198,6 +405,15 @@
         "repo": "sonic-platform-common"
     },
     {
+        "additions": 285,
+        "author": "Junchao-Mellanox",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-23T10:46:06Z",
+        "number": 724,
+        "title": "[cmis] Fix enter_password to include standard password entry method",
+        "repo": "sonic-platform-common"
+    },
+    {
         "additions": 12,
         "author": "pnakka28",
         "baseRefName": "master",
@@ -231,6 +447,24 @@
         "mergedAt": "2026-07-17T14:43:37Z",
         "number": 717,
         "title": "Check lower memory for firmware versions when CDB is not supported",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 33,
+        "author": "gs1571",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-23T09:13:03Z",
+        "number": 713,
+        "title": "[xcvr]: Fix appl_advt dict-lookup for non-sequential AppSel indices",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 137,
+        "author": "ShauliTaragin",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-14T21:18:04Z",
+        "number": 712,
+        "title": "[SED] Wipe SSD support in Platfrom API",
         "repo": "sonic-platform-common"
     },
     {
@@ -528,6 +762,15 @@
         "mergedAt": "2026-06-05T21:56:54Z",
         "number": 672,
         "title": "add cpo bailly xcvr cmis",
+        "repo": "sonic-platform-common"
+    },
+    {
+        "additions": 40,
+        "author": "oleksandrivantsiv",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-14T22:12:12Z",
+        "number": 671,
+        "title": "[chore/github]: Standardize GitHub PR description template",
         "repo": "sonic-platform-common"
     },
     {

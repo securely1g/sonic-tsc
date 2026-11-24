@@ -1,5 +1,122 @@
 [
     {
+        "additions": 143684,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T18:48:28Z",
+        "number": 666,
+        "title": "Backport fixes for 1448 CVEs from linux-6.12.y",
+        "repo": "sonic-linux-kernel"
+    },
+    {
+        "additions": 75,
+        "author": "abdurrahman-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T00:32:56Z",
+        "number": 651,
+        "title": "Backport x86/CPU/AMD: Prevent reset reasons from being retained across reboot",
+        "repo": "sonic-linux-kernel"
+    },
+    {
+        "additions": 3,
+        "author": "parvathi-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T23:50:48Z",
+        "number": 650,
+        "title": "[aspeed][Nexthop] B27: name the leak-fault GPIO lines and drop their input hogs",
+        "repo": "sonic-linux-kernel"
+    },
+    {
+        "additions": 1,
+        "author": "parvathi-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T22:11:08Z",
+        "number": 648,
+        "title": "[aspeed][Nexthop] B27: bind SPI0 to spi_aspeed_txrx only, drop SMC fallback compatible",
+        "repo": "sonic-linux-kernel"
+    },
+    {
+        "additions": 62,
+        "author": "prajjwal-arista",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-27T18:32:17Z",
+        "number": 647,
+        "title": "net-ftgmac100 - Limit SGMII reset to Marvell 88E151x only",
+        "repo": "sonic-linux-kernel"
+    },
+    {
+        "additions": 74,
+        "author": "yurypm",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T22:07:48Z",
+        "number": 645,
+        "title": "PCI: Stop waiting for link status after config read failure",
+        "repo": "sonic-linux-kernel"
+    },
+    {
+        "additions": 58,
+        "author": "yurypm",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-04T08:02:01Z",
+        "number": 644,
+        "title": "PCI: pciehp: Add PLX 8600/8700 quirk for missing Command Completed events",
+        "repo": "sonic-linux-kernel"
+    },
+    {
+        "additions": 3,
+        "author": "william8545",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T22:24:06Z",
+        "number": 642,
+        "title": "config.sonic-aspeed: align three loose lines with the BMC block",
+        "repo": "sonic-linux-kernel"
+    },
+    {
+        "additions": 2,
+        "author": "yijingyan2",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-20T01:30:11Z",
+        "number": 641,
+        "title": "include kernel debug package in build outputs",
+        "repo": "sonic-linux-kernel"
+    },
+    {
+        "additions": 0,
+        "author": "wumiaont",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-04T07:57:51Z",
+        "number": 640,
+        "title": "[arm64] Restrict CRYPTO_MANAGER_DISABLE_TESTS to pensando to enable CRYPTO_FIPS",
+        "repo": "sonic-linux-kernel"
+    },
+    {
+        "additions": 15,
+        "author": "chander-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-21T18:05:17Z",
+        "number": 639,
+        "title": "Added switchcard eeprom to dts file",
+        "repo": "sonic-linux-kernel"
+    },
+    {
+        "additions": 2323,
+        "author": "oleksandrivantsiv",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-07T16:37:24Z",
+        "number": 638,
+        "title": "[Mellanox] Integrate HW-MGMT Version 7.0070.1023",
+        "repo": "sonic-linux-kernel"
+    },
+    {
+        "additions": 782,
+        "author": "gauravnagesh-msft",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-09T20:57:05Z",
+        "number": 637,
+        "title": "Fix ext4 shutdown flag blocking reads on errors",
+        "repo": "sonic-linux-kernel"
+    },
+    {
         "additions": 577,
         "author": "oleksandrivantsiv",
         "baseRefName": "master",
@@ -42,6 +159,24 @@
         "mergedAt": "2026-09-17T18:25:26Z",
         "number": 623,
         "title": "Add arm64 aspeed build to CI",
+        "repo": "sonic-linux-kernel"
+    },
+    {
+        "additions": 5,
+        "author": "DannyIsa",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-21T18:00:18Z",
+        "number": 620,
+        "title": "Clean up the BMC Kconfig",
+        "repo": "sonic-linux-kernel"
+    },
+    {
+        "additions": 4,
+        "author": "tahmed-dev",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-19T23:14:10Z",
+        "number": 619,
+        "title": "[patches-sonic]: Drop the bridge FDB protocol field patch",
         "repo": "sonic-linux-kernel"
     },
     {
@@ -153,6 +288,15 @@
         "repo": "sonic-linux-kernel"
     },
     {
+        "additions": 41098,
+        "author": "saiarcot895",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-12T17:43:21Z",
+        "number": 596,
+        "title": "Linux 6.12.94 update",
+        "repo": "sonic-linux-kernel"
+    },
+    {
         "additions": 82,
         "author": "fountzou",
         "baseRefName": "master",
@@ -249,6 +393,15 @@
         "mergedAt": "2026-06-09T02:20:50Z",
         "number": 580,
         "title": "Revert \"ACPI: OSL: Use a threaded interrupt handler for SCI\"",
+        "repo": "sonic-linux-kernel"
+    },
+    {
+        "additions": 52,
+        "author": "oleksandrivantsiv",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T02:51:09Z",
+        "number": 579,
+        "title": "[chore/github]: Standardize GitHub PR description template",
         "repo": "sonic-linux-kernel"
     },
     {

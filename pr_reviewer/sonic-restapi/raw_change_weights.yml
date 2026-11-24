@@ -1,0 +1,167 @@
+/:
+  bhouse-nexthop: 67
+  ganglyu: 2
+  lipxu: 16
+  mramezani95: 93
+  prsunny: 8
+  renovate[bot]: 16
+  rustiqly: 32
+  xq9mend: 8
+  yijingyan2: 15
+/.git/:
+  bhouse-nexthop: 67
+  ganglyu: 2
+  lipxu: 16
+  mramezani95: 93
+  prsunny: 8
+  renovate[bot]: 16
+  rustiqly: 32
+  xq9mend: 8
+  yijingyan2: 15
+/.github/:
+  rustiqly: 32
+/.github/codeql/:
+  rustiqly: 32
+/.github/workflows/:
+  rustiqly: 32
+/arp_responder/:
+  bhouse-nexthop: 67
+  ganglyu: 2
+  lipxu: 16
+  mramezani95: 93
+  prsunny: 8
+  renovate[bot]: 16
+  rustiqly: 32
+  xq9mend: 8
+  yijingyan2: 15
+/arpthrift/:
+  bhouse-nexthop: 67
+  ganglyu: 2
+  lipxu: 16
+  mramezani95: 93
+  prsunny: 8
+  renovate[bot]: 16
+  rustiqly: 32
+  xq9mend: 8
+  yijingyan2: 15
+/arpthrifttest/:
+  bhouse-nexthop: 67
+  ganglyu: 2
+  lipxu: 16
+  mramezani95: 93
+  prsunny: 8
+  renovate[bot]: 16
+  rustiqly: 32
+  xq9mend: 8
+  yijingyan2: 15
+/cert/:
+  bhouse-nexthop: 67
+  ganglyu: 2
+  lipxu: 16
+  mramezani95: 93
+  prsunny: 8
+  renovate[bot]: 16
+  rustiqly: 32
+  xq9mend: 8
+  yijingyan2: 15
+/debian/:
+  bhouse-nexthop: 67
+  ganglyu: 2
+  lipxu: 16
+  mramezani95: 93
+  prsunny: 8
+  renovate[bot]: 16
+  rustiqly: 32
+  xq9mend: 8
+  yijingyan2: 15
+/debs/:
+  bhouse-nexthop: 67
+  ganglyu: 2
+  lipxu: 16
+  mramezani95: 93
+  prsunny: 8
+  renovate[bot]: 16
+  rustiqly: 32
+  xq9mend: 8
+  yijingyan2: 15
+/debug/:
+  bhouse-nexthop: 67
+  ganglyu: 2
+  lipxu: 16
+  mramezani95: 93
+  prsunny: 8
+  renovate[bot]: 16
+  rustiqly: 32
+  xq9mend: 8
+  yijingyan2: 15
+/files/:
+  bhouse-nexthop: 67
+  ganglyu: 2
+  lipxu: 16
+  mramezani95: 93
+  prsunny: 8
+  renovate[bot]: 16
+  rustiqly: 32
+  xq9mend: 8
+  yijingyan2: 15
+/go-server-server/:
+  ganglyu: 2
+  lipxu: 16
+  mramezani95: 21
+  prsunny: 4
+  renovate[bot]: 16
+  xq9mend: 2
+/go-server-server/go/:
+  mramezani95: 21
+  prsunny: 4
+/libcswsscommon/:
+  bhouse-nexthop: 67
+  ganglyu: 2
+  lipxu: 16
+  mramezani95: 93
+  prsunny: 8
+  renovate[bot]: 16
+  rustiqly: 32
+  xq9mend: 8
+  yijingyan2: 15
+/mseethrift/:
+  bhouse-nexthop: 67
+  ganglyu: 2
+  lipxu: 16
+  mramezani95: 93
+  prsunny: 8
+  renovate[bot]: 16
+  rustiqly: 32
+  xq9mend: 8
+  yijingyan2: 15
+/mseethrifttest/:
+  bhouse-nexthop: 67
+  ganglyu: 2
+  lipxu: 16
+  mramezani95: 93
+  prsunny: 8
+  renovate[bot]: 16
+  rustiqly: 32
+  xq9mend: 8
+  yijingyan2: 15
+/supervisor/:
+  mramezani95: 1
+/swsscommon/:
+  xq9mend: 2
+/swsscommontest/:
+  bhouse-nexthop: 67
+  ganglyu: 2
+  lipxu: 16
+  mramezani95: 93
+  prsunny: 8
+  renovate[bot]: 16
+  rustiqly: 32
+  xq9mend: 8
+  yijingyan2: 15
+/test/:
+  mramezani95: 70
+  prsunny: 4
+/test/config/:
+  mramezani95: 70
+  prsunny: 4
+

@@ -1,11 +1,182 @@
 [
     {
+        "additions": 69,
+        "author": "tjchadaga",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-04T17:47:30Z",
+        "number": 2379,
+        "title": "Add release notes for SAI header version v1.19.2",
+        "repo": "sai"
+    },
+    {
+        "additions": 214,
+        "author": "MoriLevinzon",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T14:52:32Z",
+        "number": 2378,
+        "title": "[meta] Free RPC server allocations before throwing on error",
+        "repo": "sai"
+    },
+    {
+        "additions": 1,
+        "author": "tjchadaga",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-23T18:01:26Z",
+        "number": 2374,
+        "title": "Update SAI minor version to v1.19.2",
+        "repo": "sai"
+    },
+    {
+        "additions": 1,
+        "author": "tjchadaga",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-22T17:01:34Z",
+        "number": 2371,
+        "title": "[ci] Makefile change to validate the generated python files",
+        "repo": "sai"
+    },
+    {
+        "additions": 1,
+        "author": "tjchadaga",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-21T16:57:11Z",
+        "number": 2370,
+        "title": "[meta] Fix sai_adapter.py generation for objects without stat enums",
+        "repo": "sai"
+    },
+    {
+        "additions": 107,
+        "author": "darius-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-23T17:39:42Z",
+        "number": 2369,
+        "title": "Add sample packet and sample mirror attributes to LAG",
+        "repo": "sai"
+    },
+    {
+        "additions": 21,
+        "author": "daiwei1983",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T18:11:24Z",
+        "number": 2367,
+        "title": "introduce SAI_PORT_ATTR_OPER_STATUS_LATCH",
+        "repo": "sai"
+    },
+    {
+        "additions": 6,
+        "author": "darius-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-23T16:07:20Z",
+        "number": 2366,
+        "title": "Allow IP and MAC header attributes on SFLOW sessions",
+        "repo": "sai"
+    },
+    {
+        "additions": 1,
+        "author": "tjchadaga",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-06T20:44:40Z",
+        "number": 2360,
+        "title": "Update SAI header version to v1.19.1",
+        "repo": "sai"
+    },
+    {
+        "additions": 5,
+        "author": "tjchadaga",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-06T20:28:13Z",
+        "number": 2359,
+        "title": "[meta] Fix enum re-ordering in metadata header files",
+        "repo": "sai"
+    },
+    {
+        "additions": 1,
+        "author": "pullaraogunda",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-02T00:50:19Z",
+        "number": 2358,
+        "title": "Increasing the data type from 16 bit to 32 bit for native receiver total credits",
+        "repo": "sai"
+    },
+    {
+        "additions": 7,
+        "author": "tsmail1441",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-29T18:48:14Z",
+        "number": 2354,
+        "title": "[debug_counter] Add support for SAI_IN_DROP_REASON_LPM_ANY",
+        "repo": "sai"
+    },
+    {
+        "additions": 27,
+        "author": "AnandhiDhanabalan",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T00:03:30Z",
+        "number": 2353,
+        "title": "Add port MRU attribute",
+        "repo": "sai"
+    },
+    {
+        "additions": 32619,
+        "author": "dpelton-ciena",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-05T23:48:01Z",
+        "number": 2350,
+        "title": "add Passive Optical Network (PON) to experimental",
+        "repo": "sai"
+    },
+    {
+        "additions": 91,
+        "author": "JaiOCP",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-02T17:50:35Z",
+        "number": 2349,
+        "title": "TRIM to Sender and TC-DSCP Map",
+        "repo": "sai"
+    },
+    {
+        "additions": 352,
+        "author": "j-bos",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-01T23:12:42Z",
+        "number": 2348,
+        "title": "HW Protection Group amendments and clarifications",
+        "repo": "sai"
+    },
+    {
+        "additions": 0,
+        "author": "j-bos",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-29T19:15:46Z",
+        "number": 2347,
+        "title": "[Cleanup] Move health_event.md to doc directory",
+        "repo": "sai"
+    },
+    {
         "additions": 1,
         "author": "Pterosaur",
         "baseRefName": "master",
         "mergedAt": "2026-09-05T08:36:08Z",
         "number": 2346,
         "title": "[doc]: Clarify HFT enterprise number layout",
+        "repo": "sai"
+    },
+    {
+        "additions": 1,
+        "author": "grangaswamy-marvell",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-29T18:26:35Z",
+        "number": 2345,
+        "title": "SAI Metadata Issue with Hostif Table Entry Type VLAN – OBJ_ID",
+        "repo": "sai"
+    },
+    {
+        "additions": 59,
+        "author": "nipunjoy",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-01T22:13:09Z",
+        "number": 2344,
+        "title": " Add User defined trap types for route,ipmc,l2mc,mysid",
         "repo": "sai"
     },
     {
@@ -18,12 +189,39 @@
         "repo": "sai"
     },
     {
+        "additions": 1,
+        "author": "vaibhav8a",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T00:18:11Z",
+        "number": 2341,
+        "title": "docs: fix typo strucutre -> structure",
+        "repo": "sai"
+    },
+    {
+        "additions": 233,
+        "author": "komal-marvell",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-01T23:33:26Z",
+        "number": 2340,
+        "title": "Added separate TC to Queue map for Multicast Flows",
+        "repo": "sai"
+    },
+    {
         "additions": 8,
         "author": "tsmail1441",
         "baseRefName": "master",
         "mergedAt": "2026-08-31T18:55:02Z",
         "number": 2333,
         "title": "[debugcounter] Add support for SAI_IN_DROP_REASON_EGRESS_LINK_DOWN",
+        "repo": "sai"
+    },
+    {
+        "additions": 718,
+        "author": "manamand2020",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-06T19:13:36Z",
+        "number": 2332,
+        "title": "EVPN MultiHoming Fast ReRoute for L3VNI-routed traffic",
         "repo": "sai"
     },
     {
@@ -72,6 +270,42 @@
         "repo": "sai"
     },
     {
+        "additions": 194,
+        "author": "AnandhiDhanabalan",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T00:00:57Z",
+        "number": 2326,
+        "title": "Add VLAN-aware MLD Snooping support",
+        "repo": "sai"
+    },
+    {
+        "additions": 8,
+        "author": "pdhruv-marvell",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T20:37:47Z",
+        "number": 2325,
+        "title": "Added support for supported loopback mode for port object",
+        "repo": "sai"
+    },
+    {
+        "additions": 769,
+        "author": "gurprem-singh",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-01T17:41:36Z",
+        "number": 2324,
+        "title": "Feature: PTP Peer-to-Peer (P2P) Path Delay Support",
+        "repo": "sai"
+    },
+    {
+        "additions": 70,
+        "author": "AnandhiDhanabalan",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-06T16:40:39Z",
+        "number": 2323,
+        "title": "Policer enhancement to support operational visibility and MEF Metering Modes",
+        "repo": "sai"
+    },
+    {
         "additions": 9,
         "author": "zechengh09",
         "baseRefName": "master",
@@ -87,6 +321,15 @@
         "mergedAt": "2026-07-28T15:56:47Z",
         "number": 2321,
         "title": "[sai_test]: Isolate simulated IPv6 startup control traffic",
+        "repo": "sai"
+    },
+    {
+        "additions": 29,
+        "author": "mobinmohan",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-06T18:44:09Z",
+        "number": 2318,
+        "title": "[ACL] Add support for REDIRECT_ORIGINAL_PACKET action",
         "repo": "sai"
     },
     {
@@ -213,6 +456,24 @@
         "mergedAt": "2026-05-04T22:19:48Z",
         "number": 2281,
         "title": "[DASH] Add ENI HA operational flow owner attribute",
+        "repo": "sai"
+    },
+    {
+        "additions": 6,
+        "author": "msherif1234",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T18:53:28Z",
+        "number": 2280,
+        "title": "Add queue DLR deleted packets and bytes stats",
+        "repo": "sai"
+    },
+    {
+        "additions": 290,
+        "author": "milosmoskovljevic",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-01T17:18:33Z",
+        "number": 2276,
+        "title": "Added new attribute SAI_MIRROR_SESSION_ATTR_GUARANTEE_RATE",
         "repo": "sai"
     },
     {

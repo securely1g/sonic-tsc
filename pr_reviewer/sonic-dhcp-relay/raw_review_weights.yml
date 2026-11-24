@@ -1,0 +1,77 @@
+/:
+  Blueve: 2.0342
+  StormLiangMS: 2.7179
+  Xichen96: 6.4961
+  ashutosh-agrawal: 4.8154
+  lihuay: 0.3351
+  liushilongbuaa: 0.195
+  lunyue-ms: 0.938
+  qiluo-msft: 4.0938
+  saiarcot895: 0.2985
+  vaibhavhd: 0.5398
+  vrajeshe: 0.1716
+  yaqiangz: 0.5115
+  yxieca: 0.3935
+/.azure-pipelines/:
+  Blueve: 0.2967
+  lunyue-ms: 0.938
+  saiarcot895: 0.2985
+  vaibhavhd: 0.5398
+  vrajeshe: 0.1716
+  yaqiangz: 0.3809
+/.github/:
+  lihuay: 0.3351
+  liushilongbuaa: 0.195
+  saiarcot895: 0.2985
+  vaibhavhd: 0.5398
+  vrajeshe: 0.1716
+  yaqiangz: 0.3269
+/.github/workflows/:
+  liushilongbuaa: 0.195
+  saiarcot895: 0.2985
+  vaibhavhd: 0.5398
+  vrajeshe: 0.1716
+  yaqiangz: 0.3269
+/dhcp4relay/:
+  Blueve: 1.5826
+  StormLiangMS: 2.7179
+  Xichen96: 5.1894
+  ashutosh-agrawal: 4.1251
+  qiluo-msft: 2.1467
+  yxieca: 0.2619
+/dhcp4relay/debian/:
+  Blueve: 0.2291
+  ashutosh-agrawal: 0.2606
+  yxieca: 0.2619
+/dhcp4relay/patch/:
+  Blueve: 0.4911
+/dhcp4relay/src/:
+  Blueve: 1.5826
+  StormLiangMS: 2.7179
+  Xichen96: 4.4622
+  ashutosh-agrawal: 3.8646
+  qiluo-msft: 2.1467
+/dhcp4relay/test/:
+  Blueve: 1.16
+  StormLiangMS: 2.0129
+  Xichen96: 4.7196
+  ashutosh-agrawal: 2.9659
+  qiluo-msft: 1.4478
+/dhcp6relay/:
+  Xichen96: 1.3067
+  ashutosh-agrawal: 0.6903
+  vrajeshe: 0.1716
+  yaqiangz: 0.1964
+/dhcp6relay/debian/:
+  vrajeshe: 0.1716
+  yaqiangz: 0.1964
+/dhcp6relay/src/:
+  Xichen96: 1.3067
+  ashutosh-agrawal: 0.6903
+  vrajeshe: 0.1716
+  yaqiangz: 0.1964
+/dhcp6relay/test/:
+  Xichen96: 1.3067
+  ashutosh-agrawal: 0.6903
+  vrajeshe: 0.1716
+  yaqiangz: 0.1964

@@ -1,5 +1,95 @@
 [
     {
+        "additions": 8,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-21T01:17:33Z",
+        "number": 194,
+        "title": "Update module golang.org/x/crypto to v0.59.0 [SECURITY] (master)",
+        "repo": "sonic-mgmt-framework"
+    },
+    {
+        "additions": 39,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-20T22:23:47Z",
+        "number": 192,
+        "title": "[build] require a published sonic-mgmt-common, and build against the checkout",
+        "repo": "sonic-mgmt-framework"
+    },
+    {
+        "additions": 2,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T22:35:41Z",
+        "number": 186,
+        "title": "Update github/codeql-action action to v4 (master)",
+        "repo": "sonic-mgmt-framework"
+    },
+    {
+        "additions": 2,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T21:49:20Z",
+        "number": 185,
+        "title": "Update actions/checkout action to v7 (master)",
+        "repo": "sonic-mgmt-framework"
+    },
+    {
+        "additions": 3,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T21:49:15Z",
+        "number": 183,
+        "title": "Update module github.com/gorilla/mux to v1.8.1 (master)",
+        "repo": "sonic-mgmt-framework"
+    },
+    {
+        "additions": 52,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-20T06:16:06Z",
+        "number": 179,
+        "title": "Update module github.com/redis/go-redis/v9 to v9.6.3 [SECURITY] (master)",
+        "repo": "sonic-mgmt-framework"
+    },
+    {
+        "additions": 213,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T15:55:07Z",
+        "number": 178,
+        "title": "Add Renovate configuration",
+        "repo": "sonic-mgmt-framework"
+    },
+    {
+        "additions": 1,
+        "author": "yijingyan2",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-29T23:56:57Z",
+        "number": 175,
+        "title": "[ci] switch to sonicso1ES-amd64 to address no space left issue",
+        "repo": "sonic-mgmt-framework"
+    },
+    {
+        "additions": 3,
+        "author": "nishant111",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-26T10:44:49Z",
+        "number": 172,
+        "title": "Update antchfx/xpath to v1.3.6",
+        "repo": "sonic-mgmt-framework"
+    },
+    {
+        "additions": 11,
+        "author": "nishant111",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-13T03:23:47Z",
+        "number": 170,
+        "title": "Update golang.org/x/crypto to v0.52.0",
+        "repo": "sonic-mgmt-framework"
+    },
+    {
         "additions": 85,
         "author": "mssonicbld",
         "baseRefName": "202605",
@@ -42,6 +132,15 @@
         "mergedAt": "2026-06-03T03:20:47Z",
         "number": 161,
         "title": "azure-pipelines: migrate libyang1 deb install to libyang3",
+        "repo": "sonic-mgmt-framework"
+    },
+    {
+        "additions": 50,
+        "author": "oleksandrivantsiv",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-15T01:33:49Z",
+        "number": 160,
+        "title": "[chore/github]: Standardize GitHub PR description template",
         "repo": "sonic-mgmt-framework"
     },
     {

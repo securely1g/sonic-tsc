@@ -1,5 +1,293 @@
 [
     {
+        "additions": 1,
+        "author": "dypet",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T17:52:13Z",
+        "number": 341,
+        "title": "Update vpp version.",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 153,
+        "author": "yue-fred-gao",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T21:34:41Z",
+        "number": 340,
+        "title": "Refactor validity field to generic flags",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 827,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-21T13:41:06Z",
+        "number": 339,
+        "title": "[vpp][sonic_ext] Set a fixed tunnel encap TTL for the SAI pipe TTL model",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 0,
+        "author": "antonio-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T22:55:53Z",
+        "number": 338,
+        "title": "SONiC EOL and Deprecation Plan for 202611 -- Remove the Barefoot syncd init path",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 1,
+        "author": "yue-fred-gao",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T01:48:36Z",
+        "number": 336,
+        "title": "Increment vpp version",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 1606,
+        "author": "yue-fred-gao",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T14:30:36Z",
+        "number": 335,
+        "title": "vpp: add sflow drop monitoring patch",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 1045,
+        "author": "AkeelAli",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-19T19:58:16Z",
+        "number": 334,
+        "title": "Vpp configurable drop counters",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 439,
+        "author": "taran9999",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-09T13:26:40Z",
+        "number": 333,
+        "title": "vpp: Add unit tests for everflow features",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 421,
+        "author": "yue-fred-gao",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T15:33:57Z",
+        "number": 331,
+        "title": "Add document for sonic_ext_vnet_buf usage",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 152,
+        "author": "yue-fred-gao",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T18:32:27Z",
+        "number": 330,
+        "title": "Add knob for dropping link local IP",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 518,
+        "author": "aaronber0614",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T12:36:55Z",
+        "number": 329,
+        "title": "[sonic-ext] Preserve egress features after packet trimming",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 389,
+        "author": "yue-fred-gao",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T15:04:01Z",
+        "number": 328,
+        "title": "[vpp] ipip: punt locally destined no-tunnel IPinIP packets instead of dropping them",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 412,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-30T02:20:23Z",
+        "number": 327,
+        "title": "[vpp][sonic_ext] Learn the source MAC of trapped L2 frames",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 1555,
+        "author": "nhegde-microsoft",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T17:53:10Z",
+        "number": 326,
+        "title": "[vpp][sonic-ext][CoPP] Enable CoPP tests on t0-vpp",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 384,
+        "author": "AkeelAli",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-28T16:23:26Z",
+        "number": 323,
+        "title": "[sonic-ext] Test feature toggles set in startup.conf",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 1498,
+        "author": "dypet",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-12T14:18:06Z",
+        "number": 322,
+        "title": "[vpp] Support ACL VLAN matching and fix QinQ handling.",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 216,
+        "author": "nhegde-microsoft",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-23T16:52:32Z",
+        "number": 320,
+        "title": "[vpp][CoPP] Preserve ingress frame on TTL_ERROR punt",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 874,
+        "author": "nhegde-microsoft",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-22T19:46:53Z",
+        "number": 318,
+        "title": "[vpp][sonic_ext] Add CoPP dataplane tests",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 205,
+        "author": "rnwolfe",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-28T13:02:22Z",
+        "number": 315,
+        "title": "[vpp] nat44-ed: route hosts without a static NAT mapping untranslated",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 123,
+        "author": "aaronber0614",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-27T13:17:38Z",
+        "number": 314,
+        "title": "[vpp][vxlan] Add source-independent decap unit tests",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 143,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-21T07:16:31Z",
+        "number": 313,
+        "title": "[vpp] Fix MACs missing from the FDB after an FDB flush",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 42,
+        "author": "mmiklus",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-20T21:03:15Z",
+        "number": 311,
+        "title": "[docker-sonic-vpp]: Default VPP interface rx-mode to adaptive",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 566,
+        "author": "yue-fred-gao",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-17T05:08:35Z",
+        "number": 310,
+        "title": "Add UT for sflow changes",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 2,
+        "author": "rnwolfe",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-29T00:58:53Z",
+        "number": 305,
+        "title": "vpp: load nat_plugin.so (nat44-ed) for SAI NAT",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 98,
+        "author": "nhegde-microsoft",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-13T03:21:00Z",
+        "number": 304,
+        "title": "[vpp][CoPP] Add config to enable/disable CoPP dataplane policing",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 386,
+        "author": "yue-fred-gao",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-09T21:00:42Z",
+        "number": 301,
+        "title": "Add patch to skip ip src check",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 412,
+        "author": "AkeelAli",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-20T01:33:14Z",
+        "number": 299,
+        "title": "Enable VPP SAI UT CI",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 4392,
+        "author": "yue-fred-gao",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-15T00:15:11Z",
+        "number": 298,
+        "title": "[sonic-ext] Add Policy Based Hashing (PBH) to the VPP dataplane",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 0,
+        "author": "zedzean",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T20:06:39Z",
+        "number": 297,
+        "title": "syncd: remove Nephos initialization from VPP",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 1137,
+        "author": "yue-fred-gao",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-02T13:18:10Z",
+        "number": 296,
+        "title": "Add sonic-ext test for punt-via-member feature",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 301,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-01T07:07:44Z",
+        "number": 295,
+        "title": "[vpp] send IPv6 ND to the kernel instead of VPP, as ARP",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 364,
+        "author": "AkeelAli",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-28T16:02:16Z",
+        "number": 291,
+        "title": "Select sonic_ext plugin features from config",
+        "repo": "sonic-platform-vpp"
+    },
+    {
         "additions": 31,
         "author": "taran9999",
         "baseRefName": "master",
@@ -33,6 +321,15 @@
         "mergedAt": "2026-09-10T14:53:26Z",
         "number": 282,
         "title": "[vpp] reduce syncd-vpp dataplane workers from 2 to 1",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 2749,
+        "author": "nhegde-microsoft",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T13:29:19Z",
+        "number": 281,
+        "title": "[vpp] add plugins for CoPP dataplane enforcement",
         "repo": "sonic-platform-vpp"
     },
     {
@@ -99,6 +396,15 @@
         "repo": "sonic-platform-vpp"
     },
     {
+        "additions": 1848,
+        "author": "aaronber0614",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-26T22:21:03Z",
+        "number": 269,
+        "title": "[vpp] Add sonic_ext packet-trim admission shim (SAI DROP_AND_TRIM datapath)",
+        "repo": "sonic-platform-vpp"
+    },
+    {
         "additions": 1,
         "author": "yijingyan2",
         "baseRefName": "master",
@@ -150,6 +456,15 @@
         "mergedAt": "2026-08-11T14:23:43Z",
         "number": 260,
         "title": "Fix docker-sonic-vpp single-container image build and runtime",
+        "repo": "sonic-platform-vpp"
+    },
+    {
+        "additions": 639,
+        "author": "aaronber0614",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-14T00:33:10Z",
+        "number": 259,
+        "title": "[vpp] Add sonic_ext RIF loopback packet action nodes and binary API",
         "repo": "sonic-platform-vpp"
     },
     {

@@ -51,6 +51,34 @@
     {
         "number": 26708,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-10-07T12:30:55Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "@deerao02 PR conflicts with 202605 branch"
+    },
+    {
+        "number": 26708,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-07T13:16:55Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "This PR is approved for branch 202605. No cherry pick PR has been created because of code conflict. @deerao02, please manually create the cherry pick PR.<br>If this change is already in 202605, please comment \"already in 202605\". Thanks!\n\n<div align=\"right\"><sub>---Powered by SONiC BuildBot</sub></div>"
+    },
+    {
+        "number": 26708,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-13T23:09:01Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@deerao02 Please provide test results for your 202605 branch cherry-pick request.\n\nPlease run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\n\nIf you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\n\n<!-- cherrypick-desk:42353d0c-43fa-4f1d-8273-d7af5c4bc73a:26708 -->"
+    },
+    {
+        "number": 26708,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-14T00:11:57Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@deerao02, could you please resolve the cherry-pick conflict for #26708 onto `202605`?\n\nIf there is no response for fourteen full days, a maintainer may separately prepare and explicitly publish an AI-assisted **draft** backport for review. This message does not grant approval or request a merge.\n\n<!-- cherrypick-desk-conflict:c82e82ae-a0a0-4036-8ae1-b5183f861a16:66027a50bd9de1b08991fb8442ef561f6beecedc0830ab4606a4640e70f28fde -->"
+    },
+    {
+        "number": 26708,
+        "repo": "sonic-mgmt",
         "review_at": "2026-07-30T21:48:54Z",
         "review_author": "copilot-pull-request-reviewer"
     },
@@ -129,6 +157,13 @@
         "comment_at": "2026-08-11T02:15:14Z",
         "comment_author": "StormLiangMS",
         "comment_body": "@deerao02 \u2014 this PR is labeled Request for 202605 branch, but the following required information is still missing:\n\n- linked GitHub issue or ADO work item\n- 202605-specific image/test result evidence\n\nPlease add the missing information to the PR description. Tracker details should cover day-one/regression status, affected branch/image/platform/test, and why 202605 needs the fix; validation should identify the tested 202605 image and include the result or result link.\n\n<!-- copilot-202605-backport-reminder -->"
+    },
+    {
+        "number": 26704,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-07T12:31:30Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "Cherry-pick PR to 202605: https://github.com/sonic-net/sonic-mgmt/pull/28422"
     },
     {
         "number": 26704,
@@ -3532,6 +3567,13 @@
     {
         "number": 26540,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-09-29T04:29:39Z",
+        "comment_author": "zypgithub",
+        "comment_body": "Hi @deerao02 @xwjiang-ms , we also need this fix in 202605 branch, can we backport it?"
+    },
+    {
+        "number": 26540,
+        "repo": "sonic-mgmt",
         "review_at": "2026-07-23T21:47:32Z",
         "review_author": "copilot-pull-request-reviewer"
     },
@@ -3774,6 +3816,20 @@
         "comment_at": "2026-08-11T02:14:58Z",
         "comment_author": "StormLiangMS",
         "comment_body": "@lizhijianrd \u2014 this PR is labeled Request for 202605 branch, but the following required information is still missing:\n\n- linked GitHub issue or ADO work item\n- 202605-specific image/test result evidence\n\nPlease add the missing information to the PR description. Tracker details should cover day-one/regression status, affected branch/image/platform/test, and why 202605 needs the fix; validation should identify the tested 202605 image and include the result or result link.\n\n<!-- copilot-202605-backport-reminder -->"
+    },
+    {
+        "number": 26522,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-07T12:34:46Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@lizhijianrd Please provide test results for your 202605 branch cherry-pick request.\n\nPlease run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\n\nIf you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\n\n<!-- cherrypick-desk:478bd622-e9c9-4ebf-b12b-7de94b4e913d:26522 -->"
+    },
+    {
+        "number": 26522,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-28T08:02:37Z",
+        "comment_author": "CalK16",
+        "comment_body": "@ediwibowo-msft I think this PR is needed for 202608, but the label was removed, any background?"
     },
     {
         "number": 26522,
@@ -6308,6 +6364,13 @@
         "comment_at": "2026-08-25T22:10:04Z",
         "comment_author": "StormLiangMS",
         "comment_body": "<!-- 202605-cherrypick-triage -->\nHi @lizhijianrd,\n\nCould you please clarify whether this PR is a **must-have cherry-pick for the 202605 branch**?\n\n**Current evaluation**\n- Classification: New test coverage/feature\n- Bug fix: No\n- Recommendation: **NO**\n- Rationale: Expands the entire traffic-shift module to C0 and one VPP platform without a tracker or recorded result. This is broad coverage enablement, not correction of broken behavior.\n\nIf this is required for 202605, please reply with the branch-specific failure or impact, required dependencies, and 202605 validation results.\n\nIf there is no response by **September 2, 2026**, the Request for 202605 branch will be rejected based on the evaluation above."
+    },
+    {
+        "number": 26412,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-05T12:43:40Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "Cherry-pick PR to 202605: https://github.com/sonic-net/sonic-mgmt/pull/28388"
     },
     {
         "number": 26412,
@@ -11961,6 +12024,13 @@
     {
         "number": 26221,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-10-12T00:11:53Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@atul-nexthop Reconciled the 202605 cherry-pick request: https://github.com/sonic-net/sonic-mgmt/pull/28182 merged into `202605` at 2026-10-08T23:33:51Z. Using this recorded linked candidate and its verified current target-branch commit containment, with no revert signals detected in the inspected backport metadata. This does not claim a fresh code review, passing CI, patch equivalence, verified original-to-backport mapping, complete original-fix coverage, or a full historical revert search. Marking this request Included and clearing its branch conflict label.\n\n<!-- cherrypick-desk:f466b659-0556-4849-bb7f-924abf327ff7:26221 -->"
+    },
+    {
+        "number": 26221,
+        "repo": "sonic-mgmt",
         "review_at": "2026-07-15T18:22:31Z",
         "review_author": "github-advanced-security"
     },
@@ -12147,6 +12217,13 @@
     {
         "number": 26219,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-10-05T12:48:10Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "Cherry-pick PR to 202605: https://github.com/sonic-net/sonic-mgmt/pull/28390"
+    },
+    {
+        "number": 26219,
+        "repo": "sonic-mgmt",
         "review_at": "2026-07-15T17:28:27Z",
         "review_author": "YatishSVC"
     },
@@ -12218,6 +12295,13 @@
         "comment_at": "2026-08-25T22:09:57Z",
         "comment_author": "StormLiangMS",
         "comment_body": "<!-- 202605-cherrypick-triage -->\nHi @wsycqyz,\n\nCould you please clarify whether this PR is a **must-have cherry-pick for the 202605 branch**?\n\n**Current evaluation**\n- Classification: New test coverage/feature\n- Bug fix: No\n- Recommendation: **NO**\n- Rationale: Re-enables existing coverage on Cisco 8000 without a platform test run, linked defect, or 202605 result. This expands coverage and may re-expose the instability that caused the skip.\n\nIf this is required for 202605, please reply with the branch-specific failure or impact, required dependencies, and 202605 validation results.\n\nIf there is no response by **September 2, 2026**, the Request for 202605 branch will be rejected based on the evaluation above."
+    },
+    {
+        "number": 26214,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-05T12:48:49Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "Cherry-pick PR to 202605: https://github.com/sonic-net/sonic-mgmt/pull/28391"
     },
     {
         "number": 26214,
@@ -12560,6 +12644,41 @@
         "comment_at": "2026-08-25T12:45:14Z",
         "comment_author": "StormLiangMS",
         "comment_body": "@auspham is this must to have for 202605?"
+    },
+    {
+        "number": 26199,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-22T08:30:50Z",
+        "comment_author": "Sourabh-Kumar7",
+        "comment_body": "for 202605: https://elastictest.org/scheduler/testplan/6ad9a601a27d357af181d7ac"
+    },
+    {
+        "number": 26199,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-22T08:30:51Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "Removed label(s):\n- `Request for 202511 branch`: The matching `Tested for 202511 Branch` label is missing. This requirement also applies to manually added request labels.\n- `Request for msft-202606 branch`: The matching `Tested for msft-202606 Branch` label is missing. This requirement also applies to manually added request labels.\n- `Request for msft-202607 branch`: The matching `Tested for msft-202607 Branch` label is missing. This requirement also applies to manually added request labels.\n- `Request for msft-202608 branch`: The matching `Tested for msft-202608 Branch` label is missing. This requirement also applies to manually added request labels.\n\nThis PR requests backports for branch(es): 202511, 202606, 202607, 202608, but is missing required test information.\n\n**Update the PR description, not a PR comment:**\n1. List each requested branch under **Backport**.\n2. After testing on each branch, tick its checkbox (`- [x]`) under **Tested branch**. An unchecked box (`- [ ]`) does not count.\n3. Under **Test result**, start a separate entry with each branch number, followed by its test evidence on the same line or the following lines, such as a test-run link or a summary with logs. A branch number alone, placeholders, and results for another branch do not count.\n\nExample format for the branches above (replace every placeholder with your actual test evidence; only check branches you have tested):\n```markdown\n### Backport\n202511\n202606\n202607\n202608\n\n### Tested branch\n- [x] 202511\n- [x] 202606\n- [x] 202607\n- [x] 202608\n\n### Test result\n202511: <link to test results or summary with logs>\n202606: <link to test results or summary with logs>\n202607: <link to test results or summary with logs>\n202608: <link to test results or summary with logs>\n```\n\nKeep this information outside HTML comments (`<!-- ... -->`) so the app can read it.\nAfter you save the PR description, the app checks it again and adds the matching `Tested for <branch> Branch` labels first, then the `Request for <branch> Branch` labels. Request labels remain blocked until their matching tested labels are present.\n\n<div align=\"right\"><sub>---Powered by SONiC BuildBot</sub></div>"
+    },
+    {
+        "number": 26199,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-22T08:31:09Z",
+        "comment_author": "Sourabh-Kumar7",
+        "comment_body": "@StormLiangMS could you pls help approve this for 202605? thanks\r\n"
+    },
+    {
+        "number": 26199,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-29T11:34:52Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@auspham Approved for the 202605 branch cherry-pick request. This does not merge or approve the original PR.\n\n<!-- cherrypick-desk:89c3367e-35ac-4123-bacf-1c46a31b4172:26199 -->"
+    },
+    {
+        "number": 26199,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-29T11:35:22Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "Cherry-pick PR to 202605: https://github.com/sonic-net/sonic-mgmt/pull/28908"
     },
     {
         "number": 26199,
@@ -13168,6 +13287,20 @@
     {
         "number": 26176,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-10-07T12:33:54Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@deepak-singhal0408 Please provide test results for your 202605 branch cherry-pick request.\n\nPlease run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\n\nIf you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\n\n<!-- cherrypick-desk:478bd622-e9c9-4ebf-b12b-7de94b4e913d:26176 -->"
+    },
+    {
+        "number": 26176,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-08T02:41:50Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@deepak-singhal0408 Reconciled the 202605 cherry-pick request: https://github.com/sonic-net/sonic-mgmt/pull/26270 merged into `202605` at 2026-07-24T00:34:36Z. Using this recorded linked candidate and its verified current target-branch commit containment, with no revert signals detected in the inspected backport metadata. This does not claim a fresh code review, passing CI, patch equivalence, verified original-to-backport mapping, complete original-fix coverage, or a full historical revert search. Marking this request Included and clearing its branch conflict label.\n\n<!-- cherrypick-desk:a3aa23bf-2de5-40a5-9e1e-ba599299b9a8:26176 -->"
+    },
+    {
+        "number": 26176,
+        "repo": "sonic-mgmt",
         "review_at": "2026-07-16T11:27:43Z",
         "review_author": "StormLiangMS"
     },
@@ -13410,6 +13543,13 @@
     {
         "number": 26169,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-10-07T22:38:04Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "Cherry-pick PR to 202605: https://github.com/sonic-net/sonic-mgmt/pull/28438"
+    },
+    {
+        "number": 26169,
+        "repo": "sonic-mgmt",
         "review_at": "2026-07-14T23:12:32Z",
         "review_author": "maipbui"
     },
@@ -13548,6 +13688,20 @@
         "comment_at": "2026-08-11T06:16:31Z",
         "comment_author": "mssonicbld",
         "comment_body": "This PR has backport request label(s) for branch(es): msft-202603,202605, but is missing required test information. Please make sure you tick the tested branch(es) in the **Tested branch** section and provide test evidence (e.g., 202603: &lt;test result&gt;) in the **Test result** section as well in your PR description.\n\n<div align=\"right\"><sub>---Powered by SONiC BuildBot</sub></div>"
+    },
+    {
+        "number": 26154,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-09T02:46:16Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "Cherry-pick PR to msft-202608: https://github.com/Azure/sonic-mgmt.msft/pull/1477"
+    },
+    {
+        "number": 26154,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-09T06:17:45Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "This PR has backport request label(s) for branch(es): msft-202608, but is missing required test information. Please make sure you tick the tested branch(es) in the **Tested branch** section and provide test evidence (e.g., 202608: &lt;test result&gt;) in the **Test result** section as well in your PR description.\n\n<div align=\"right\"><sub>---Powered by SONiC BuildBot</sub></div>"
     },
     {
         "number": 26154,
@@ -13801,6 +13955,13 @@
         "comment_at": "2026-08-11T02:14:39Z",
         "comment_author": "StormLiangMS",
         "comment_body": "@arista-nwolfe \u2014 this PR is labeled Request for 202605 branch, but the following required information is still missing:\n\n- linked GitHub issue or ADO work item\n- 202605-specific image/test result evidence\n\nPlease add the missing information to the PR description. Tracker details should cover day-one/regression status, affected branch/image/platform/test, and why 202605 needs the fix; validation should identify the tested 202605 image and include the result or result link.\n\n<!-- copilot-202605-backport-reminder -->"
+    },
+    {
+        "number": 26145,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-08T22:59:13Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@arista-nwolfe Please provide test results for your 202605 branch cherry-pick request.\n\nPlease run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\n\nIf you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\n\n<!-- cherrypick-desk:c7cfb909-2e29-46e7-b1d3-23d4965407f2:26145 -->"
     },
     {
         "number": 26145,
@@ -15434,6 +15595,27 @@
     {
         "number": 26077,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-11-17T01:44:10Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "Removed label(s):\n- `Request for 202511 branch`: The matching `Tested for 202511 Branch` label is missing. This requirement also applies to manually added request labels.\n- `Request for msft-202512 Branch`: The matching `Tested for msft-202512 Branch` label is missing. This requirement also applies to manually added request labels.\n\nThis PR requests backports for branch(es): 202511, 202512, but is missing required test information.\n\n**Update the PR description, not a PR comment:**\n1. List each requested branch under **Backport**.\n2. After testing on each branch, tick its checkbox (`- [x]`) under **Tested branch**. An unchecked box (`- [ ]`) does not count.\n3. Under **Test result**, start a separate entry with each branch number, followed by its test evidence on the same line or the following lines, such as a test-run link or a summary with logs. A branch number alone, placeholders, and results for another branch do not count.\n\nPlease make sure you have done all three steps above.\nExample format for the branches above (replace every placeholder with your actual test evidence; only check branches you have tested):\n```markdown\n### Backport\n202511\n202512\n\n### Tested branch\n- [x] 202511\n- [x] 202512\n\n### Test result\n202511: <link to test results or summary with logs>\n202512: <link to test results or summary with logs>\n```\n\nKeep this information outside HTML comments (`<!-- ... -->`) so it can be read.\nAfter you save the PR description, I will check it again and add the matching `Tested for <branch> Branch` labels first, then the `Request for <branch> Branch` labels. Request labels remain blocked until their matching tested labels are present.\n\n<div align=\"right\"><sub>---Powered by SONiC BuildBot</sub></div>"
+    },
+    {
+        "number": 26077,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-11-17T05:56:17Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "@deerao02 PR conflicts with 202605 branch"
+    },
+    {
+        "number": 26077,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-11-17T06:19:08Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "This PR is approved for branch 202605. No cherry pick PR has been created because of code conflict. @deerao02, please manually create the cherry pick PR.<br>If this change is already in 202605, please comment \"already in 202605\". Thanks!\n\n<div align=\"right\"><sub>---Powered by SONiC BuildBot</sub></div>"
+    },
+    {
+        "number": 26077,
+        "repo": "sonic-mgmt",
         "review_at": "2026-07-10T23:16:08Z",
         "review_author": "bingwang-ms"
     },
@@ -15936,6 +16118,34 @@
         "comment_at": "2026-08-11T02:14:56Z",
         "comment_author": "StormLiangMS",
         "comment_body": "@v-cshekar \u2014 this PR is labeled Request for 202605 branch, but the following required information is still missing:\n\n- linked GitHub issue or ADO work item\n- 202605-specific image/test result evidence\n\nPlease add the missing information to the PR description. Tracker details should cover day-one/regression status, affected branch/image/platform/test, and why 202605 needs the fix; validation should identify the tested 202605 image and include the result or result link.\n\n<!-- copilot-202605-backport-reminder -->"
+    },
+    {
+        "number": 26064,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-08T22:57:00Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "@v-cshekar PR conflicts with 202605 branch"
+    },
+    {
+        "number": 26064,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-09T06:18:30Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "This PR is approved for branch 202605. No cherry pick PR has been created because of code conflict. @v-cshekar, please manually create the cherry pick PR.<br>If this change is already in 202605, please comment \"already in 202605\". Thanks!\n\n<div align=\"right\"><sub>---Powered by SONiC BuildBot</sub></div>"
+    },
+    {
+        "number": 26064,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-13T23:09:06Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@v-cshekar Please provide test results for your 202605 branch cherry-pick request.\n\nPlease run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\n\nIf you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\n\n<!-- cherrypick-desk:42353d0c-43fa-4f1d-8273-d7af5c4bc73a:26064 -->"
+    },
+    {
+        "number": 26064,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-14T00:12:11Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@v-cshekar, could you please resolve the cherry-pick conflict for #26064 onto `202605`?\n\nIf there is no response for fourteen full days, a maintainer may separately prepare and explicitly publish an AI-assisted **draft** backport for review. This message does not grant approval or request a merge.\n\n<!-- cherrypick-desk-conflict:1f70847b-6941-46f1-b86d-5ceb4a10ad25:98c528bcbb7df952873d5df389e4824f26ff31ec86248a2b1333bcf50885f157 -->"
     },
     {
         "number": 26064,
@@ -19148,6 +19358,13 @@
     {
         "number": 25978,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-10-09T07:42:15Z",
+        "comment_author": "wsycqyz",
+        "comment_body": "## Technical memo: `vxlan/test_vxlan_multiple_tunnels.py` on Cisco 8102-64H (`x86_64-8102_64h_o-r0`): root cause of the failure\r\n\r\n### TL;DR\r\n- The 8102-64H failure is **not a test issue** and **not caused by the Cisco 3-tunnel limit**: the 3 VxLAN P2MP tunnels the test creates on cisco-8000 are within that limit.\r\n- On 8102-64H, **VxLAN decapsulation is silently dropped in the ASIC**. The trigger is the Silicon One NPU device property **`mcast_tunnel_enabled: true`**, which only the 8102-64H platform config sets. 8101-32FH and 8102-28FH-DPU use the same Silicon One (Gibraltar) ASIC without it, and the test passes on both.\r\n- With **`mcast_tunnel_enabled: false`** the full test scenario works on 8102-64H. Setting it back to `true` brings the drop back (A/B/A verified).\r\n- Recommendation: keep 8102-64H excluded for now, but as a **known platform issue with a tracking item**, not as \"not supported\". Revert this PR once the platform fix lands. On the revert question: not yet.\r\n\r\n### Context\r\n- This PR removed `x86_64-8102_64h_o-r0` from the allow-list of `vxlan/test_vxlan_multiple_tunnels.py` as \"not supported\".\r\n- #21400 added the test for feature validation, with 8102-64H in scope.\r\n- #25799 skips only the 4th tunnel (`special_v6`) on cisco-8000, because SAI supports at most 3 VxLAN P2MP tunnels. On cisco-8000 the test creates 3 tunnels and skips the 4 `outer_special_v6` cases.\r\n\r\n### Observations (202605, SONiC.20260510.19, 8102-64H on t1-64-lag)\r\n1. Running the test with 8102-64H re-enabled: **12/12 executed cases fail** with `Did not receive expected packet`, including on retry. The 4 `outer_special_v6` cases are skipped as designed. The PTF captures **no VxLAN packet at all** from the DUT.\r\n2. Since it was added, the test has never passed on 8102-64H in our nightly runs, on 202511 or 202605 images. It passes on 8101-32FH and 8102-28FH-DPU with the same image.\r\n3. The SONiC side is programmed correctly:\r\n   - ASIC_DB has `SAI_SWITCH_ATTR_VXLAN_DEFAULT_PORT`, `SAI_SWITCH_ATTR_VXLAN_DEFAULT_ROUTER_MAC`, a P2MP VxLAN tunnel-term entry for the loopback in the default VR, active VNET routes, and tunnel-encap next hops.\r\n   - No SAI error is specific to the failure.\r\n   - The VxLAN packets are **not trapped to the CPU**, so they are dropped inside the SDK/ASIC.\r\n4. Other VNET / overlay-ECMP tests pass on 8102-64H because they **do not exercise VxLAN decap**. For example, `test_vnet_decap.py` sends IP-in-IP packets in, and `test_vxlan_ecmp*.py` are encap-only. `test_vxlan_multiple_tunnels.py` exercises VxLAN decap \u2192 VNET route \u2192 VxLAN encap.\r\n\r\n### Platform configuration difference: `mcast_tunnel_enabled`\r\nThe Gibraltar `npu_cfg.device_property` blocks are almost identical across these SKUs. The only tunnel-related difference is `mcast_tunnel_enabled`:\r\n\r\n| Platform / HwSKU | `mcast_tunnel_enabled` | test result |\r\n|---|---|---|\r\n| `x86_64-8102_64h_o-r0` (Cisco-8102-C64, Cisco-8102-64H-O) | **`true`** | fails |\r\n| `x86_64-8101_32fh_o-r0` (O8C48 / O8V48 / O32 / \u2026) | not set | passes |\r\n| `x86_64-8102_28fh_dpu_o-r0` | not set | passes |\r\n\r\nOn 8102-64H the property is set in:\r\n- `device/cisco/x86_64-8102_64h_o-r0/platform_npu_cfg.yaml`\r\n- `device/cisco/x86_64-8102_64h_o-r0/<hwsku>/platform_npu_cfg.yaml`\r\n- `device/cisco/x86_64-8102_64h_o-r0/<hwsku>/asic_cfg.json` (`device_property`, used as `SAI_INIT_CONFIG_FILE`)\r\n\r\nIt is also set on other Cisco platforms such as 8111 and 8122, which are not in this test's allow-list.\r\n\r\n### Isolation (PTF-driven, same config as the test)\r\nConfig: `VXLAN_TUNNEL` (ttl_mode pipe), `VNET` (scope default, VNI 8000), `VNET_ROUTE_TUNNEL` routes.\r\n\r\nTo toggle the property, I set `mcast_tunnel_enabled` in the three files above and ran `config reload`, which re-initializes syncd and the SDK. I confirmed syncd loaded the new value, then restored the original config the same way.\r\n\r\n| Probe | `mcast_tunnel_enabled: true` (shipped) | `false` | `true` again |\r\n|---|---|---|---|\r\n| VxLAN \u2192 VNET route \u2192 VxLAN re-encap (1 tunnel) | 0/5 | **5/5** | 0/5 |\r\n| VxLAN decap \u2192 native route | 0/5 | **5/5** | 0/5 |\r\n| IP-in-IP \u2192 VxLAN encap (control) | 5/5 | 5/5 | 5/5 |\r\n| 3 tunnels (loopback_v4 / special_v4 / loopback_v6) \u00d7 v4/v6 VNET route \u00d7 v4/v6 inner (10 combos) | test: 12/12 fail | **10/10 pass** | \u2013 |\r\n\r\n- It fails with a **single** tunnel, so the tunnel count is not a factor.\r\n- The result does not change with the VxLAN UDP port (4789 / 65330) or the inner DMAC (router MAC vs. arbitrary).\r\n\r\n### Conclusion\r\n- The failure is real and specific to the 8102-64H platform configuration: VxLAN decap does not work while **`mcast_tunnel_enabled: true`**, and works with **`mcast_tunnel_enabled: false`**.\r\n- It is not expected by the test design, and we found no documentation that 8102-64H does not support this flow.\r\n- Any 8102-64H T1 that needs **VxLAN decap (VNET ingress)** is affected, so this is not a test-only problem.\r\n\r\n### Next steps\r\n1. Cisco to confirm why 8102-64H enables `mcast_tunnel_enabled`, and either:\r\n   - fix the SDK so that VxLAN decap works with `mcast_tunnel_enabled: true`, or\r\n   - set `mcast_tunnel_enabled: false` on 8102-64H if the multicast-tunnel feature is not needed there.\r\n2. Keep 8102-64H excluded until the fix lands, but change the skip reason to reference the tracking item instead of \"not supported\". Revert this PR after the fix is validated.\r\n3. The 4th-tunnel skip on cisco-8000 (#25799) is unrelated and stays as is.\r\n"
+    },
+    {
+        "number": 25978,
+        "repo": "sonic-mgmt",
         "review_at": "2026-07-08T08:19:56Z",
         "review_author": "yyynini"
     },
@@ -19240,6 +19457,34 @@
         "comment_at": "2026-09-17T12:16:29Z",
         "comment_author": "mssonicbld",
         "comment_body": "This PR is approved for branch 202605. No cherry pick PR has been created because of code conflict. @echuawu, please manually create the cherry pick PR.<br>If this change is already in 202605, please comment \"already in 202605\". Thanks!\n\n<div align=\"right\"><sub>---Powered by SONiC BuildBot</sub></div>"
+    },
+    {
+        "number": 25976,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-09-30T00:33:10Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@echuawu\n\nPls check the conflict\n\n<!-- cherrypick-desk:8b23372a-62ec-463f-ba82-7b831b3d7cce:25976 -->"
+    },
+    {
+        "number": 25976,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-07T03:28:37Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@echuawu\n\nPls check the conflict.\n\n<!-- cherrypick-desk:d8e85bc1-bb39-4d2c-b9c0-1fff2c2c99cb:25976 -->"
+    },
+    {
+        "number": 25976,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-08T09:15:14Z",
+        "comment_author": "echuawu",
+        "comment_body": "> @echuawu\r\n> \r\n> Pls check the conflict.\r\n\r\nPlease check:\r\nhttps://github.com/sonic-net/sonic-mgmt/pull/28447"
+    },
+    {
+        "number": 25976,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-12T00:12:39Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@echuawu Reconciled the 202605 cherry-pick request: https://github.com/sonic-net/sonic-mgmt/pull/28447 merged into `202605` at 2026-10-11T10:49:13Z. Using this recorded linked candidate and its verified current target-branch commit containment, with no revert signals detected in the inspected backport metadata. This does not claim a fresh code review, passing CI, patch equivalence, verified original-to-backport mapping, complete original-fix coverage, or a full historical revert search. Marking this request Included and clearing its branch conflict label.\n\n<!-- cherrypick-desk:f466b659-0556-4849-bb7f-924abf327ff7:25976 -->"
     },
     {
         "number": 25976,
@@ -19371,6 +19616,27 @@
         "comment_at": "2026-09-24T00:17:39Z",
         "comment_author": "mssonicbld",
         "comment_body": "This PR is approved for branch 202605. No cherry pick PR has been created because of code conflict. @echuawu, please manually create the cherry pick PR.<br>If this change is already in 202605, please comment \"already in 202605\". Thanks!\n\n<div align=\"right\"><sub>---Powered by SONiC BuildBot</sub></div>"
+    },
+    {
+        "number": 25972,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-09-30T00:33:15Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@echuawu\n\nPls check the conflict\n\n<!-- cherrypick-desk:8b23372a-62ec-463f-ba82-7b831b3d7cce:25972 -->"
+    },
+    {
+        "number": 25972,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-07T03:28:47Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@echuawu\n\nPls check the conflict.\n\n<!-- cherrypick-desk:d8e85bc1-bb39-4d2c-b9c0-1fff2c2c99cb:25972 -->"
+    },
+    {
+        "number": 25972,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-08T10:14:08Z",
+        "comment_author": "echuawu",
+        "comment_body": "> @echuawu\r\n> \r\n> Pls check the conflict.\r\n\r\nPlease check:\r\nhttps://github.com/sonic-net/sonic-mgmt/pull/28448"
     },
     {
         "number": 25972,
@@ -23337,6 +23603,13 @@
     {
         "number": 25892,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-10-08T22:59:43Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@peterbailey-arista Please provide test results for your 202605 branch cherry-pick request.\n\nPlease run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\n\nIf you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\n\n<!-- cherrypick-desk:c7cfb909-2e29-46e7-b1d3-23d4965407f2:25892 -->"
+    },
+    {
+        "number": 25892,
+        "repo": "sonic-mgmt",
         "review_at": "2026-07-15T17:28:54Z",
         "review_author": "kenneth-arista"
     },
@@ -24443,6 +24716,13 @@
     {
         "number": 25866,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-10-12T00:10:13Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@harish-kalyanaraman Please provide test results for your 202605 branch cherry-pick request.\n\nPlease run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\n\nIf you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\n\n<!-- cherrypick-desk:7d54c13a-ab86-48b3-a041-5fd683df7881:25866 -->"
+    },
+    {
+        "number": 25866,
+        "repo": "sonic-mgmt",
         "review_at": "2026-07-07T07:32:46Z",
         "review_author": "lizhijianrd"
     },
@@ -25405,6 +25685,27 @@
     {
         "number": 25839,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-10-07T12:34:00Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@aakashtiwari2630-max Please provide test results for your 202605 branch cherry-pick request.\n\nPlease run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\n\nIf you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\n\n<!-- cherrypick-desk:478bd622-e9c9-4ebf-b12b-7de94b4e913d:25839 -->"
+    },
+    {
+        "number": 25839,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-07T13:17:15Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "This PR is approved for branch 202605. No cherry pick PR has been created because of code conflict. @aakashtiwari2630-max, please manually create the cherry pick PR.<br>If this change is already in 202605, please comment \"already in 202605\". Thanks!\n\n<div align=\"right\"><sub>---Powered by SONiC BuildBot</sub></div>"
+    },
+    {
+        "number": 25839,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-08T02:43:00Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@aakashtiwari2630-max Reconciled the 202605 cherry-pick request: https://github.com/sonic-net/sonic-mgmt/pull/26640 merged into `202605` at 2026-07-29T05:57:36Z. Using this recorded linked candidate and its verified current target-branch commit containment, with no revert signals detected in the inspected backport metadata. This does not claim a fresh code review, passing CI, patch equivalence, verified original-to-backport mapping, complete original-fix coverage, or a full historical revert search. Marking this request Included and clearing its branch conflict label.\n\n<!-- cherrypick-desk:a3aa23bf-2de5-40a5-9e1e-ba599299b9a8:25839 -->"
+    },
+    {
+        "number": 25839,
+        "repo": "sonic-mgmt",
         "review_at": "2026-07-15T20:10:37Z",
         "review_author": "anish-n"
     },
@@ -25957,6 +26258,20 @@
     {
         "number": 25824,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-10-07T12:34:05Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@RishiRewadkarCisco Please provide test results for your 202605 branch cherry-pick request.\n\nPlease run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\n\nIf you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\n\n<!-- cherrypick-desk:478bd622-e9c9-4ebf-b12b-7de94b4e913d:25824 -->"
+    },
+    {
+        "number": 25824,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-08T02:43:57Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@RishiRewadkarCisco Reconciled the 202605 cherry-pick request: https://github.com/sonic-net/sonic-mgmt/pull/25870 merged into `202605` at 2026-07-09T01:59:40Z. Using this recorded linked candidate and its verified current target-branch commit containment, with no revert signals detected in the inspected backport metadata. This does not claim a fresh code review, passing CI, patch equivalence, verified original-to-backport mapping, complete original-fix coverage, or a full historical revert search. Marking this request Included and clearing its branch conflict label.\n\n<!-- cherrypick-desk:a3aa23bf-2de5-40a5-9e1e-ba599299b9a8:25824 -->"
+    },
+    {
+        "number": 25824,
+        "repo": "sonic-mgmt",
         "review_at": "2026-07-01T18:03:09Z",
         "review_author": "github-advanced-security"
     },
@@ -26163,6 +26478,13 @@
         "comment_at": "2026-09-25T00:18:52Z",
         "comment_author": "mssonicbld",
         "comment_body": "This PR has backport request label(s) for branch(es): 202511,msft-202512,202605, but is missing required test information. Please make sure you tick the tested branch(es) in the **Tested branch** section and provide test evidence (e.g., 202511: &lt;test result&gt;) in the **Test result** section as well in your PR description.\n\n<div align=\"right\"><sub>---Powered by SONiC BuildBot</sub></div>"
+    },
+    {
+        "number": 25818,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-09-30T04:31:24Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "Cherry-pick PR to msft-202603: https://github.com/Azure/sonic-mgmt.msft/pull/1464"
     },
     {
         "number": 25818,
@@ -26684,6 +27006,13 @@
     {
         "number": 25800,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-10-05T11:01:09Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@zhixzhu Please provide test results for your 202605 branch cherry-pick request.\n\nPlease run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\n\nIf you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\n\n<!-- cherrypick-desk:0c2c5ce4-c297-4314-abcd-e577de448a6b:25800 -->"
+    },
+    {
+        "number": 25800,
+        "repo": "sonic-mgmt",
         "review_at": "2026-06-30T23:24:52Z",
         "review_author": "github-advanced-security"
     },
@@ -26775,6 +27104,20 @@
         "comment_at": "2026-08-11T06:17:43Z",
         "comment_author": "mssonicbld",
         "comment_body": "This PR has backport request label(s) for branch(es): 202605, but is missing required test information. Please make sure you tick the tested branch(es) in the **Tested branch** section and provide test evidence (e.g., 202605: &lt;test result&gt;) in the **Test result** section as well in your PR description.\n\n<div align=\"right\"><sub>---Powered by SONiC BuildBot</sub></div>"
+    },
+    {
+        "number": 25799,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-07T12:34:11Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@tilakrathore16 Please provide test results for your 202605 branch cherry-pick request.\n\nPlease run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\n\nIf you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\n\n<!-- cherrypick-desk:478bd622-e9c9-4ebf-b12b-7de94b4e913d:25799 -->"
+    },
+    {
+        "number": 25799,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-08T01:04:07Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@tilakrathore16 Reconciled the 202605 cherry-pick request: https://github.com/sonic-net/sonic-mgmt/pull/25871 merged into `202605` at 2026-07-09T03:29:47Z. Using this recorded linked candidate and its verified current target-branch commit containment, with no revert signals detected in the inspected backport metadata. This does not claim a fresh code review, passing CI, patch equivalence, verified original-to-backport mapping, complete original-fix coverage, or a full historical revert search. Marking this request Included and clearing its branch conflict label.\n\n<!-- cherrypick-desk:6ba33562-138b-47e4-b0e8-8be73da04bed:25799 -->"
     },
     {
         "number": 25799,
@@ -27301,6 +27644,41 @@
         "comment_at": "2026-08-11T06:17:45Z",
         "comment_author": "mssonicbld",
         "comment_body": "This PR has backport request label(s) for branch(es): 202605, but is missing required test information. Please make sure you tick the tested branch(es) in the **Tested branch** section and provide test evidence (e.g., 202605: &lt;test result&gt;) in the **Test result** section as well in your PR description.\n\n<div align=\"right\"><sub>---Powered by SONiC BuildBot</sub></div>"
+    },
+    {
+        "number": 25778,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-05T11:01:03Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@echuawu Please provide test results for your 202605 branch cherry-pick request.\n\nPlease run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\n\nIf you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\n\n<!-- cherrypick-desk:0c2c5ce4-c297-4314-abcd-e577de448a6b:25778 -->"
+    },
+    {
+        "number": 25778,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-08T08:54:43Z",
+        "comment_author": "echuawu",
+        "comment_body": "> @echuawu Please provide test results for your 202605 branch cherry-pick request.\r\n> \r\n> Please run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\r\n> \r\n> If you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\r\n\r\nTest branch: 202605\r\nImage: latest 202605 RC image\r\nResult: PASS\r\n"
+    },
+    {
+        "number": 25778,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-08T22:46:47Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "Cherry-pick PR to 202605: https://github.com/sonic-net/sonic-mgmt/pull/28462"
+    },
+    {
+        "number": 25778,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-12T00:14:07Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "@echuawu cherry pick PR didn't pass PR checker after retry. Please help check! Thanks.<br>https://github.com/sonic-net/sonic-mgmt/pull/28462\n\n<div align=\"right\"><sub>---Powered by SONiC BuildBot</sub></div>"
+    },
+    {
+        "number": 25778,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-21T23:49:08Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@echuawu Reconciled the 202605 cherry-pick request: https://github.com/sonic-net/sonic-mgmt/pull/28584 merged into `202605` at 2026-10-21T23:47:29Z. Using this recorded linked candidate and its verified current target-branch commit containment, with no revert signals detected in the inspected backport metadata. This does not claim a fresh code review, passing CI, patch equivalence, verified original-to-backport mapping, complete original-fix coverage, or a full historical revert search. Marking this request Included and clearing its branch conflict label.\n\n<!-- cherrypick-desk:205f7621-90d4-450b-b7ee-8adad0b5107f:25778 -->"
     },
     {
         "number": 25778,
@@ -28148,6 +28526,13 @@
     {
         "number": 25741,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-10-05T11:00:58Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@rbpittman Please provide test results for your 202605 branch cherry-pick request.\n\nPlease run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\n\nIf you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\n\n<!-- cherrypick-desk:0c2c5ce4-c297-4314-abcd-e577de448a6b:25741 -->"
+    },
+    {
+        "number": 25741,
+        "repo": "sonic-mgmt",
         "review_at": "2026-07-06T05:39:54Z",
         "review_author": "yxieca"
     },
@@ -28253,6 +28638,13 @@
         "comment_at": "2026-08-25T22:09:45Z",
         "comment_author": "StormLiangMS",
         "comment_body": "<!-- 202605-cherrypick-triage -->\nHi @lizhijianrd,\n\nCould you please clarify whether this PR is a **must-have cherry-pick for the 202605 branch**?\n\n**Current evaluation**\n- Classification: New test coverage/feature\n- Bug fix: No\n- Recommendation: **NO**\n- Rationale: Adds a 311-line C0 BGP scenario suite with no existing 202605 failure or target validation; stateful BGP manipulation also raises backport risk.\n\nIf this is required for 202605, please reply with the branch-specific failure or impact, required dependencies, and 202605 validation results.\n\nIf there is no response by **September 2, 2026**, the Request for 202605 branch will be rejected based on the evaluation above."
+    },
+    {
+        "number": 25736,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-05T11:00:53Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@lizhijianrd Please provide test results for your 202605 branch cherry-pick request.\n\nPlease run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\n\nIf you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\n\n<!-- cherrypick-desk:0c2c5ce4-c297-4314-abcd-e577de448a6b:25736 -->"
     },
     {
         "number": 25736,
@@ -29910,6 +30302,13 @@
     {
         "number": 25677,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-10-05T11:00:42Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@harjotsinghpawra Please provide test results for your 202605 branch cherry-pick request.\n\nPlease run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\n\nIf you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\n\n<!-- cherrypick-desk:0c2c5ce4-c297-4314-abcd-e577de448a6b:25677 -->"
+    },
+    {
+        "number": 25677,
+        "repo": "sonic-mgmt",
         "review_at": "2026-06-26T19:39:15Z",
         "review_author": "zjswhhh"
     },
@@ -30030,6 +30429,48 @@
         "comment_at": "2026-07-22T08:36:15Z",
         "comment_author": "mssonicbld",
         "comment_body": "This PR has backport request label(s) for branch(es): 202605, but is missing required test information. Please make sure you tick the tested branch(es) in the **Tested branch** section and provide test evidence (e.g., 202605: &lt;test result&gt;) in the **Test result** section as well in your PR description.\n\n<div align=\"right\"><sub>---Powered by SONiC BuildBot</sub></div>"
+    },
+    {
+        "number": 25674,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-09-30T00:33:21Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@harjotsinghpawra\nPls check the conflict\n\n<!-- cherrypick-desk:8b23372a-62ec-463f-ba82-7b831b3d7cce:25674 -->"
+    },
+    {
+        "number": 25674,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-07T03:28:56Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@harjotsinghpawra\n\nPls check the conflict.\n\n<!-- cherrypick-desk:d8e85bc1-bb39-4d2c-b9c0-1fff2c2c99cb:25674 -->"
+    },
+    {
+        "number": 25674,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-13T23:09:11Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@harjotsinghpawra Please provide test results for your 202605 branch cherry-pick request.\n\nPlease run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\n\nIf you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\n\n<!-- cherrypick-desk:42353d0c-43fa-4f1d-8273-d7af5c4bc73a:25674 -->"
+    },
+    {
+        "number": 25674,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-14T00:12:18Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@harjotsinghpawra, could you please resolve the cherry-pick conflict for #25674 onto `202605`?\n\nIf there is no response for fourteen full days, a maintainer may separately prepare and explicitly publish an AI-assisted **draft** backport for review. This message does not grant approval or request a merge.\n\n<!-- cherrypick-desk-conflict:a936d9f9-4f4b-4954-94a0-74eee841d3ba:d8471d0ea16a1eb4822c115745e005143dac447078440aa775618b32f3d7c928 -->"
+    },
+    {
+        "number": 25674,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-19T05:42:26Z",
+        "comment_author": "harjotsinghpawra",
+        "comment_body": "@StormLiangMS I dont understand i think this was merged in 202605 as Jings PR\r\nhttps://github.com/sonic-net/sonic-mgmt/pull/26376"
+    },
+    {
+        "number": 25674,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-22T12:14:40Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@harjotsinghpawra Reconciled the 202605 cherry-pick request: https://github.com/sonic-net/sonic-mgmt/pull/26376 merged into `202605` at 2026-07-29T01:14:51Z. Using this recorded linked candidate and its verified current target-branch commit containment, with no revert signals detected in the inspected backport metadata. This does not claim a fresh code review, passing CI, patch equivalence, verified original-to-backport mapping, complete original-fix coverage, or a full historical revert search. Marking this request Included and clearing its branch conflict label.\n\n<!-- cherrypick-desk:e78637dc-31d6-4c81-b0d9-ef9255851cc1:25674 -->"
     },
     {
         "number": 25674,
@@ -30504,6 +30945,13 @@
     {
         "number": 25648,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-10-05T11:00:32Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@dcaugher Please provide test results for your 202605 branch cherry-pick request.\n\nPlease run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\n\nIf you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\n\n<!-- cherrypick-desk:0c2c5ce4-c297-4314-abcd-e577de448a6b:25648 -->"
+    },
+    {
+        "number": 25648,
+        "repo": "sonic-mgmt",
         "review_at": "2026-06-25T23:11:57Z",
         "review_author": "bpar9"
     },
@@ -30826,6 +31274,13 @@
         "comment_at": "2026-08-11T02:13:47Z",
         "comment_author": "StormLiangMS",
         "comment_body": "@aakashtiwari2630-max \u2014 this PR is labeled Request for 202605 branch, but the following required information is still missing:\n\n- linked GitHub issue or ADO work item\n- 202605-specific image/test result evidence\n\nPlease add the missing information to the PR description. Tracker details should cover day-one/regression status, affected branch/image/platform/test, and why 202605 needs the fix; validation should identify the tested 202605 image and include the result or result link.\n\n<!-- copilot-202605-backport-reminder -->"
+    },
+    {
+        "number": 25618,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-05T11:00:25Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@aakashtiwari2630-max Please provide test results for your 202605 branch cherry-pick request.\n\nPlease run the relevant tests on the `202605` target branch with this change applied, and link the test report in this original PR. Include the tested branch and image/build, the test cases run, and pass/fail counts; explain any failures or skipped tests.\n\nIf you already provided a report, please point us to it and confirm it covers this change on `202605`. Passing source-PR CI alone does not establish target-branch testing.\n\n<!-- cherrypick-desk:0c2c5ce4-c297-4314-abcd-e577de448a6b:25618 -->"
     },
     {
         "number": 25618,
@@ -33310,7 +33765,7 @@
         "number": 25447,
         "repo": "sonic-mgmt",
         "comment_at": "2026-06-23T05:37:40Z",
-        "comment_author": "eddieruan-alibaba",
+        "comment_author": "eddieruan-sonic",
         "comment_body": "@bingwang-ms  can you help to review it? \r\n\r\nI would like skip those two block when init_cfg_profile  is defined, a.k.a the configdb json would be provided instead of via minigraph. \r\n"
     },
     {
@@ -33324,7 +33779,7 @@
         "number": 25447,
         "repo": "sonic-mgmt",
         "comment_at": "2026-07-03T00:30:29Z",
-        "comment_author": "eddieruan-alibaba",
+        "comment_author": "eddieruan-sonic",
         "comment_body": "> @eddieruan-alibaba did you test this change on a regular sonic DUT?\r\n\r\nCurrent PR test would run regular SONiC DUT, right? \r\n\r\nThis check has already been added in this file for skipping mininet configuration when init_cfg_profile is used. \r\n\r\nhttps://github.com/sonic-net/sonic-mgmt/blob/master/ansible/config_sonic_basedon_testbed.yml#L635\r\n\r\nhttps://github.com/sonic-net/sonic-mgmt/blob/master/ansible/config_sonic_basedon_testbed.yml#L767"
     },
     {
@@ -33338,7 +33793,7 @@
         "number": 25447,
         "repo": "sonic-mgmt",
         "comment_at": "2026-07-08T22:52:01Z",
-        "comment_author": "eddieruan-alibaba",
+        "comment_author": "eddieruan-sonic",
         "comment_body": "> **AI review \u2014 Changes requested**\r\n> \r\n> ### Blocking\r\n> 1. ansible/config_sonic_basedon_testbed.yml, chrony sync block guard (diff hunk at line 1181; block spans ~lines 1158-1181 in the full source). The `when:` is changed to `chrony_service.status.LoadState != \"not-found\" and init_cfg_profile is not defined`. This block contains operational time-sync steps: `service: name=chrony state=started` (with retry/until), `chronyc burst 4/4`, `chronyc waitsync`, and `chronyc makestep`. None of these mutate `config_db.json`. Skipping them for init_cfg_profile topologies leaves the DUT clock unsynchronized on exactly the topologies the PR targets (vms-kvm-force10-7nodes, vms-kvm-ciscovs-7nodes, vms-kvm-ciscovs-5nodes), which can silently break TLS/cert validation, log correlation, TACACS timing, and any test relying on wall-clock ordering. Recommended fix: split the block so only config-DB mutation is gated on `init_cfg_profile is not defined`, and let chrony start + `chronyc burst`/`waitsync`/`makestep` still run whenever chrony is present. At minimum, please state in the PR description why these three topologies do not need chrony time-step, and prefer scoping the guard to a narrower symptom rather than the whole block.\r\n> \r\n> ### Grounded nits\r\n> * ansible/config_sonic_basedon_testbed.yml line 933: combined condition is now `enable_macsec is not defined and init_cfg_profile is not defined`. If a future topology combines macsec with init_cfg_profile, this task is permanently skipped for that combination. Not a blocker for the three targeted topologies, but worth a short inline comment documenting intent so a future reader doesn't have to reconstruct it.\r\n> * ansible/config_sonic_basedon_testbed.yml lines 933 and 1181: both use bare `is not defined`. If `init_cfg_profile` is ever defined but empty/null (e.g. `-e init_cfg_profile=`), the skip still fires. If \"profile explicitly set to empty\" should mean \"not in init_cfg_profile mode\", use `init_cfg_profile | default('') | length > 0` (or a derived boolean, see below) to make skip semantics explicit.\r\n> * ansible/config_sonic_basedon_testbed.yml line 1181: the `when:` is now a fairly long inline expression. YAML list-form `when:` (one condition per line) would read better; purely stylistic.\r\n> \r\n> Reviewed by AI agent on behalf of Ying.\r\n\r\n@yxieca  For  chrony_service.status.LoadState != \"not-found\", it is implicitly assuming it is via minigraph, which is conflicting with the topology files using init_cfg_profile as configuration. \r\n\r\n\"name: Wait for chrony.service restart after reload minigraph\"\r\n\r\nTherefore I would like to skip it when init_cfg_profile is not used. "
     },
     {
@@ -34617,6 +35072,13 @@
         "comment_at": "2026-08-25T22:55:18Z",
         "comment_author": "Pterosaur",
         "comment_body": "@nhe-NV According to the description of issue, this defect only occurred on SN5640. Should we skip it on all mellanox platform>"
+    },
+    {
+        "number": 25396,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-22T06:36:44Z",
+        "comment_author": "Sourabh-Kumar7",
+        "comment_body": "@StormLiangMS could you pls approve this PR for 202605? thanks\r\nhttps://elastictest.org/scheduler/testplan/6ad7092c36f9a6d3e897e0c0?searchTestCase=generic_config_updater%2Ftest_incremental_qos.py&testcase=generic_config_updater%2Ftest_incremental_qos.py&type=console"
     },
     {
         "number": 25396,
@@ -37145,6 +37607,13 @@
     {
         "number": 25260,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-10-05T10:47:30Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "I don't think we need to cherrypick testplan."
+    },
+    {
+        "number": 25260,
+        "repo": "sonic-mgmt",
         "review_at": "2026-06-24T08:11:45Z",
         "review_author": "bpar9"
     },
@@ -37902,6 +38371,20 @@
         "comment_at": "2026-09-23T13:42:29Z",
         "comment_author": "StormLiangMS",
         "comment_body": "@rick-arista The cherry-pick request for the 202605 branch is rejected.\n\nPls follow up the template to provide test evidence for the cherrypick request.\n\n<!-- cherrypick-desk:f579b2cd-9c15-4b7b-986c-1c5d44b0dfb0:25189 -->"
+    },
+    {
+        "number": 25189,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-11-12T22:24:16Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "Removed label(s):\n- `Request for 202511 branch`: The matching `Tested for 202511 Branch` label is missing. This requirement also applies to manually added request labels.\n\nThis PR requests backports for branch(es): 202511, but is missing required test information.\n\n**Update the PR description, not a PR comment:**\n1. List each requested branch under **Backport**.\n2. After testing on each branch, tick its checkbox (`- [x]`) under **Tested branch**. An unchecked box (`- [ ]`) does not count.\n3. Under **Test result**, start a separate entry with each branch number, followed by its test evidence on the same line or the following lines, such as a test-run link or a summary with logs. A branch number alone, placeholders, and results for another branch do not count.\n\nPlease make sure you have done all three steps above.\nExample format for the branches above (replace every placeholder with your actual test evidence; only check branches you have tested):\n```markdown\n### Backport\n202511\n\n### Tested branch\n- [x] 202511\n\n### Test result\n202511: <link to test results or summary with logs>\n```\n\nKeep this information outside HTML comments (`<!-- ... -->`) so it can be read.\nAfter you save the PR description, I will check it again and add the matching `Tested for <branch> Branch` labels first, then the `Request for <branch> Branch` labels. Request labels remain blocked until their matching tested labels are present.\n\n<div align=\"right\"><sub>---Powered by SONiC BuildBot</sub></div>"
+    },
+    {
+        "number": 25189,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-11-13T02:39:48Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "Cherry-pick PR to 202605: https://github.com/sonic-net/sonic-mgmt/pull/29213"
     },
     {
         "number": 25189,
@@ -41214,6 +41697,27 @@
     {
         "number": 24776,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-10-01T00:47:06Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "hi @Janetxxx  for cherrypick to 202605, could you make sure it won't cause regression on old HWSKUs or this is a generic feature which can be supported by all t0 topo?"
+    },
+    {
+        "number": 24776,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-12T01:35:20Z",
+        "comment_author": "Janetxxx",
+        "comment_body": "Hi @StormLiangMS, tested on other unsupported testbeds (old HWSKUs) and confirmed it can be skipped:\r\n```\r\n========================================================================================== short test summary info ===========================================================================================\r\nSKIPPED [6] span/test_erspan_sampling_truncation.py:142: Skip: platform does not support sample packet truncation (SAMPLEPACKET_TRUNCATION_CAPABLE != true)\r\nSKIPPED [3] span/test_erspan_sampling_truncation.py:267: Skip: platform does not support sample packet truncation (SAMPLEPACKET_TRUNCATION_CAPABLE != true)\r\nSKIPPED [6] span/test_erspan_sampling_truncation.py:331: Skip: platform does not support sample packet truncation (SAMPLEPACKET_TRUNCATION_CAPABLE != true)\r\nSKIPPED [1] span/test_erspan_sampling_truncation.py:411: Skip: platform does not support sample packet truncation (SAMPLEPACKET_TRUNCATION_CAPABLE != true)\r\nSKIPPED [1] span/test_erspan_sampling_truncation.py:480: Skip: platform does not support sample packet truncation (SAMPLEPACKET_TRUNCATION_CAPABLE != true)\r\nSKIPPED [1] span/test_erspan_sampling_truncation.py:557: Skip: platform does not support sample packet truncation (SAMPLEPACKET_TRUNCATION_CAPABLE != true)\r\n========================================================================= 27 passed, 18 skipped, 303 warnings in 1305.46s (0:21:45) ==========================================================================\r\n```"
+    },
+    {
+        "number": 24776,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-12T01:58:44Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "Cherry-pick PR to 202605: https://github.com/sonic-net/sonic-mgmt/pull/28523"
+    },
+    {
+        "number": 24776,
+        "repo": "sonic-mgmt",
         "review_at": "2026-05-21T07:54:15Z",
         "review_author": "github-advanced-security"
     },
@@ -43519,6 +44023,20 @@
     {
         "number": 24596,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-09-30T00:33:42Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@xixuej\n\nPls check the conflict\n\n<!-- cherrypick-desk:8b23372a-62ec-463f-ba82-7b831b3d7cce:24596 -->"
+    },
+    {
+        "number": 24596,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-09-30T02:52:18Z",
+        "comment_author": "xixuej",
+        "comment_body": "Hi @StormLiangMS , I manually created PR https://github.com/sonic-net/sonic-mgmt/pull/28305 for 202605 branch"
+    },
+    {
+        "number": 24596,
+        "repo": "sonic-mgmt",
         "review_at": "2026-05-22T08:23:29Z",
         "review_author": "nhe-NV"
     },
@@ -43945,6 +44463,27 @@
     {
         "number": 24504,
         "repo": "sonic-mgmt",
+        "comment_at": "2026-09-30T00:33:47Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@echuawu\n\nPls check the conflict\n\n<!-- cherrypick-desk:8b23372a-62ec-463f-ba82-7b831b3d7cce:24504 -->"
+    },
+    {
+        "number": 24504,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-07T03:29:14Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@echuawu\n\nPls check the conflict.\n\n<!-- cherrypick-desk:d8e85bc1-bb39-4d2c-b9c0-1fff2c2c99cb:24504 -->"
+    },
+    {
+        "number": 24504,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-10-08T10:38:04Z",
+        "comment_author": "echuawu",
+        "comment_body": "> @echuawu\r\n> \r\n> Pls check the conflict.\r\n\r\nPlease check:\r\nhttps://github.com/sonic-net/sonic-mgmt/pull/28449"
+    },
+    {
+        "number": 24504,
+        "repo": "sonic-mgmt",
         "review_at": "2026-05-11T14:07:38Z",
         "review_author": "nhe-NV"
     },
@@ -44294,6 +44833,41 @@
         "comment_at": "2026-09-16T11:16:00Z",
         "comment_author": "nhe-NV",
         "comment_body": "Template updated, remove the reject label."
+    },
+    {
+        "number": 24423,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-09-29T04:25:47Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@wenjwang-nv Approved for the 202605 branch cherry-pick request. This does not merge or approve the original PR.\n\n<!-- cherrypick-desk:d7dcd2ff-0c20-4d15-aad2-15de32937cc6:24423 -->"
+    },
+    {
+        "number": 24423,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-09-29T04:26:16Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "@wenjwang-nv PR conflicts with 202605 branch"
+    },
+    {
+        "number": 24423,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-09-30T00:33:59Z",
+        "comment_author": "StormLiangMS",
+        "comment_body": "@wenjwang-nv\nPls check the conflict\n\n<!-- cherrypick-desk:8b23372a-62ec-463f-ba82-7b831b3d7cce:24423 -->"
+    },
+    {
+        "number": 24423,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-09-30T03:49:52Z",
+        "comment_author": "wenjwang-nv",
+        "comment_body": "Hi @StormLiangMS , please help review this PR to handle the conflict https://github.com/sonic-net/sonic-mgmt/pull/28310"
+    },
+    {
+        "number": 24423,
+        "repo": "sonic-mgmt",
+        "comment_at": "2026-09-30T18:18:13Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "This PR is approved for branch 202605. No cherry pick PR has been created because of code conflict. @wenjwang-nv, please manually create the cherry pick PR.<br>If this change is already in 202605, please comment \"already in 202605\". Thanks!\n\n<div align=\"right\"><sub>---Powered by SONiC BuildBot</sub></div>"
     },
     {
         "number": 24423,

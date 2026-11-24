@@ -1,11 +1,515 @@
 [
     {
+        "additions": 2,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T01:14:50Z",
+        "number": 2219,
+        "title": "Update actions/checkout action to v7",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 26,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T15:15:12Z",
+        "number": 2217,
+        "title": "[syncd]: Serialize the counter names of flex counter polls once",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 4,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T15:15:01Z",
+        "number": 2216,
+        "title": "[syncd]: Reuse the meta key of a request to update ASIC DB",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 97,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T15:14:45Z",
+        "number": 2215,
+        "title": "[syncd]: Split the attributes of bulk requests without string streams",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 84,
+        "author": "dypet",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T20:14:42Z",
+        "number": 2202,
+        "title": "[vpp] Fix VPP BVI MTU initialization.",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 190,
+        "author": "william8545",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T05:29:12Z",
+        "number": 2196,
+        "title": "[sairedis] Drop late responses of failed RedisChannel waits",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 197,
+        "author": "markx-arista",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-16T17:32:31Z",
+        "number": 2182,
+        "title": "[202511] Retry PHY collection when lane count increases",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 6,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T00:50:54Z",
+        "number": 2181,
+        "title": "[vpp] SAI UT: accept the flat saithrift package of setuptools 81",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 811,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T11:14:59Z",
+        "number": 2177,
+        "title": "[vpp] Honor the IPinIP tunnel loopback packet action",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 1347,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T11:56:52Z",
+        "number": 2175,
+        "title": "[syncd] Create a P2P tunnel after the P2MP tunnel of its source IP",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 7,
+        "author": "charleszhu-gt",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T04:46:49Z",
+        "number": 2174,
+        "title": "[syncd] support grandtrans platform",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 7,
+        "author": "GrandtransAppDev",
+        "baseRefName": "202511",
+        "mergedAt": "2026-11-17T22:41:03Z",
+        "number": 2171,
+        "title": "[202511][syncd] support grandtrans platform",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 44,
+        "author": "yijingyan2",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T08:27:00Z",
+        "number": 2162,
+        "title": "[ci]: Replace injected diff coverage with pipeline-owned checks",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 239,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-09T13:29:24Z",
+        "number": 2161,
+        "title": "[vpp] Preserve forwarding during mux route next-hop updates",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 77,
+        "author": "Janetxxx",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T03:57:54Z",
+        "number": 2159,
+        "title": "[vslib][Port Mirror] Initialize port SAMPLEPACKET_ENABLE attributes to null",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 1081,
+        "author": "yaopingzhu-arista",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-20T22:31:32Z",
+        "number": 2157,
+        "title": "Handle dynamic port SerDes buffer size in syncd",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 392,
+        "author": "yue-fred-gao",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T01:59:20Z",
+        "number": 2156,
+        "title": "vpp: enable ipv6 explicitly",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 60,
+        "author": "johanna-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T05:01:33Z",
+        "number": 2155,
+        "title": "[vs] answer SAI_SWITCH_ATTR_MAX_STP_INSTANCE on the virtual switch",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 351,
+        "author": "markx-arista",
+        "baseRefName": "202605",
+        "mergedAt": "2026-10-31T06:41:46Z",
+        "number": 2154,
+        "title": "[202605][Flexcounter] Poll only initialized PHY/Serdes attributes",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 351,
+        "author": "markx-arista",
+        "baseRefName": "202511",
+        "mergedAt": "2026-10-31T06:51:24Z",
+        "number": 2153,
+        "title": "[202511][Flexcounter] Poll only initialized PHY/Serdes attributes",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 22,
+        "author": "tjchadaga",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-29T01:20:09Z",
+        "number": 2152,
+        "title": "Update SAI version to v1.19.2",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 309,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T10:18:53Z",
+        "number": 2151,
+        "title": "[vpp] Learn the source MAC of trapped L2 frames",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 466,
+        "author": "yue-fred-gao",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-11T22:18:16Z",
+        "number": 2150,
+        "title": "vpp: support direct broadcast",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 2215,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-09T13:31:56Z",
+        "number": 2145,
+        "title": "[vpp] Age out FDB entries: apply the FDB aging time to VPP bridge domains",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 337,
+        "author": "aaronber0614",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-28T12:25:21Z",
+        "number": 2144,
+        "title": "[vpp] Fix RIF loopback contracts and LAG subinterface setup",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 3789,
+        "author": "dypet",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T14:59:12Z",
+        "number": 2143,
+        "title": "[vpp] Fix VPP ACL rule translation and interface bindings to support T0 acl.",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 5,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-10-29T12:14:24Z",
+        "number": 2142,
+        "title": "[action] [PR:2059] syncd: Avoid false nonexisting-object log during FlexCounter removal",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 6,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T05:19:45Z",
+        "number": 2141,
+        "title": "Configure Renovate",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 413,
+        "author": "balaji-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T05:19:21Z",
+        "number": 2140,
+        "title": "[syncd] Tolerate a failed SET of a valid-only attribute whose condition is unmet on warm reboot",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 200,
+        "author": "nazariig",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-22T01:03:44Z",
+        "number": 2139,
+        "title": "[meta]: Fix char attribute length validation on create",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 560,
+        "author": "rnwolfe",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-20T19:07:44Z",
+        "number": 2137,
+        "title": "[vpp] Bring a sub-interface up when its parent port comes up",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 264,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-22T01:16:44Z",
+        "number": 2136,
+        "title": "syncd: clear process-local pointer attributes at IPC boundaries",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 1090,
+        "author": "rnwolfe",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T21:55:56Z",
+        "number": 2135,
+        "title": "[vpp] Honor the DHCP hostif trap's COPY action",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 2114,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-28T05:26:30Z",
+        "number": 2133,
+        "title": "[vpp] Rework VPP event handling for MAC, link and BFD events",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 74,
+        "author": "AkeelAli",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-28T21:54:37Z",
+        "number": 2131,
+        "title": "[vpp] SAI UT: per-test logs & per-test timeout",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 2348,
+        "author": "rnwolfe",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-28T22:00:19Z",
+        "number": 2129,
+        "title": "[vpp] Program SAI NAT entries as nat44-ed static mappings",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 59,
+        "author": "taran9999",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-21T15:04:03Z",
+        "number": 2128,
+        "title": "[vpp] Override set_acl_capabilities",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 26,
+        "author": "mdhoff-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T07:03:54Z",
+        "number": 2127,
+        "title": "[syncd] Generate missing port_config.ini from CONFIG_DB",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 2088,
+        "author": "rnwolfe",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T14:20:58Z",
+        "number": 2122,
+        "title": "[vpp] Program EVPN remote MACs on a VXLAN tunnel per remote VTEP",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 701,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T13:21:38Z",
+        "number": 2116,
+        "title": "[syncd] Remove flex counters of VIDs dropped by apply view",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 14,
+        "author": "yue-fred-gao",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-17T05:06:57Z",
+        "number": 2113,
+        "title": "vpp: reenable promisc when vlan member is removed",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 117,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-30T21:47:39Z",
+        "number": 2110,
+        "title": "[syncd] Read the switch MAC defaults on a VOQ switch too",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 5,
+        "author": "yijingyan2",
+        "baseRefName": "202511",
+        "mergedAt": "2026-10-08T16:33:52Z",
+        "number": 2109,
+        "title": "[202511][pyext]: Do not treat disabled-optimization warnings as errors",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 5,
+        "author": "yijingyan2",
+        "baseRefName": "202605",
+        "mergedAt": "2026-10-07T23:39:23Z",
+        "number": 2108,
+        "title": "[202605][pyext]: Do not treat disabled-optimization warnings as errors",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 35,
+        "author": "theasianpianist",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-09T20:37:03Z",
+        "number": 2107,
+        "title": "[ci]: Use sonic-swss shared CI templates",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 1,
+        "author": "yijingyan2",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-21T21:29:04Z",
+        "number": 2106,
+        "title": "[ci]: Download VPP artifacts from the target branch",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 2689,
+        "author": "yue-fred-gao",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-23T18:02:00Z",
+        "number": 2105,
+        "title": "[vpp] Map SAI Policy Based Hashing onto the sonic_ext PBH feature",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 1015,
+        "author": "AkeelAli",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-06T20:18:54Z",
+        "number": 2104,
+        "title": "[vpp] Add VPP SAI UT CI with stable-baseline gate",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 329,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-30T21:47:15Z",
+        "number": 2102,
+        "title": "[syncd] Match next hops with equal attributes by their next hop groups",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 4,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-01T07:10:37Z",
+        "number": 2100,
+        "title": "[vpp] copy the inner ECN on IPinIP encap in standard ECN mode",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 345,
+        "author": "bingwang-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T11:06:22Z",
+        "number": 2098,
+        "title": "syncd: add generic apply_sai_profile_configdb() helper for SAI_PROFILE CONFIG_DB table (Broadcom + Mellanox)",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 109,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-01T00:14:59Z",
+        "number": 2094,
+        "title": "[vpp][dualtor] support prefix-route mux neighbors",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 3008,
+        "author": "rnwolfe",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T14:25:47Z",
+        "number": 2093,
+        "title": "[vpp] Program tenant VRFs: bind router interfaces to their virtual router's table",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 197,
+        "author": "markx-arista",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-29T04:14:49Z",
+        "number": 2090,
+        "title": "Retry PHY collection when lane count increases",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 110,
+        "author": "AkeelAli",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-05T18:46:56Z",
+        "number": 2089,
+        "title": "[vpp] sonic-ext feature gating using startup config",
+        "repo": "sonic-sairedis"
+    },
+    {
         "additions": 42,
         "author": "mssonicbld",
         "baseRefName": "202605",
         "mergedAt": "2026-09-22T19:14:36Z",
         "number": 2087,
         "title": "[action] [PR:2068] [syncd]: Drop host_tx_ready ntf when port RID is not mapped yet",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 58,
+        "author": "anrao1",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-06T16:41:39Z",
+        "number": 2083,
+        "title": "syncd: parse flex-counter prefix maps with vector::at",
         "repo": "sonic-sairedis"
     },
     {
@@ -27,6 +531,42 @@
         "repo": "sonic-sairedis"
     },
     {
+        "additions": 1266,
+        "author": "dypet",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-19T18:38:51Z",
+        "number": 2080,
+        "title": "[VPP] Fix VNET VXLAN encap/decap and support static L2 VXLAN decap",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 77,
+        "author": "Griffin-micas",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-27T04:19:18Z",
+        "number": 2079,
+        "title": "syncd: Skip VID-to-RID translation for FlexCounter removal",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 206,
+        "author": "jjin62",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-27T04:20:32Z",
+        "number": 2077,
+        "title": "[sonic-otn] Support Optical Attenuator and Amplifier",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 1279,
+        "author": "taran9999",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-06T20:19:27Z",
+        "number": 2076,
+        "title": "[vpp] Everflow mirroring",
+        "repo": "sonic-sairedis"
+    },
+    {
         "additions": 12,
         "author": "lolyu",
         "baseRefName": "master",
@@ -42,6 +582,24 @@
         "mergedAt": "2026-09-09T10:14:19Z",
         "number": 2072,
         "title": "[action] [PR:2001] Auto-use enablePerPortCounterDiscovery syncd arg on Broadcom ASICs",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 308,
+        "author": "pinky-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-12T23:17:32Z",
+        "number": 2071,
+        "title": "[syncd] read attribute counter groups with one bulk get",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 1940,
+        "author": "nhegde-microsoft",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-02T15:22:53Z",
+        "number": 2070,
+        "title": "[vpp] SAI support for CoPP dataplane enforcement",
         "repo": "sonic-sairedis"
     },
     {
@@ -252,6 +810,15 @@
         "repo": "sonic-sairedis"
     },
     {
+        "additions": 479,
+        "author": "judsonwilson-nvidia",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-01T14:22:12Z",
+        "number": 2025,
+        "title": "Add optional ASAN test-leak injection gated by a config file",
+        "repo": "sonic-sairedis"
+    },
+    {
         "additions": 60,
         "author": "lolyu",
         "baseRefName": "master",
@@ -303,6 +870,15 @@
         "mergedAt": "2026-08-07T18:07:38Z",
         "number": 2018,
         "title": "[Flexcounter] Poll only initialized PHY/Serdes attributes",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 2984,
+        "author": "aaronber0614",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T15:47:56Z",
+        "number": 2017,
+        "title": "[vslib/vpp] Implement SAI packet trimming (DROP_AND_TRIM) translation to VPP sonic_ext",
         "repo": "sonic-sairedis"
     },
     {
@@ -366,6 +942,24 @@
         "mergedAt": "2026-08-13T13:11:36Z",
         "number": 2008,
         "title": "[vpp] Add MPLS data-plane support (INSEG + IP-route push)",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 182,
+        "author": "YairRaviv",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-16T04:55:20Z",
+        "number": 2007,
+        "title": "[warm-reboot] Match virtual routers by VLAN interfaces during APPLY_VIEW",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 1,
+        "author": "anamehra",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T00:26:59Z",
+        "number": 2006,
+        "title": "syncd: support cisco ASIC name",
         "repo": "sonic-sairedis"
     },
     {
@@ -477,6 +1071,15 @@
         "repo": "sonic-sairedis"
     },
     {
+        "additions": 2186,
+        "author": "aaronber0614",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-21T19:44:11Z",
+        "number": 1983,
+        "title": "[vpp] SAI RIF loopback packet action via VppInterfaceRegistry",
+        "repo": "sonic-sairedis"
+    },
+    {
         "additions": 932,
         "author": "dypet",
         "baseRefName": "master",
@@ -546,6 +1149,15 @@
         "mergedAt": "2026-07-03T06:13:21Z",
         "number": 1970,
         "title": "[action] [PR:1962] Cast workaround for N/A counter values from 202412",
+        "repo": "sonic-sairedis"
+    },
+    {
+        "additions": 60,
+        "author": "DavidZagury",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-13T11:29:03Z",
+        "number": 1969,
+        "title": "[vslib][HFT] Advertise SAI_TAM_TEL_TYPE_ATTR_MODE capability",
         "repo": "sonic-sairedis"
     },
     {

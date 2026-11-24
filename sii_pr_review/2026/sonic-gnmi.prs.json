@@ -1,5 +1,536 @@
 [
     {
+        "additions": 33,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-20T22:23:50Z",
+        "number": 906,
+        "title": "[build] require a published sonic-mgmt-common, and build against the checkout",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 3,
+        "author": "ronan-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-19T19:14:52Z",
+        "number": 901,
+        "title": "Bump openconfig/gnoi to v0.4.1 and drop renamed containerz stubs",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 14,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T16:52:20Z",
+        "number": 892,
+        "title": "[renovate] fix go.sum workflow replacement and version checks",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 37,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T23:16:25Z",
+        "number": 889,
+        "title": "Renovate go.sum: record the fixup for the merge robot",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 312,
+        "author": "donghaolicd",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T17:35:44Z",
+        "number": 888,
+        "title": "[gnmi]: Separate handler construction from network startup",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 2,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T21:07:58Z",
+        "number": 887,
+        "title": "Update github/codeql-action digest to 33d7b85 (master)",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 28,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-12T17:37:54Z",
+        "number": 886,
+        "title": "Update module golang.org/x/crypto to v0.59.0 [SECURITY] (master)",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 323,
+        "author": "donghaolicd",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T17:39:24Z",
+        "number": 885,
+        "title": "[redis]: Pipeline bulk CONFIG_DB reads and bypass writes",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 169,
+        "author": "donghaolicd",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T23:30:25Z",
+        "number": 881,
+        "title": "[build]: Move telemetry command into cmd/telemetry",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 285,
+        "author": "donghaolicd",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-10T20:01:33Z",
+        "number": 879,
+        "title": "[file]: Allow independent construction of the File service",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 23,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-07T02:15:05Z",
+        "number": 878,
+        "title": "Update module google.golang.org/grpc to v1.83.2 [SECURITY] (master)",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 1,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T16:54:04Z",
+        "number": 877,
+        "title": "Print the path in createQuery's error",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 3,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T00:13:58Z",
+        "number": 876,
+        "title": "Use %d for counts in sonic_db_config tests",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 24,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T17:03:36Z",
+        "number": 871,
+        "title": "telemetry: start cert monitoring test deadlines after key generation",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 323,
+        "author": "donghaolicd",
+        "baseRefName": "feature/gnmi-security-modularization",
+        "mergedAt": "2026-11-06T02:16:48Z",
+        "number": 870,
+        "title": "[db]: Extract shared native database path interpretation",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 357,
+        "author": "donghaolicd",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T03:29:33Z",
+        "number": 868,
+        "title": "[auth]: Inject credential methods into standalone authentication logic",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 33,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T19:50:58Z",
+        "number": 867,
+        "title": "Renovate go.sum: run Go in the build container",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 66,
+        "author": "hdwhdw",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T21:34:20Z",
+        "number": 865,
+        "title": "[ci]: Separate native tests from coverage reporting",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 191,
+        "author": "hdwhdw",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T21:40:41Z",
+        "number": 864,
+        "title": "[gnoi]: Fail closed legacy downloads and restrict ORAS pulls to UDS",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 20,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T02:22:39Z",
+        "number": 863,
+        "title": "ci: take Go from the build container, never a pinned version",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 47,
+        "author": "jithinv86",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T23:32:17Z",
+        "number": 862,
+        "title": "telemetry: keep certificate-only noTLS service running",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 13,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-30T21:01:22Z",
+        "number": 861,
+        "title": "[gNOI] Remove unused HostService DownloadImage and InstallImage client methods",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 55,
+        "author": "hdwhdw",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-30T19:51:29Z",
+        "number": 860,
+        "title": "[ci]: Separate pure tests from coverage reporting (U2)",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 2,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-07T01:21:43Z",
+        "number": 859,
+        "title": "Update github/codeql-action digest to 9b32540 (master)",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 3,
+        "author": "app/dependabot",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T02:54:47Z",
+        "number": 858,
+        "title": "Bump github.com/go-jose/go-jose/v4 from 4.1.4 to 4.1.6",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 48,
+        "author": "hdwhdw",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-28T17:08:45Z",
+        "number": 857,
+        "title": "[ci]: reject module drift before PR builds",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 36,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-28T14:46:10Z",
+        "number": 856,
+        "title": "Stop Renovate and the go.sum fixup from looping",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 26,
+        "author": "hdwhdw",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-28T18:11:26Z",
+        "number": 854,
+        "title": "ci: add intent-based test entrypoints (U1)",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 720,
+        "author": "hdwhdw",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-29T22:43:44Z",
+        "number": 852,
+        "title": "dbconfig: enable standalone configuration unit tests",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 1314,
+        "author": "jithinv86",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-28T02:54:47Z",
+        "number": 851,
+        "title": "F053: restrict gNOI File.Get/Stat to world-readable files",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 331,
+        "author": "marvellgit",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-29T21:18:34Z",
+        "number": 850,
+        "title": "Fix cleartext credential exposure in gNMI PAM auth (GHSA-fr8g-q48c-qpc4)",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 11,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-26T17:05:43Z",
+        "number": 848,
+        "title": "Renovate: skip doc/",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 27,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-26T20:03:52Z",
+        "number": 847,
+        "title": "Fail the Renovate go.sum fixup when tidy undoes the update",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 2,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T02:37:43Z",
+        "number": 842,
+        "title": "Update actions/setup-go action to v7 (master)",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 5,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T02:37:08Z",
+        "number": 840,
+        "title": "Update actions/checkout action to v7 (master)",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 13,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T23:05:21Z",
+        "number": 838,
+        "title": "Update go patch updates (master) (patch)",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 10,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T17:02:58Z",
+        "number": 837,
+        "title": "Update github.com/c9s/goprocinfo digest to c95fcf8 (master)",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 512,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-07T01:14:57Z",
+        "number": 834,
+        "title": "Update go security updates [SECURITY] (master) (minor)",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 9,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-03T03:13:41Z",
+        "number": 833,
+        "title": "Update go security updates [SECURITY] (master) (patch)",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 146,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-23T18:35:32Z",
+        "number": 832,
+        "title": "Replace Dependabot with Renovate",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 34,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-19T14:58:23Z",
+        "number": 828,
+        "title": "Preserve matched roles in authorization errors",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 106,
+        "author": "donghaolicd",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-27T20:38:13Z",
+        "number": 827,
+        "title": "[gNMI] Refresh SRv6 SID mappings for each new query",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 436,
+        "author": "hdwhdw",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-19T23:08:06Z",
+        "number": 825,
+        "title": "[gNOI] Remove OS Verify dependency on HostService ListImages",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 157,
+        "author": "hdwhdw",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-13T19:25:23Z",
+        "number": 824,
+        "title": "[gNMI] Isolate authentication attempts and enforce target roles",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 103,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-10T01:11:17Z",
+        "number": 821,
+        "title": "Fix client counter data race",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 221,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-10T22:45:36Z",
+        "number": 820,
+        "title": "gnmi: use Unix sockets for host-local Redis clients",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 1,
+        "author": "xq9mend",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-13T19:06:02Z",
+        "number": 818,
+        "title": "Fix CodeQL sonic-mgmt-common go.mod replacement",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 150,
+        "author": "hdwhdw",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-13T19:24:32Z",
+        "number": 814,
+        "title": "[gnmi_server]: Require gNOI read authorization for artifact reads",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 1600,
+        "author": "hdwhdw",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-13T19:27:35Z",
+        "number": 813,
+        "title": "[gNOI]: Restrict OpenConfig Debug to Unix socket and typed actions",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 3047,
+        "author": "hdwhdw",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-06T19:56:42Z",
+        "number": 811,
+        "title": "[gNOI] Remove Containerz dependency on HostService file_service",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 519,
+        "author": "jithinv86",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-20T18:50:02Z",
+        "number": 807,
+        "title": "gnmi: authenticate noTLS services and authorize TCP file reads",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 58,
+        "author": "nishant111",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-05T22:47:14Z",
+        "number": 806,
+        "title": "Update XPath and ORAS dependencies CVE-2026-32287 & CVE-2026-50151",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 8,
+        "author": "xq9mend",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-01T00:54:19Z",
+        "number": 800,
+        "title": "Enable weekly Dependabot updates for Go modules",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 3,
+        "author": "app/dependabot",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-23T23:04:23Z",
+        "number": 799,
+        "title": "Bump github.com/antchfx/xpath from 1.1.10 to 1.3.6",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 138,
+        "author": "jithinv86",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-20T01:02:45Z",
+        "number": 793,
+        "title": "gnmi_server: reject noTLS on non-default VRFs",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 13,
+        "author": "ronan-nexthop",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-29T21:46:57Z",
+        "number": 792,
+        "title": "[202605] build: upgrade Go toolchain to 1.25.9 (backport #756)",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 230,
+        "author": "hdwhdw",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-28T18:08:03Z",
+        "number": 791,
+        "title": "[gnmi_server]: Run access checks before native Set bypass writes",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 294,
+        "author": "hdwhdw",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-28T17:50:04Z",
+        "number": 790,
+        "title": "[gNOI] Require write authorization for five state-changing RPCs",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 297,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-20T13:17:09Z",
+        "number": 789,
+        "title": "Revalidate authorization for long-lived gNMI subscriptions",
+        "repo": "sonic-gnmi"
+    },
+    {
         "additions": 187,
         "author": "xq9mend",
         "baseRefName": "master",
@@ -24,6 +555,15 @@
         "mergedAt": "2026-09-10T23:40:32Z",
         "number": 780,
         "title": "[gNMI] Verify optional client certificates",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 46,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-28T17:00:44Z",
+        "number": 776,
+        "title": "Require authentication for remote gNOI KillProcess calls",
         "repo": "sonic-gnmi"
     },
     {
@@ -60,6 +600,15 @@
         "mergedAt": "2026-08-31T22:35:06Z",
         "number": 767,
         "title": "build: separate Go caches from project tools",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 105,
+        "author": "hdwhdw",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-26T18:56:18Z",
+        "number": 765,
+        "title": "ci: enforce provider boundaries in pure build mode",
         "repo": "sonic-gnmi"
     },
     {
@@ -108,6 +657,15 @@
         "repo": "sonic-gnmi"
     },
     {
+        "additions": 406,
+        "author": "divyagayathri-hcl",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-12T18:35:18Z",
+        "number": 752,
+        "title": "Component Test for Interface Model - PortChannel",
+        "repo": "sonic-gnmi"
+    },
+    {
         "additions": 341,
         "author": "bibhuprasad-hcl",
         "baseRefName": "master",
@@ -132,6 +690,42 @@
         "mergedAt": "2026-08-25T12:37:29Z",
         "number": 749,
         "title": "dpuproxy: use TLS for DPU connections",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 320,
+        "author": "niranjanivivek",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-29T20:10:17Z",
+        "number": 739,
+        "title": "Component Test For Components Model - Transceivers",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 112,
+        "author": "niranjanivivek",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T17:19:57Z",
+        "number": 738,
+        "title": "Component test for Components Model Wildcard",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 349,
+        "author": "ksravani-hcl",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-02T16:34:39Z",
+        "number": 737,
+        "title": "Component Test For Interface Model - CPU",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 181,
+        "author": "niranjanivivek",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-09T13:22:45Z",
+        "number": 736,
+        "title": "Component Test For Interface Model - Wildcard Support",
         "repo": "sonic-gnmi"
     },
     {
@@ -168,6 +762,15 @@
         "mergedAt": "2026-08-19T22:01:30Z",
         "number": 725,
         "title": "Add paths_blacklist flag to reject blacklisted paths in Get/Set/Subscribe",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 414,
+        "author": "niranjanivivek",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-08T18:22:17Z",
+        "number": 724,
+        "title": "Component test for Components Model - SoftwareComponents",
         "repo": "sonic-gnmi"
     },
     {
@@ -249,6 +852,15 @@
         "mergedAt": "2026-06-17T20:54:06Z",
         "number": 704,
         "title": "[ci]: Update CodeQL action to v4",
+        "repo": "sonic-gnmi"
+    },
+    {
+        "additions": 303,
+        "author": "niranjanivivek",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-29T05:19:37Z",
+        "number": 699,
+        "title": "Component test for Components Model - IC ",
         "repo": "sonic-gnmi"
     },
     {

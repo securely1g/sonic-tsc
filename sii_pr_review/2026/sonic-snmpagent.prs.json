@@ -1,5 +1,59 @@
 [
     {
+        "additions": 12,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T00:03:41Z",
+        "number": 401,
+        "title": "Renovate: merge labeled security updates with Renovate's own automerge",
+        "repo": "sonic-snmpagent"
+    },
+    {
+        "additions": 4,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T15:55:31Z",
+        "number": 395,
+        "title": "Add Renovate configuration",
+        "repo": "sonic-snmpagent"
+    },
+    {
+        "additions": 1,
+        "author": "yijingyan2",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-02T01:35:38Z",
+        "number": 394,
+        "title": "[ci] switch to sonic-ubuntu-1c agent pool",
+        "repo": "sonic-snmpagent"
+    },
+    {
+        "additions": 9,
+        "author": "yijingyan2",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-26T23:40:54Z",
+        "number": 393,
+        "title": "[ci] Limit SNMP pipeline artifact downloads to reduce disk usage",
+        "repo": "sonic-snmpagent"
+    },
+    {
+        "additions": 51,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-09T01:37:20Z",
+        "number": 390,
+        "title": "snmpagent: use Unix sockets for local Redis",
+        "repo": "sonic-snmpagent"
+    },
+    {
+        "additions": 44,
+        "author": "wrideout-arista",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-22T19:08:21Z",
+        "number": 389,
+        "title": "master|rfc2737: skip fan entries with empty position",
+        "repo": "sonic-snmpagent"
+    },
+    {
         "additions": 47,
         "author": "StormLiangMS",
         "baseRefName": "master",

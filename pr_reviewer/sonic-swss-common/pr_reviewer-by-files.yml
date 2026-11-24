@@ -1,0 +1,64 @@
+/:
+  ashutosh-agrawal: 0.6
+  bhouse-nexthop: 0.1991
+  qiluo-msft: 0.5672
+  senthil-nexthop: 0.1188
+  theasianpianist: 0.5558
+  venkit-nexthop: 0.1225
+  vpandian-nokia: 0.1151
+/.azure-pipelines/:
+  theasianpianist: 0.6
+/.git/:
+  ashutosh-agrawal: 0.6
+  bhouse-nexthop: 0.1405
+  qiluo-msft: 0.1672
+  theasianpianist: 0.5558
+  venkit-nexthop: 0.1128
+  vpandian-nokia: 0.1151
+/build-env/:
+  theasianpianist: 0.6
+/build-env/packages/:
+  theasianpianist: 0.6
+/ci/:
+  theasianpianist: 0.6
+/ci/buildenv_setup/:
+  theasianpianist: 0.6
+/ci/tests/:
+  theasianpianist: 0.6
+/common/:
+  ashutosh-agrawal: 0.6
+  qiluo-msft: 0.4853
+  saiarcot895: 0.1014
+  senthil-nexthop: 0.1924
+  venkit-nexthop: 0.1994
+  vpandian-nokia: 0.1699
+/common/c-api/:
+  qiluo-msft: 0.965
+/crates/:
+  qiluo-msft: 1.0
+  yue-fred-gao: 0.3308
+/crates/swss-common/:
+  qiluo-msft: 1.0
+  yue-fred-gao: 0.3145
+/crates/swss-common/src/:
+  qiluo-msft: 1.0
+  yue-fred-gao: 0.3246
+/crates/swss-common/src/types/:
+  qiluo-msft: 1.0
+  yue-fred-gao: 0.2249
+/crates/swss-common/tests/:
+  qiluo-msft: 1.0
+/goext/:
+  hdwhdw: 0.6
+/pyext/:
+  ashutosh-agrawal: 0.6
+/pyext/py3/:
+  ashutosh-agrawal: 0.6
+/sonic-db-cli/:
+  ashutosh-agrawal: 0.6
+/tests/:
+  ashutosh-agrawal: 0.6
+  qiluo-msft: 0.4376
+  senthil-nexthop: 0.1045
+  venkit-nexthop: 0.1139
+  vpandian-nokia: 0.1056

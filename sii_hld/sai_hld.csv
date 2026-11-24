@@ -29,10 +29,28 @@ sai,doc/NAT/SAI-NAT-API.md,JaiOCP,2019-09-03T19:06:00Z
 sai,doc/OCS/SAI-Proposal-OCS.md,wni0812,2026-07-29T13:43:17Z
 sai,doc/OTN/sai_otn_proposal.md,jjin62,2026-06-02T20:27:50Z
 sai,doc/Override-VRF.md,JaiOCP,2021-03-09T06:37:34Z
+sai,doc/PON/HLD.md,dpelton-ciena,2026-10-05T23:48:01Z
+sai,doc/PON/PON_CONTROLLER_hierarchy.md,dpelton-ciena,2026-10-05T23:48:01Z
+sai,doc/PON/PON_OLT_INTF_STATE_hierarchy.md,dpelton-ciena,2026-10-05T23:48:01Z
+sai,doc/PON/PON_OLT_INTF_hierarchy.md,dpelton-ciena,2026-10-05T23:48:01Z
+sai,doc/PON/PON_ONU_STATE_hierarchy.md,dpelton-ciena,2026-10-05T23:48:01Z
+sai,doc/PON/PON_ONU_TEMPLATE_hierarchy.md,dpelton-ciena,2026-10-05T23:48:01Z
+sai,doc/PON/PON_ONU_hierarchy.md,dpelton-ciena,2026-10-05T23:48:01Z
+sai,doc/PON/PON_SERVICE_CONFIG_PROFILE_00_INDEX.md,dpelton-ciena,2026-10-05T23:48:01Z
+sai,doc/PON/PON_SERVICE_CONFIG_PROFILE_BRIDGING_VLAN_hierarchy.md,dpelton-ciena,2026-10-05T23:48:01Z
+sai,doc/PON/PON_SERVICE_CONFIG_PROFILE_EQUIPMENT_hierarchy.md,dpelton-ciena,2026-10-05T23:48:01Z
+sai,doc/PON/PON_SERVICE_CONFIG_PROFILE_GEM_TRAFFIC_hierarchy.md,dpelton-ciena,2026-10-05T23:48:01Z
+sai,doc/PON/PON_SERVICE_CONFIG_PROFILE_HEADER_hierarchy.md,dpelton-ciena,2026-10-05T23:48:01Z
+sai,doc/PON/PON_SERVICE_CONFIG_PROFILE_IP_TRANSPORT_hierarchy.md,dpelton-ciena,2026-10-05T23:48:01Z
+sai,doc/PON/PON_SERVICE_CONFIG_PROFILE_PM_hierarchy.md,dpelton-ciena,2026-10-05T23:48:01Z
+sai,doc/PON/PON_SERVICE_CONFIG_PROFILE_THRESHOLD_hierarchy.md,dpelton-ciena,2026-10-05T23:48:01Z
+sai,doc/PON/PON_SLA_PROFILE_hierarchy.md,dpelton-ciena,2026-10-05T23:48:01Z
+sai,doc/PTP/SAI-Proposal-PTP-Pdelay.md,gurprem-singh,2026-10-01T17:41:36Z
 sai,doc/PTP/SAI-Proposal-PTP-enhancement.md,rpmarvell,2026-02-12T20:33:06Z
 sai,doc/Packet-action-DONOTDROP.md,Ashish1805,2022-06-02T05:40:45Z
 sai,doc/QOS/SAI-Proposal-Port-Storm-Control-Enhancement.md,rpmarvell,2026-05-19T18:18:55Z
 sai,doc/QOS/SAI-Proposal-QOS-Overview.md,Guohan Lu<gulv@microsoft.com>,2015-05-13T07:28:30Z
+sai,doc/QOS/SAI-Proposal-TC-Queue-Map-Multicast.md,komal-marvell,2026-10-01T23:33:26Z
 sai,doc/SAI-CRM-Workflow.md,JaiOCP,2023-09-01T05:19:50Z
 sai,doc/SAI-Counter-enhancement-hld.md,rajkumar38,2024-10-07T06:25:22Z
 sai,doc/SAI-Extensions.md,mikelazar,2018-07-03T16:53:57Z
@@ -60,6 +78,8 @@ sai,doc/SAI-Proposal-ICMP-ECHO.md,chikkaiah-work,2024-07-10T21:05:30Z
 sai,doc/SAI-Proposal-IPv6_Segment_Routing-1.md,shihjeff,2017-06-01T08:17:39Z
 sai,doc/SAI-Proposal-L3-Rewrite-disable.md,vivekmoorthy,2024-01-10T21:25:34Z
 sai,doc/SAI-Proposal-MACSec-Enhancements.md,rushanmu-cisco,2026-03-11T21:07:07Z
+sai,doc/SAI-Proposal-MLD-Snooping.md,AnandhiDhanabalan,2026-09-30T00:00:57Z
+sai,doc/SAI-Proposal-Mirror-Session-Guarantee-Rate.md,milosmoskovljevic,2026-10-01T17:18:33Z
 sai,doc/SAI-Proposal-Mirror-session-encap-type.md,ppanara-marvell,2025-03-13T18:35:41Z
 sai,doc/SAI-Proposal-PFC_Deadlock_State.md,miheot,2021-11-16T22:13:57Z
 sai,doc/SAI-Proposal-PRBS-Per-Lane-Enhancements.md,sdasgupta-marvell,2025-10-10T17:10:32Z
@@ -79,6 +99,7 @@ sai,doc/SAI_1.15.1_ReleaseNotes.md,prasanna228,2024-12-31T00:14:27Z
 sai,doc/SAI_1.16.1_ReleaseNotes.md,prasanna228,2025-06-16T21:41:13Z
 sai,doc/SAI_1.17.4_ReleaseNotes.md,tjchadaga,2026-06-15T18:05:19Z
 sai,doc/SAI_1.18.1_ReleaseNotes.md,tjchadaga,2026-06-15T18:05:19Z
+sai,doc/SAI_1.19.2_ReleaseNotes.md,tjchadaga,2026-11-04T17:47:30Z
 sai,doc/SAI_1.5_ReleaseNotes.md,kannankvs,2019-09-12T04:18:11Z
 sai,doc/SAI_1.6.3_ReleaseNotes.md,pyuvarajan,2020-11-21T03:01:53Z
 sai,doc/SAI_1.7.1_ReleaseNotes.md,kannankvs,2021-04-21T15:54:04Z
@@ -99,6 +120,7 @@ sai,doc/behavioral model/NAT_SAI_Pipeline_Spec.md,JaiOCP,2019-09-03T19:06:00Z
 sai,doc/cable_diag/cable_diag.md,prafull-brcm,2024-01-10T21:26:17Z
 sai,doc/fips/SAI-Proposal-FIPS-Compliance.md,JaiOCP,2025-05-08T18:05:25Z
 sai,doc/fw/SAI-FW-API.md,JaiOCP,2026-09-18T11:56:34Z
+sai,doc/health_event.md,amandyuk,2023-06-20T05:56:24Z
 sai,doc/macsec-gearbox/Copper_PHY_Attributes_Proposal.md,SidharajU,2021-06-17T01:17:53Z
 sai,doc/macsec-gearbox/PAI-Proposal-Failover.md,tarakreddy1984,2020-10-08T18:16:42Z
 sai,doc/macsec-gearbox/PAI_Auto_Negotiated_FEC.md,tarakreddy1984,2021-07-01T21:56:06Z

@@ -1,5 +1,541 @@
 [
     {
+        "number": 143,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-11-17T03:48:49Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 143,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-11-17T03:48:59Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 143,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-11-17T03:49:09Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 143,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-11-17T21:06:02Z",
+        "review_author": "qiluo-msft"
+    },
+    {
+        "number": 143,
+        "repo": "sonic-wpa-supplicant",
+        "latestReview_at": "2026-11-17T21:06:02Z",
+        "latestReview_author": "qiluo-msft",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 140,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-11-13T22:51:13Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<!-- AzurePipelinesStatusComment -->\n<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 140,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-11-13T22:51:22Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 140,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-11-13T22:51:31Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 140,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-11-13T23:14:28Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 140,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-11-13T23:14:38Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 140,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-11-14T01:28:04Z",
+        "review_author": "qiluo-msft"
+    },
+    {
+        "number": 140,
+        "repo": "sonic-wpa-supplicant",
+        "latestReview_at": "2026-11-14T01:28:04Z",
+        "latestReview_author": "qiluo-msft",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-09-15T06:26:19Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-09-15T06:26:29Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-09-15T06:26:39Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-09-17T03:26:06Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-09-17T03:26:16Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-09-17T06:24:26Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-09-17T06:24:35Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-09-18T23:50:50Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-09-18T23:50:59Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-23T03:42:36Z",
+        "comment_author": "linux-foundation-easycla",
+        "comment_body": "<a href=\"https://easycla.lfx.linuxfoundation.org/#/?version=2\"><img src=\"https://s3.amazonaws.com/cla-project-logo-prod/cla-signed.svg?v=2\" alt=\"CLA Signed\" align=\"left\" height=\"28\" width=\"328\" ></a><br >The committers listed above are authorized under a signed CLA.<ul><li>:white_check_mark: login: liamkearney-msft / name: Liam Kearney (059cfda02b424b521430177291a6e2a894620b52, 05e27c31df4a4aa2a3e1ab3aa1547dd21e9d871e, 06517117d8b191f2e44f6befb1d75c4816e732d2, 1bbcc4e37dde838408fb1ac792e2070c521e9767, 2eab4f273f75a9d80a40e8cfb419c3b11552019f, 41dd64bb2e50298abdcc51b8c4449f84481858bb, 43e934d297ba18223d0f86ccabfc1707a851f896, 5cebb676bacff920da3996de7caf1d4b21a6c27b, 6715c001a84b19b63c8e8f8ff652ed9b20659abb, a355281be58a36687f2b253685cddebd2c66ee6a, a94c5b05197b3a749150bb4b44fc6469a3adb510, af187336cc1db644c38810cb300486678f12d174, e6c032172a04a6e2daf29be6f1684b66b5abf51e, f0f27f67138c4ff6be05e2922b6c340d02edba66, f76815b4bfcaaf4eb9a462b8afa9fc09e89b1298)</li></ul>"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-23T03:42:48Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-23T03:42:58Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-23T05:57:37Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-23T05:57:46Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-26T08:32:41Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-26T08:32:51Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-29T09:17:33Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-29T09:17:43Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-29T09:31:13Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-29T09:31:25Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-11-01T06:10:35Z",
+        "comment_author": "rlhui",
+        "comment_body": "@liamkearney-msft please update the branch"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-11-01T23:32:34Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-11-01T23:32:44Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-11-05T01:35:32Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-11-05T01:35:42Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-09-15T06:40:52Z",
+        "review_author": "github-advanced-security"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-10-13T23:40:48Z",
+        "review_author": "senthil-nexthop"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-10-19T06:56:11Z",
+        "review_author": "liamkearney-msft"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-10-26T10:12:18Z",
+        "review_author": "liamkearney-msft"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-10-31T01:37:55Z",
+        "review_author": "senthil-nexthop"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-11-04T21:07:17Z",
+        "review_author": "bmridul"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-11-05T02:13:18Z",
+        "review_author": "bmridul"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-11-11T19:06:56Z",
+        "review_author": "m26singhvi"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-11-11T19:09:19Z",
+        "review_author": "m26singhvi"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-11-11T19:14:45Z",
+        "review_author": "m26singhvi"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-11-11T19:22:42Z",
+        "review_author": "m26singhvi"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "latestReview_at": "2026-11-11T19:22:42Z",
+        "latestReview_author": "m26singhvi",
+        "latestReview_state": "COMMENTED"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "latestReview_at": "2026-09-15T06:40:52Z",
+        "latestReview_author": "github-advanced-security",
+        "latestReview_state": "COMMENTED"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "latestReview_at": "2026-11-05T02:13:18Z",
+        "latestReview_author": "bmridul",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 138,
+        "repo": "sonic-wpa-supplicant",
+        "latestReview_at": "2026-10-31T01:37:55Z",
+        "latestReview_author": "senthil-nexthop",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-09-15T06:11:14Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-09-15T06:11:24Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-09-15T06:11:35Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-29T09:09:50Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-29T09:10:01Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-29T09:10:43Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-29T09:10:54Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-29T09:17:32Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-29T09:17:42Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-29T09:18:47Z",
+        "comment_author": "liamkearney-msft",
+        "comment_body": "hey reviewers, \r\nif we are happy with the bulk of the changes can we please get some approvals so we can merge and get this feature into master to test.\r\nWe can address any issues / enhancements in a follow up change.\r\nthanks\r\n@senthil-nexthop @m26singhvi "
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-11-03T00:18:37Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-11-03T00:18:49Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-11-04T18:49:41Z",
+        "comment_author": "rlhui",
+        "comment_body": "@liamkearney-msft  if we merge #138, do we still need this PR?  If we focus on #138, we can close this one, is that right?"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-11-04T23:48:21Z",
+        "comment_author": "liamkearney-msft",
+        "comment_body": "hey @rlhui  yes thats correct - these PRs are sequential, so the last one should cover it all. I split it up with the intention of merging each one in sequence to ease review / have the commit history be clear"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-10-26T19:59:33Z",
+        "review_author": "m26singhvi"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-10-26T20:06:46Z",
+        "review_author": "m26singhvi"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-10-26T20:07:26Z",
+        "review_author": "m26singhvi"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-10-29T09:03:57Z",
+        "review_author": "liamkearney-msft"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-10-29T09:09:39Z",
+        "review_author": "liamkearney-msft"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-11-02T18:59:09Z",
+        "review_author": "senthil-nexthop"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-11-02T19:24:11Z",
+        "review_author": "m26singhvi"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-11-02T19:48:49Z",
+        "review_author": "m26singhvi"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-11-02T19:49:35Z",
+        "review_author": "m26singhvi"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-11-02T22:31:21Z",
+        "review_author": "bmridul"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-11-03T00:18:01Z",
+        "review_author": "liamkearney-msft"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "latestReview_at": "2026-11-02T19:49:35Z",
+        "latestReview_author": "m26singhvi",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "latestReview_at": "2026-11-02T22:31:21Z",
+        "latestReview_author": "bmridul",
+        "latestReview_state": "APPROVED"
+    },
+    {
+        "number": 135,
+        "repo": "sonic-wpa-supplicant",
+        "latestReview_at": "2026-11-02T18:59:09Z",
+        "latestReview_author": "senthil-nexthop",
+        "latestReview_state": "APPROVED"
+    },
+    {
         "number": 131,
         "repo": "sonic-wpa-supplicant",
         "comment_at": "2026-09-03T10:58:34Z",
@@ -19,6 +555,145 @@
         "comment_at": "2026-09-03T10:58:54Z",
         "comment_author": "azure-pipelines",
         "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-07-17T06:39:11Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-07-17T06:39:12Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-07-17T06:39:21Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-07-17T06:54:44Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-07-17T06:54:53Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-07-17T07:10:27Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-07-17T07:10:32Z",
+        "comment_author": "linux-foundation-easycla",
+        "comment_body": "<a href=\"https://easycla.lfx.linuxfoundation.org/#/?version=2\"><img src=\"https://s3.amazonaws.com/cla-project-logo-prod/cla-signed.svg?v=2\" alt=\"CLA Signed\" align=\"left\" height=\"28\" width=\"328\" ></a><br >The committers listed above are authorized under a signed CLA.<ul><li>:white_check_mark: login: rajshekhar-nexthop / name: rajshekhar-nexthop (377a53d72129297a5e65fa5baff975542d721d8b)</li></ul>"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-07-17T07:10:37Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-07-17T07:10:55Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-07-17T07:11:05Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-07-17T09:17:22Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nThere may be pipelines that require an authorized user to comment /azp run to run.<br>\r\n\n</samp>"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-08-06T04:08:49Z",
+        "comment_author": "mssonicbld",
+        "comment_body": "/azp run"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-08-06T04:08:58Z",
+        "comment_author": "azure-pipelines",
+        "comment_body": "<samp>\nAzure Pipelines:<br>\r\nSuccessfully started running 1 pipeline(s).<br>\r\n\n</samp>"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-09-04T11:45:52Z",
+        "comment_author": "rajshekhar-nexthop",
+        "comment_body": "Hi @rlhui & @Pterosaur Please help to review and merge this PR. Thanks"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-17T13:27:40Z",
+        "comment_author": "rajshekhar-nexthop",
+        "comment_body": "Gentle reminder. Thanks"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-21T17:35:52Z",
+        "comment_author": "abdosi",
+        "comment_body": "@rajshekhar-nexthop : can you confirm if we still need this."
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-10-22T16:21:22Z",
+        "comment_author": "rajshekhar-nexthop",
+        "comment_body": "> @rajshekhar-nexthop : can you confirm if we still need this.\r\n\r\nHi @abdosi, \r\nYes, it\u2019s good to have this fix since it addresses a race condition, although the condition that triggers it is very rare.\r\n"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "comment_at": "2026-11-16T04:27:05Z",
+        "comment_author": "rajshekhar-nexthop",
+        "comment_body": "Hi @rlhui ,\r\nCan we get this fix backported to 202511 branch as well? Thanks"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "review_at": "2026-07-29T01:32:21Z",
+        "review_author": "liamkearney-msft"
+    },
+    {
+        "number": 122,
+        "repo": "sonic-wpa-supplicant",
+        "latestReview_at": "2026-07-29T01:32:21Z",
+        "latestReview_author": "liamkearney-msft",
+        "latestReview_state": "APPROVED"
     },
     {
         "number": 119,

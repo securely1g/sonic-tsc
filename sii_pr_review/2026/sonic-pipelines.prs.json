@@ -1,5 +1,293 @@
 [
     {
+        "additions": 240,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-11-22T22:16:31Z",
+        "number": 261,
+        "title": "[code-owners] Handle missing GitHub users and malformed author emails",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 8,
+        "author": "bhouse-nexthop",
+        "baseRefName": "main",
+        "mergedAt": "2026-11-23T22:58:44Z",
+        "number": 260,
+        "title": "[renovate] give cargo 0.x minor updates their own pull request",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 1,
+        "author": "bhouse-nexthop",
+        "baseRefName": "main",
+        "mergedAt": "2026-11-20T02:30:17Z",
+        "number": 259,
+        "title": "[renovate] list a Renovate PR's head branch again",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 6,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-11-17T01:20:17Z",
+        "number": 258,
+        "title": "Fix Azure expression length limit in PR scan pipeline",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 82,
+        "author": "mssonicbld",
+        "baseRefName": "main",
+        "mergedAt": "2026-11-16T03:46:37Z",
+        "number": 257,
+        "title": "[ci] Set up code sync for 202611",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 131,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-11-15T22:33:30Z",
+        "number": 256,
+        "title": "[ci] Add risk-based automerging for Qualified-approval PRs",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 6,
+        "author": "bhouse-nexthop",
+        "baseRefName": "main",
+        "mergedAt": "2026-11-14T01:43:26Z",
+        "number": 255,
+        "title": "[renovate] pin GitHub Actions to a commit digest",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 17,
+        "author": "lunyue-ms",
+        "baseRefName": "test",
+        "mergedAt": "2026-11-12T03:59:40Z",
+        "number": 254,
+        "title": "[agent] Fail test-branch provisioning on unavailable dependencies",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 137,
+        "author": "bhouse-nexthop",
+        "baseRefName": "main",
+        "mergedAt": "2026-11-13T23:52:33Z",
+        "number": 253,
+        "title": "[renovate] approve a Renovate PR's held pull_request runs",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 1,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-11-08T22:24:12Z",
+        "number": 252,
+        "title": "scan for qualified approval PRs updated within 1 month",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 31,
+        "author": "bhouse-nexthop",
+        "baseRefName": "main",
+        "mergedAt": "2026-11-11T21:36:46Z",
+        "number": 251,
+        "title": "[renovate] evaluate a Renovate PR's checks on its head commit",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 1,
+        "author": "bhouse-nexthop",
+        "baseRefName": "main",
+        "mergedAt": "2026-11-14T00:50:55Z",
+        "number": 249,
+        "title": "[renovate] run lock file maintenance",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 32,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-11-04T07:07:52Z",
+        "number": 248,
+        "title": "[agents]: Provision an AppArmor profile for Bazel kernel builds",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 3,
+        "author": "bhouse-nexthop",
+        "baseRefName": "main",
+        "mergedAt": "2026-11-03T02:25:25Z",
+        "number": 247,
+        "title": "[renovate] merge Renovate security updates of any age",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 22,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-10-30T00:39:27Z",
+        "number": 246,
+        "title": "enable automerge for Qualified-approval PRs and support merge queues",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 249,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-10-28T06:41:15Z",
+        "number": 243,
+        "title": "[code-owners] add recency decay, full tree, score normalization and approval-based reviewer scores",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 4,
+        "author": "bhouse-nexthop",
+        "baseRefName": "main",
+        "mergedAt": "2026-10-28T01:07:20Z",
+        "number": 242,
+        "title": "[renovate] rebase only on a conflict, except automerge updates",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 2,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-10-27T02:34:45Z",
+        "number": 241,
+        "title": "[ci] disable PR description scanning",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 13,
+        "author": "lunyue-ms",
+        "baseRefName": "main",
+        "mergedAt": "2026-10-23T02:10:23Z",
+        "number": 240,
+        "title": "[agent] Avoid slow Ubuntu Azure mirror downloads on amd64",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 120,
+        "author": "bhouse-nexthop",
+        "baseRefName": "main",
+        "mergedAt": "2026-10-23T18:32:09Z",
+        "number": 239,
+        "title": "[renovate] add the shared preset, and merge Renovate security updates",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 2,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-10-14T23:23:32Z",
+        "number": 237,
+        "title": "[agent] upgrade powershell to v7.5.10",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 578,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-11-12T21:51:20Z",
+        "number": 236,
+        "title": "[ci] scan for pipelines that failed for three consecutive days",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 2,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-10-12T23:51:45Z",
+        "number": 235,
+        "title": "[agent] use uv to install python build dependencies",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 1,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-10-12T23:30:38Z",
+        "number": 234,
+        "title": "[agent] Allow pinned Docker package downgrades during provisioning",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 3,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-10-12T22:44:06Z",
+        "number": 233,
+        "title": "[agent] remove python3-pip and upgrade powershell",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 2,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-10-12T09:36:08Z",
+        "number": 232,
+        "title": "fix github telemetry script compatibility",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 5,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-10-12T09:20:18Z",
+        "number": 231,
+        "title": "[ci] use uv for github telemetry pipeline dependencies",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 4,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-10-09T06:18:25Z",
+        "number": 230,
+        "title": "[agent] upgrade debian packages during agent provisioning",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 6,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-10-06T05:48:48Z",
+        "number": 229,
+        "title": "Add upstream repository context to code conflict notifications",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 2,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-10-02T08:11:35Z",
+        "number": 228,
+        "title": "[ci] Fix automerge label update for existing code sync PRs",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 4,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-09-29T23:37:57Z",
+        "number": 227,
+        "title": "[ci] Allow msft submodule code sync to skip configured branches",
+        "repo": "sonic-pipelines"
+    },
+    {
+        "additions": 3,
+        "author": "yijingyan2",
+        "baseRefName": "main",
+        "mergedAt": "2026-09-29T08:26:54Z",
+        "number": 226,
+        "title": "[ci] Fix code sync updates for existing pull requests",
+        "repo": "sonic-pipelines"
+    },
+    {
         "additions": 25,
         "author": "yijingyan2",
         "baseRefName": "main",

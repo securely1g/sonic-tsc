@@ -1,0 +1,162 @@
+/:
+  aditya-nexthop: 0.1176
+  ganglyu: 0.6208
+  judyjoseph: 0.1531
+  prgeor: 0.4172
+/.git/:
+  ganglyu: 0.6
+/.github/:
+  oleksandrivantsiv: 0.6
+/.github/codeql/:
+  oleksandrivantsiv: 0.6
+/crates/:
+  ganglyu: 0.7302
+/crates/platform-api/:
+  ganglyu: 0.6
+/crates/platform-api/src/:
+  ganglyu: 0.6
+/crates/platform-api/tests/:
+  ganglyu: 0.6
+/crates/platform-provider/:
+  ganglyu: 0.7302
+/crates/platform-provider/src/:
+  ganglyu: 0.8016
+/crates/platform-provider/tests/:
+  ganglyu: 0.8016
+/crates/platform-pyo3/:
+  ganglyu: 0.7302
+/crates/platform-pyo3/src/:
+  ganglyu: 0.8016
+/crates/platform-pyo3/tests/:
+  ganglyu: 0.8016
+/generator/:
+  ganglyu: 0.8016
+/generator/templates/:
+  ganglyu: 0.8016
+/sonic_led/:
+  ganglyu: 0.6
+/sonic_platform_api/:
+  ganglyu: 0.6
+/sonic_platform_base/:
+  ArthurMicas: 0.5032
+  KroosMicas: 0.3233
+  aditya-nexthop: 0.6923
+  benle7: 0.2639
+  bgallagher-nexthop: 0.494
+  judyjoseph: 0.1836
+  mihirpat1: 0.1983
+  mzwang-arista: 0.1006
+  pnakka28: 0.2691
+  prgeor: 0.6325
+/sonic_platform_base/sonic_xcvr/:
+  ArthurMicas: 0.5032
+  KroosMicas: 0.3233
+  aditya-nexthop: 0.6898
+  bgallagher-nexthop: 0.4544
+  mihirpat1: 0.2068
+  mzwang-arista: 0.1006
+  pnakka28: 0.2698
+  prgeor: 0.6325
+/sonic_platform_base/sonic_xcvr/api/:
+  ArthurMicas: 0.6
+  KroosMicas: 0.1939
+  aditya-nexthop: 0.1823
+  bgallagher-nexthop: 0.4327
+  mihirpat1: 0.2564
+  pnakka28: 0.3794
+  prgeor: 0.653
+/sonic_platform_base/sonic_xcvr/api/arista/:
+  mzwang-arista: 0.6
+/sonic_platform_base/sonic_xcvr/api/broadcom/:
+  ArthurMicas: 0.6
+  KroosMicas: 0.1337
+/sonic_platform_base/sonic_xcvr/api/credo/:
+  prgeor: 0.7985
+/sonic_platform_base/sonic_xcvr/api/nvidia/:
+  Natgerbi: 0.6
+/sonic_platform_base/sonic_xcvr/api/pinewave/:
+  pnakka28: 0.6
+/sonic_platform_base/sonic_xcvr/api/public/:
+  Junchao-Mellanox: 0.1109
+  aditya-nexthop: 0.2164
+  bgallagher-nexthop: 0.686
+  mihirpat1: 0.37
+  pnakka28: 0.5803
+  prgeor: 0.758
+/sonic_platform_base/sonic_xcvr/cdb/:
+  pnakka28: 0.6
+  prgeor: 0.852
+/sonic_platform_base/sonic_xcvr/cpo/:
+  ArthurMicas: 0.2194
+  bgallagher-nexthop: 0.8729
+/sonic_platform_base/sonic_xcvr/fields/:
+  KroosMicas: 0.6
+  mzwang-arista: 0.5072
+/sonic_platform_base/sonic_xcvr/fields/broadcom/:
+  KroosMicas: 0.6
+  mzwang-arista: 0.5072
+/sonic_platform_base/sonic_xcvr/mem_maps/:
+  ArthurMicas: 0.1309
+  KroosMicas: 0.151
+  aditya-nexthop: 0.7392
+  bgallagher-nexthop: 0.1755
+  prgeor: 0.4359
+/sonic_platform_base/sonic_xcvr/mem_maps/arista/:
+  mzwang-arista: 0.6
+/sonic_platform_base/sonic_xcvr/mem_maps/broadcom/:
+  ArthurMicas: 0.6
+  KroosMicas: 0.2309
+/sonic_platform_base/sonic_xcvr/mem_maps/public/:
+  aditya-nexthop: 0.7486
+  prgeor: 0.4336
+/sonic_platform_base/sonic_xcvr/mem_maps/public/cmis/:
+  aditya-nexthop: 0.7782
+/sonic_platform_base/sonic_xcvr/mem_maps/public/cmis/elsfp/:
+  aditya-nexthop: 0.8369
+/sonic_platform_base/sonic_xcvr/mem_maps/public/cmis/elsfp/pages/:
+  aditya-nexthop: 0.8369
+/sonic_platform_base/sonic_xcvr/mem_maps/public/cmis/pages/:
+  aditya-nexthop: 0.7782
+/sonic_psu/:
+  ganglyu: 0.6
+/tests/:
+  ArthurMicas: 0.1261
+  aditya-nexthop: 0.1334
+  benle7: 0.1361
+  bgallagher-nexthop: 0.2038
+  ganglyu: 0.6094
+  judyjoseph: 0.1876
+  mihirpat1: 0.1251
+  prgeor: 0.4485
+/tests/0/:
+  ArthurMicas: 0.1261
+  benle7: 0.1361
+  bgallagher-nexthop: 0.1395
+  ganglyu: 0.6
+/tests/1/:
+  ArthurMicas: 0.1261
+  benle7: 0.1361
+  bgallagher-nexthop: 0.1395
+  ganglyu: 0.6
+/tests/mock_data/:
+  benle7: 0.6
+/tests/platform_json/:
+  ArthurMicas: 0.1261
+  benle7: 0.1361
+  bgallagher-nexthop: 0.1395
+  ganglyu: 0.6
+/tests/sensor_data/:
+  ArthurMicas: 0.1261
+  benle7: 0.1361
+  bgallagher-nexthop: 0.1395
+  ganglyu: 0.6
+/tests/sonic_xcvr/:
+  ArthurMicas: 0.5923
+  Junchao-Mellanox: 0.1045
+  KroosMicas: 0.1757
+  aditya-nexthop: 0.2006
+  bgallagher-nexthop: 0.6715
+  mihirpat1: 0.2502
+  mzwang-arista: 0.179
+  pnakka28: 0.2809
+  prgeor: 0.6278

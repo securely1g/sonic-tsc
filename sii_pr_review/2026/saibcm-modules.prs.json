@@ -1,11 +1,119 @@
 [
     {
+        "additions": 6,
+        "author": "tjchadaga",
+        "baseRefName": "sdk-6.5.37-dnx",
+        "mergedAt": "2026-11-23T23:28:50Z",
+        "number": 57,
+        "title": "Update kernel version references to 6.12.94",
+        "repo": "saibcm-modules"
+    },
+    {
+        "additions": 11,
+        "author": "Pterosaur",
+        "baseRefName": "sdk-6.5.37-xgs",
+        "mergedAt": "2026-11-18T22:56:52Z",
+        "number": 53,
+        "title": "[XGS][6.5.37] Install and load linux_ngedk and linux_ngst for HFT",
+        "repo": "saibcm-modules"
+    },
+    {
+        "additions": 11,
+        "author": "Pterosaur",
+        "baseRefName": "sdk-6.5.35-xgs-202605",
+        "mergedAt": "2026-11-18T22:56:49Z",
+        "number": 52,
+        "title": "[XGS][202605] Install and load linux_ngedk and linux_ngst for HFT",
+        "repo": "saibcm-modules"
+    },
+    {
+        "additions": 11,
+        "author": "Pterosaur",
+        "baseRefName": "sdk-6.5.35-xgs",
+        "mergedAt": "2026-11-18T12:16:24Z",
+        "number": 51,
+        "title": "[XGS] Install and load linux_ngedk and linux_ngst for HFT",
+        "repo": "saibcm-modules"
+    },
+    {
+        "additions": 26,
+        "author": "aaronber0614",
+        "baseRefName": "sdk-6.5.35-xgs-202605",
+        "mergedAt": "2026-11-18T12:30:28Z",
+        "number": 49,
+        "title": "[XGS][202605] Sync kernel modules with Broadcom SAI 15.2.1.0.0.0.50.1",
+        "repo": "saibcm-modules"
+    },
+    {
+        "additions": 26,
+        "author": "aaronber0614",
+        "baseRefName": "sdk-6.5.35-xgs",
+        "mergedAt": "2026-11-18T12:08:02Z",
+        "number": 48,
+        "title": "[XGS] Sync kernel modules with Broadcom SAI 15.2.1.0.0.0.50.1",
+        "repo": "saibcm-modules"
+    },
+    {
+        "additions": 9,
+        "author": "aaronber0614",
+        "baseRefName": "sdk-6.5.37-xgs",
+        "mergedAt": "2026-11-16T19:59:02Z",
+        "number": 47,
+        "title": "Update kernel version references to 6.12.94",
+        "repo": "saibcm-modules"
+    },
+    {
+        "additions": 2,
+        "author": "aaronber0614",
+        "baseRefName": "sdk-6.5.37-xgs",
+        "mergedAt": "2026-11-13T12:15:45Z",
+        "number": 46,
+        "title": "[make] Pass KNET and BDE defines through CFGFLAGS for 6.5.37 kbuild",
+        "repo": "saibcm-modules"
+    },
+    {
+        "additions": 1,
+        "author": "aaronber0614",
+        "baseRefName": "sdk-6.5.37-xgs",
+        "mergedAt": "2026-11-12T17:01:51Z",
+        "number": 45,
+        "title": "[clean] Drop removed 'shared' subdir from kernel modules clean target",
+        "repo": "saibcm-modules"
+    },
+    {
+        "additions": 1615,
+        "author": "saksarav-nokia",
+        "baseRefName": "sdk-6.5.37-dnx",
+        "mergedAt": "2026-11-19T21:23:41Z",
+        "number": 44,
+        "title": "Bump up to SDK-6.5.37-dnx-gpl",
+        "repo": "saibcm-modules"
+    },
+    {
+        "additions": 9,
+        "author": "saiarcot895",
+        "baseRefName": "sdk-6.5.35-xgs",
+        "mergedAt": "2026-11-12T01:35:23Z",
+        "number": 43,
+        "title": "Update kernel version references to 6.12.94",
+        "repo": "saibcm-modules"
+    },
+    {
         "additions": 600,
         "author": "venu-nexthop",
         "baseRefName": "sdk-6.5.35-dnx",
         "mergedAt": "2026-06-30T16:42:55Z",
         "number": 41,
         "title": "Bump up to SDK-6.5.35-dnx-gpl",
+        "repo": "saibcm-modules"
+    },
+    {
+        "additions": 2,
+        "author": "Gfrom2016",
+        "baseRefName": "sdk-6.5.35-xgs",
+        "mergedAt": "2026-11-10T19:21:45Z",
+        "number": 38,
+        "title": "[bcm-genl] Restore DCBDIR path fallback",
         "repo": "saibcm-modules"
     },
     {

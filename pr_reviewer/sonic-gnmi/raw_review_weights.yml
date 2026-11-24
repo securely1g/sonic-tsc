@@ -1,0 +1,534 @@
+/:
+  BYGX-wcr: 0.3217
+  FengPan-Frank: 0.814
+  Ryangwaite: 0.2728
+  StormLiangMS: 0.9367
+  SuvarnaMeenakshi: 0.0806
+  abdosi: 0.1746
+  anand-kumar-subramanian: 0.2455
+  anders-nexthop: 0.7011
+  anish-n: 1.6475
+  ayelrod: 0.043
+  bhouse-nexthop: 3.7546
+  donghaolicd: 12.5699
+  ganglyu: 1.1982
+  hdwhdw: 46.2676
+  kanchanavelusamy: 0.675
+  kperumalbfn: 0.0775
+  kwangsuk: 0.4828
+  lguohan: 0.1485
+  lihuay: 0.335
+  liuh-80: 0.366
+  make1980: 0.6008
+  ndas7: 11.6318
+  panyz522: 0.5399
+  prabhataravind: 0.9536
+  prsunny: 0.4854
+  qiluo-msft: 17.1008
+  rlucus: 3.3991
+  ronan-nexthop: 1.5364
+  rookie-who: 0.514
+  ryanzhu706: 3.0551
+  sachinholla: 0.0183
+  saiarcot895: 1.2706
+  sakshamkhurana21: 1.7527
+  sneelam20: 14.0593
+  v-cshekar: 0.2191
+  vaibhavhd: 2.1473
+  vivekkarri: 0.309
+  vmittal-msft: 0.2629
+  vvolam: 0.3229
+  wen587: 0.2191
+  xincunli-sonic: 0.6525
+  yijingyan2: 1.0722
+  yxieca: 0.3956
+  zbud-msft: 7.0767
+/.azure/:
+  hdwhdw: 1.3086
+  prabhataravind: 0.5069
+  qiluo-msft: 2.3076
+  rookie-who: 0.514
+  ryanzhu706: 0.4401
+  vaibhavhd: 1.253
+  zbud-msft: 0.7575
+/.azure/templates/:
+  hdwhdw: 1.3086
+  prabhataravind: 0.5069
+  qiluo-msft: 2.3076
+  rookie-who: 0.514
+  ryanzhu706: 0.4401
+  vaibhavhd: 1.253
+  zbud-msft: 0.7575
+/.github/:
+  bhouse-nexthop: 1.8673
+  ganglyu: 0.0667
+  hdwhdw: 6.9038
+  lihuay: 0.335
+  qiluo-msft: 6.2317
+  ronan-nexthop: 0.9801
+  yijingyan2: 0.6091
+  zbud-msft: 0.6107
+/.github/workflows/:
+  bhouse-nexthop: 1.8673
+  ganglyu: 0.0667
+  hdwhdw: 5.949
+  qiluo-msft: 5.416
+  ronan-nexthop: 0.9801
+  zbud-msft: 0.6107
+/cmd/:
+  hdwhdw: 0.9548
+/common_utils/:
+  Ryangwaite: 0.1157
+  anand-kumar-subramanian: 0.0824
+  anish-n: 0.3376
+  donghaolicd: 1.5485
+  ganglyu: 0.1059
+  hdwhdw: 4.028
+  kanchanavelusamy: 0.3121
+  kwangsuk: 0.3721
+  ndas7: 2.8693
+  qiluo-msft: 1.3818
+  rlucus: 1.0362
+  sachinholla: 0.0183
+  sakshamkhurana21: 0.8772
+  sneelam20: 2.4368
+  vvolam: 0.0851
+  xincunli-sonic: 0.4195
+/debian/:
+  hdwhdw: 0.3829
+/dialout/:
+  anand-kumar-subramanian: 0.0824
+  anders-nexthop: 0.7011
+  hdwhdw: 3.541
+  kwangsuk: 0.0183
+  ndas7: 0.6203
+  rlucus: 0.3172
+  sachinholla: 0.0183
+  sneelam20: 0.6546
+/dialout/dialout_client/:
+  anand-kumar-subramanian: 0.0824
+  anders-nexthop: 0.7011
+  hdwhdw: 2.8476
+  kwangsuk: 0.0183
+  ndas7: 0.6203
+  rlucus: 0.3172
+  sachinholla: 0.0183
+  sneelam20: 0.6546
+/dialout/dialout_client_cli/:
+  anand-kumar-subramanian: 0.0824
+  hdwhdw: 0.6934
+  kwangsuk: 0.0183
+  ndas7: 0.6203
+  rlucus: 0.3172
+  sachinholla: 0.0183
+  sneelam20: 0.6546
+/dialout/dialout_server/:
+  anand-kumar-subramanian: 0.0824
+  kwangsuk: 0.0183
+  sachinholla: 0.0183
+/dialout/dialout_server_cli/:
+  hdwhdw: 0.6934
+/doc/:
+  donghaolicd: 1.7823
+  hdwhdw: 2.2289
+  panyz522: 0.5399
+  prsunny: 0.1295
+  qiluo-msft: 1.9519
+/doc/telemetry-dev-env/:
+  hdwhdw: 0.6934
+/gnmi_server/:
+  BYGX-wcr: 0.3217
+  FengPan-Frank: 0.4602
+  Ryangwaite: 0.1157
+  SuvarnaMeenakshi: 0.0806
+  abdosi: 0.1746
+  anand-kumar-subramanian: 0.2455
+  anish-n: 1.146
+  ayelrod: 0.043
+  donghaolicd: 6.6615
+  ganglyu: 0.3959
+  hdwhdw: 20.2898
+  kanchanavelusamy: 0.3121
+  kperumalbfn: 0.0775
+  kwangsuk: 0.4828
+  lguohan: 0.1485
+  liuh-80: 0.2528
+  make1980: 0.4568
+  ndas7: 9.1662
+  panyz522: 0.5399
+  prsunny: 0.1295
+  qiluo-msft: 5.5771
+  rlucus: 3.0361
+  ryanzhu706: 2.125
+  sachinholla: 0.0183
+  saiarcot895: 0.5744
+  sakshamkhurana21: 1.7527
+  sneelam20: 10.8305
+  vaibhavhd: 0.3745
+  vvolam: 0.3229
+  xincunli-sonic: 0.5801
+  yijingyan2: 0.4631
+  zbud-msft: 4.3175
+/gnmi_server/mocks/:
+  ganglyu: 0.094
+/gnoi_client/:
+  Ryangwaite: 0.1157
+  anand-kumar-subramanian: 0.0824
+  hdwhdw: 1.1095
+  kanchanavelusamy: 0.4935
+  kwangsuk: 0.0183
+  ndas7: 1.3007
+  qiluo-msft: 0.3155
+  sachinholla: 0.0183
+  sneelam20: 0.6082
+  xincunli-sonic: 0.1542
+/gnoi_client/config/:
+  anand-kumar-subramanian: 0.0824
+  hdwhdw: 1.1095
+  kanchanavelusamy: 0.3629
+  kwangsuk: 0.0183
+  ndas7: 1.1555
+  qiluo-msft: 0.0724
+  sachinholla: 0.0183
+  sneelam20: 0.4556
+  xincunli-sonic: 0.0724
+/gnoi_client/containerz/:
+  Ryangwaite: 0.1157
+/gnoi_client/factory_reset/:
+  kanchanavelusamy: 0.1307
+  ndas7: 0.1452
+  sneelam20: 0.1526
+/gnoi_client/file/:
+  anand-kumar-subramanian: 0.0824
+  hdwhdw: 0.1492
+  kwangsuk: 0.0183
+  ndas7: 0.1367
+  qiluo-msft: 0.0724
+  sachinholla: 0.0183
+  xincunli-sonic: 0.0724
+/gnoi_client/healthz/:
+  hdwhdw: 0.736
+  kanchanavelusamy: 0.3629
+  ndas7: 0.6111
+/gnoi_client/os/:
+  anand-kumar-subramanian: 0.0824
+  hdwhdw: 0.2242
+  kwangsuk: 0.0183
+  ndas7: 0.4077
+  qiluo-msft: 0.16
+  sachinholla: 0.0183
+  sneelam20: 0.4556
+  xincunli-sonic: 0.0818
+/gnoi_client/sonic/:
+  anand-kumar-subramanian: 0.0824
+  kwangsuk: 0.0183
+  qiluo-msft: 0.0724
+  sachinholla: 0.0183
+  xincunli-sonic: 0.0724
+/gnoi_client/system/:
+  anand-kumar-subramanian: 0.0824
+  kwangsuk: 0.0183
+  qiluo-msft: 0.1555
+  sachinholla: 0.0183
+  xincunli-sonic: 0.0724
+/gnoi_client/utils/:
+  anand-kumar-subramanian: 0.0824
+  hdwhdw: 0.736
+  kanchanavelusamy: 0.3629
+  kwangsuk: 0.0183
+  ndas7: 0.6111
+  qiluo-msft: 0.0724
+  sachinholla: 0.0183
+  xincunli-sonic: 0.0724
+/internal/:
+  donghaolicd: 2.6023
+  hdwhdw: 3.0063
+  saiarcot895: 0.2226
+  vvolam: 0.2378
+  zbud-msft: 0.4225
+/internal/adaptors/:
+  donghaolicd: 0.9117
+/internal/adaptors/dbconfig/:
+  donghaolicd: 0.9117
+/internal/adaptors/dbconfig/testdata/:
+  donghaolicd: 0.9117
+/internal/authentication/:
+  hdwhdw: 0.9338
+/internal/diskspace/:
+  zbud-msft: 0.1999
+/internal/download/:
+  donghaolicd: 0.8338
+  saiarcot895: 0.2226
+  vvolam: 0.2378
+  zbud-msft: 0.2226
+/internal/exec/:
+  donghaolicd: 0.8568
+  hdwhdw: 0.236
+/internal/firmware/:
+  hdwhdw: 0.2168
+/internal/hash/:
+  saiarcot895: 0.2226
+  vvolam: 0.2378
+  zbud-msft: 0.2226
+/internal/localredis/:
+  hdwhdw: 0.8474
+/internal/redisopts/:
+  hdwhdw: 0.7723
+/patches/:
+  FengPan-Frank: 0.0795
+  ganglyu: 0.0591
+  make1980: 0.1441
+  qiluo-msft: 0.0808
+/pathz_authorizer/:
+  ndas7: 0.2905
+  rlucus: 0.2965
+  sneelam20: 0.3756
+/pkg/:
+  StormLiangMS: 0.9367
+  anish-n: 1.6475
+  donghaolicd: 2.2764
+  hdwhdw: 7.7552
+  ndas7: 0.6203
+  panyz522: 0.5399
+  prsunny: 0.356
+  qiluo-msft: 1.5828
+  rlucus: 0.3172
+  ryanzhu706: 1.8862
+  saiarcot895: 0.2226
+  sakshamkhurana21: 0.8772
+  sneelam20: 0.6546
+  v-cshekar: 0.2191
+  vaibhavhd: 0.9249
+  vvolam: 0.2378
+  xincunli-sonic: 0.3377
+  zbud-msft: 1.0656
+/pkg/bypass/:
+  anish-n: 1.6475
+  donghaolicd: 0.8085
+  hdwhdw: 2.2541
+  xincunli-sonic: 0.3377
+/pkg/exec/:
+  donghaolicd: 0.611
+  vvolam: 0.2378
+/pkg/gnoi/:
+  StormLiangMS: 0.9367
+  donghaolicd: 1.4678
+  hdwhdw: 2.1472
+  panyz522: 0.5399
+  qiluo-msft: 0.9052
+  ryanzhu706: 1.8862
+  saiarcot895: 0.2226
+  sakshamkhurana21: 0.8772
+  vaibhavhd: 0.5197
+  vvolam: 0.2378
+  zbud-msft: 0.6463
+/pkg/gnoi/debug/:
+  donghaolicd: 0.8568
+  hdwhdw: 0.5071
+/pkg/gnoi/file/:
+  donghaolicd: 0.611
+  hdwhdw: 1.1495
+  qiluo-msft: 0.9052
+  ryanzhu706: 1.8862
+  saiarcot895: 0.2226
+  vvolam: 0.2378
+  zbud-msft: 0.2226
+/pkg/gnoi/oras/:
+  StormLiangMS: 0.9367
+  panyz522: 0.5399
+/pkg/gnoi/os/:
+  sakshamkhurana21: 0.8772
+  vvolam: 0.2378
+/pkg/gnoi/system/:
+  hdwhdw: 0.4906
+  vaibhavhd: 0.5197
+  vvolam: 0.2378
+  zbud-msft: 0.4237
+/pkg/hostfs/:
+  panyz522: 0.5399
+/pkg/interceptors/:
+  donghaolicd: 0.8568
+  hdwhdw: 2.8026
+  ndas7: 0.6203
+  prsunny: 0.356
+  qiluo-msft: 0.6776
+  rlucus: 0.3172
+  ryanzhu706: 0.3536
+  sneelam20: 0.6546
+  vaibhavhd: 0.4052
+  vvolam: 0.2378
+/pkg/interceptors/dpuproxy/:
+  donghaolicd: 0.8568
+  hdwhdw: 2.1463
+  ndas7: 0.6203
+  prsunny: 0.356
+  qiluo-msft: 0.6776
+  rlucus: 0.3172
+  ryanzhu706: 0.3536
+  sneelam20: 0.6546
+  vaibhavhd: 0.4052
+  vvolam: 0.2378
+/pkg/pathblacklist/:
+  hdwhdw: 0.693
+/pkg/server/:
+  hdwhdw: 0.6306
+  v-cshekar: 0.2191
+  zbud-msft: 0.4193
+/pkg/server/operational-handler/:
+  hdwhdw: 0.6306
+  v-cshekar: 0.2191
+  zbud-msft: 0.4193
+/proto/:
+  donghaolicd: 0.8568
+  hdwhdw: 1.0423
+  panyz522: 0.5399
+  qiluo-msft: 0.5036
+/proto/gnoi/:
+  donghaolicd: 0.8568
+  hdwhdw: 0.236
+  panyz522: 0.5399
+/proto/gnoi/oras/:
+  panyz522: 0.5399
+/show_client/:
+  BYGX-wcr: 0.3217
+  FengPan-Frank: 0.1652
+  hdwhdw: 1.2598
+  lguohan: 0.1485
+  make1980: 0.4568
+  ndas7: 0.6203
+  rlucus: 0.3172
+  ronan-nexthop: 0.5562
+  ryanzhu706: 0.7288
+  sneelam20: 0.6546
+  zbud-msft: 1.2544
+/sonic_data_client/:
+  BYGX-wcr: 0.3217
+  FengPan-Frank: 0.4333
+  abdosi: 0.1746
+  anand-kumar-subramanian: 0.0824
+  donghaolicd: 0.7148
+  ganglyu: 0.4326
+  hdwhdw: 10.5422
+  kperumalbfn: 0.0775
+  kwangsuk: 0.0183
+  lguohan: 0.1485
+  liuh-80: 0.22
+  make1980: 0.1486
+  ndas7: 1.404
+  prabhataravind: 0.5069
+  prsunny: 0.1295
+  qiluo-msft: 0.9102
+  rlucus: 0.3172
+  ronan-nexthop: 0.5562
+  ryanzhu706: 0.7288
+  sachinholla: 0.0183
+  sneelam20: 1.545
+  vivekkarri: 0.309
+  xincunli-sonic: 0.0819
+  yxieca: 0.3956
+  zbud-msft: 1.9753
+/sonic_db_config/:
+  anand-kumar-subramanian: 0.0824
+  donghaolicd: 1.6265
+  hdwhdw: 0.9368
+  kwangsuk: 0.0183
+  sachinholla: 0.0183
+/sonic_service_client/:
+  FengPan-Frank: 0.0787
+  Ryangwaite: 0.1157
+  anand-kumar-subramanian: 0.0824
+  donghaolicd: 0.8338
+  ganglyu: 0.1059
+  hdwhdw: 1.6237
+  kanchanavelusamy: 0.3121
+  kwangsuk: 0.0183
+  ndas7: 1.6974
+  qiluo-msft: 1.3818
+  rlucus: 0.363
+  sachinholla: 0.0183
+  sakshamkhurana21: 0.8772
+  sneelam20: 1.0619
+  vvolam: 0.0851
+  wen587: 0.0577
+  xincunli-sonic: 0.1605
+  zbud-msft: 0.4237
+/swsscommon/:
+  qiluo-msft: 0.0853
+  vvolam: 0.0851
+/test_utils/:
+  anand-kumar-subramanian: 0.0824
+  kwangsuk: 0.0183
+  sachinholla: 0.0183
+/testdata/:
+  BYGX-wcr: 0.1587
+  FengPan-Frank: 0.1652
+  abdosi: 0.1746
+  anand-kumar-subramanian: 0.0809
+  ayelrod: 0.043
+  ganglyu: 0.0595
+  hdwhdw: 2.2374
+  kperumalbfn: 0.0775
+  kwangsuk: 0.0286
+  lguohan: 0.1485
+  make1980: 0.4568
+  ndas7: 1.2342
+  prsunny: 0.1295
+  qiluo-msft: 0.8044
+  rlucus: 0.9102
+  ryanzhu706: 0.7288
+  sneelam20: 1.9142
+  zbud-msft: 1.5414
+/testdata/crl/:
+  ganglyu: 0.0595
+  ndas7: 0.3103
+  rlucus: 0.3172
+  sneelam20: 0.3285
+/testdata/gnsi/:
+  ndas7: 0.9239
+  rlucus: 0.593
+  sneelam20: 1.5857
+/testdata/mtls/:
+  ndas7: 0.335
+  sneelam20: 0.3351
+/testdata/zoneinfo/:
+  make1980: 0.1538
+/testdata/zoneinfo/America/:
+  make1980: 0.1538
+/testdata/zoneinfo/America/Argentina/:
+  make1980: 0.1538
+/testdata/zoneinfo/Asia/:
+  make1980: 0.1538
+/testdata/zoneinfo/Atlantic/:
+  make1980: 0.1538
+/testdata/zoneinfo/Etc/:
+  make1980: 0.1538
+/tests/:
+  hdwhdw: 0.9548
+/tests/integration/:
+  hdwhdw: 0.9548
+/tools/:
+  anand-kumar-subramanian: 0.0821
+  donghaolicd: 0.9006
+  hdwhdw: 1.6484
+  kwangsuk: 0.0821
+/tools/pyang_plugins/:
+  anand-kumar-subramanian: 0.0821
+  kwangsuk: 0.0821
+/tools/pyang_plugins/templates/:
+  anand-kumar-subramanian: 0.0821
+  kwangsuk: 0.0821
+/tools/pyang_plugins/templates/client/:
+  anand-kumar-subramanian: 0.0821
+  kwangsuk: 0.0821
+/tools/pyang_plugins/templates/server/:
+  anand-kumar-subramanian: 0.0821
+  kwangsuk: 0.0821
+/tools/test/:
+  donghaolicd: 0.9006
+  hdwhdw: 0.9548
+/transl_utils/:
+  anand-kumar-subramanian: 0.0821
+  hdwhdw: 0.0847
+  kwangsuk: 0.0821
+  ndas7: 0.3919
+  sneelam20: 0.4385

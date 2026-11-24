@@ -1,0 +1,32 @@
+/:
+  Blueve: 2.0019
+  StormLiangMS: 7.3051
+  Xichen96: 2.2391
+  ashutosh-agrawal: 3.4033
+  lihuay: 0.6736
+  liushilongbuaa: 1.1133
+  qiluo-msft: 0.7997
+  rookie-who: 0.514
+  vaibhavhd: 0.514
+  yaqiangz: 0.5693
+  zypgithub: 0.1756
+/.azure-pipelines/:
+  Blueve: 1.0285
+  Xichen96: 0.2746
+  liushilongbuaa: 0.5792
+  rookie-who: 0.514
+  vaibhavhd: 0.514
+/.github/:
+  lihuay: 0.335
+/debian/:
+  Xichen96: 0.5772
+/src/:
+  Blueve: 1.3779
+  StormLiangMS: 7.0649
+  Xichen96: 1.3873
+  ashutosh-agrawal: 3.4033
+  lihuay: 0.3386
+  liushilongbuaa: 0.8316
+  qiluo-msft: 0.7997
+  yaqiangz: 0.5693
+  zypgithub: 0.1756

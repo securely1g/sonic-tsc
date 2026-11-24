@@ -1,5 +1,212 @@
 [
     {
+        "additions": 12,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T08:03:20Z",
+        "number": 1314,
+        "title": "[redissocket]: report an AUTH read timeout as a timeout",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 2,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T01:32:14Z",
+        "number": 1313,
+        "title": "[test] Wait for all replies in Notifications.AllowListFilter",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 11,
+        "author": "wsycqyz",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-22T07:09:52Z",
+        "number": 1311,
+        "title": "[ci]: Free disk space on the hosted agent before the build",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 32,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-23T01:33:09Z",
+        "number": 1307,
+        "title": "[rust] Use deferred binding in ZMQ reconnect test",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 12,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T00:03:05Z",
+        "number": 1300,
+        "title": "Renovate: merge labeled security updates with Renovate's own automerge",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 1,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T21:44:20Z",
+        "number": 1299,
+        "title": "Update Rust crate thiserror to v2 (master)",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 6,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T21:44:13Z",
+        "number": 1296,
+        "title": "Update Rust crate serial_test to v4 (master)",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 3,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T21:44:05Z",
+        "number": 1290,
+        "title": "Update actions/checkout action to v7 (master)",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 2,
+        "author": "app/renovate",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T17:03:27Z",
+        "number": 1288,
+        "title": "Update github/codeql-action action to v2.28.1 (master)",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 739,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T15:55:38Z",
+        "number": 1283,
+        "title": "Add Renovate configuration",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 0,
+        "author": "xq9mend",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-12T23:21:53Z",
+        "number": 1281,
+        "title": "ci: use hosted agent for amd64 coverage job",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 681,
+        "author": "vpandian-nokia",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T21:22:58Z",
+        "number": 1278,
+        "title": "Add in-process NotificationConsumer::enqueue() for ZMQ delivery",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 35,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-04T23:47:23Z",
+        "number": 1277,
+        "title": "Revert automatic connector authentication (#1266)",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 226,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T02:19:56Z",
+        "number": 1274,
+        "title": "redis: add native Unix connections for redis-py pools",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 106,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T00:09:05Z",
+        "number": 1273,
+        "title": "sonic-db-cli: add an explicit authentication option",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 224,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-17T01:49:11Z",
+        "number": 1272,
+        "title": "redis bindings: expose explicit connector authentication through C and Rust",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 400,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-13T02:42:13Z",
+        "number": 1271,
+        "title": "redis: add opt-in authentication to named connectors",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 564,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T19:21:01Z",
+        "number": 1270,
+        "title": "redis: add opt-in DBConnector authentication",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 995,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-28T01:50:08Z",
+        "number": 1266,
+        "title": "redis: authenticate selected local writers during connection setup",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 35,
+        "author": "theasianpianist",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-06T23:54:05Z",
+        "number": 1263,
+        "title": "[ci]: Use shared downstream CI templates",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 28,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-09T01:24:54Z",
+        "number": 1259,
+        "title": "redis: preserve the source endpoint in AsyncDBUpdater",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 33,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-07T21:51:18Z",
+        "number": 1257,
+        "title": "redis: stop configuring notifications on client connect",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 2,
+        "author": "liamkearney-msft",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-01T06:12:19Z",
+        "number": 1251,
+        "title": "[schema]: Add MACsec MKA state table names",
+        "repo": "sonic-swss-common"
+    },
+    {
         "additions": 6,
         "author": "mssonicbld",
         "baseRefName": "202605",
@@ -60,6 +267,15 @@
         "mergedAt": "2026-08-17T21:45:33Z",
         "number": 1236,
         "title": "[ci]: Preserve dependency order across buildenv artifact install groups",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 447,
+        "author": "venkit-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-28T21:16:56Z",
+        "number": 1234,
+        "title": "[zmq] Fix use-after-free in deferred burst notify; bound notification deferral",
         "repo": "sonic-swss-common"
     },
     {
@@ -213,6 +429,15 @@
         "mergedAt": "2026-06-04T17:49:23Z",
         "number": 1195,
         "title": "Add link event damping support",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 50,
+        "author": "oleksandrivantsiv",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-14T22:08:36Z",
+        "number": 1193,
+        "title": "[chore/github]: Standardize GitHub PR description template",
         "repo": "sonic-swss-common"
     },
     {
@@ -447,6 +672,15 @@
         "mergedAt": "2026-01-22T23:00:04Z",
         "number": 1144,
         "title": "[202511][ci] Update docker slave image referrence (#1141)",
+        "repo": "sonic-swss-common"
+    },
+    {
+        "additions": 1,
+        "author": "yijingyan2",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-07T23:38:24Z",
+        "number": 1143,
+        "title": "use 1ES agent to provide more disk space",
         "repo": "sonic-swss-common"
     },
     {

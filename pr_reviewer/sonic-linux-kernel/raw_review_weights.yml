@@ -1,0 +1,107 @@
+/:
+  AndrewQu-Micas: 0.1171
+  Pavan-Nokia: 0.4119
+  abelamit: 1.3102
+  aditya-nexthop: 0.4537
+  arista-hpandya: 0.7719
+  banidoru: 0.4718
+  bhouse-nexthop: 0.9615
+  bingwang-ms: 0.4364
+  bobby-nexthop: 0.3919
+  chinmoy-nexthop: 0.4707
+  dgsudharsan: 2.0298
+  gordon-nexthop: 0.929
+  judyjoseph: 0.9041
+  lguohan: 0.2144
+  lihuay: 0.335
+  liushilongbuaa: 0.24
+  lotus-nexthop: 0.1269
+  nate-nexthop: 0.4679
+  oleksandrivantsiv: 3.236
+  paulmenzel: 3.1671
+  pbrisset: 0.9143
+  prgeor: 0.542
+  prsunny: 0.4754
+  qiluo-msft: 1.9315
+  saiarcot895: 37.6083
+  srideepDell: 0.3736
+  tirupatihemanth: 2.3153
+  vivekkarri: 0.63
+  volodymyrsamotiy: 0.291
+  vvolam: 0.1105
+  william8545: 0.4721
+  wsycqyz: 0.8774
+  yxieca: 4.4528
+/.azure-pipelines/:
+  liushilongbuaa: 0.24
+  qiluo-msft: 0.775
+  saiarcot895: 0.2915
+  yxieca: 0.1579
+/.github/:
+  lihuay: 0.335
+  yxieca: 0.9331
+/config.local/:
+  abelamit: 1.3102
+  arista-hpandya: 0.7719
+  bhouse-nexthop: 0.9615
+  chinmoy-nexthop: 0.4707
+  nate-nexthop: 0.341
+  oleksandrivantsiv: 1.8565
+  paulmenzel: 1.8809
+  prsunny: 0.4754
+  saiarcot895: 11.1267
+  tirupatihemanth: 1.4811
+  vivekkarri: 0.4643
+  yxieca: 0.4642
+/config.local/amd64/:
+  abelamit: 0.4584
+  arista-hpandya: 0.7719
+  bhouse-nexthop: 0.9615
+  paulmenzel: 1.1739
+  saiarcot895: 3.7195
+  tirupatihemanth: 0.7934
+  vivekkarri: 0.4643
+/config.local/arm64/:
+  abelamit: 0.8518
+  bhouse-nexthop: 0.9615
+  chinmoy-nexthop: 0.4707
+  nate-nexthop: 0.341
+  oleksandrivantsiv: 1.8565
+  paulmenzel: 0.707
+  saiarcot895: 6.9317
+  tirupatihemanth: 0.6877
+  yxieca: 0.4642
+/config.local/featureset-sonic/:
+  prsunny: 0.4754
+  saiarcot895: 0.4755
+/patches-sonic/:
+  Pavan-Nokia: 0.4119
+  abelamit: 0.4584
+  aditya-nexthop: 0.4537
+  banidoru: 0.4718
+  bhouse-nexthop: 0.9615
+  bingwang-ms: 0.4364
+  bobby-nexthop: 0.3919
+  dgsudharsan: 1.4201
+  gordon-nexthop: 0.929
+  judyjoseph: 0.9041
+  nate-nexthop: 0.341
+  oleksandrivantsiv: 2.3685
+  paulmenzel: 2.0393
+  pbrisset: 0.9143
+  prgeor: 0.4591
+  qiluo-msft: 0.9803
+  saiarcot895: 27.0063
+  srideepDell: 0.3736
+  tirupatihemanth: 2.3153
+  vivekkarri: 0.4643
+  volodymyrsamotiy: 0.291
+  william8545: 0.4721
+  yxieca: 3.2438
+/patches-sonic/security/:
+  bhouse-nexthop: 0.9615
+  qiluo-msft: 0.9803
+  saiarcot895: 1.7737
+/scripts/:
+  bhouse-nexthop: 0.9615
+  saiarcot895: 1.2733

@@ -1,5 +1,325 @@
 [
     {
+        "additions": 4,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-30T23:13:44Z",
+        "number": 28323,
+        "title": "[action] [PR:28181] [gnmi] Extend audit syslog capture to one minute",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 4,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-30T03:13:40Z",
+        "number": 28304,
+        "title": "[action] [PR:28238] crm: require clean FDB baseline before validation",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 235,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-30T02:13:30Z",
+        "number": 28303,
+        "title": "[action] [PR:28221] [performance_meter]: Harden bounded syslog rotation handling",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 9,
+        "author": "az-pz",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T21:08:01Z",
+        "number": 28295,
+        "title": "[conditional_mark]: Skip unsupported FEC stats test on Tomahawk",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 36,
+        "author": "dcaugher",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T01:51:00Z",
+        "number": 28292,
+        "title": "[cisco] fix PFC RX counter validation for G200X",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 93,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T13:59:51Z",
+        "number": 28287,
+        "title": "[dualtor] Log vmhost CPU/memory and OVS status on mux toggle failure",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 27,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-29T06:14:33Z",
+        "number": 28286,
+        "title": "[action] [PR:24927] Fix test_link_local_ip failures in dualtor active-active topology",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 1,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-29T07:14:50Z",
+        "number": 28285,
+        "title": "[action] [PR:25900] fix test_po_voq skip condition for empty portchannel",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 2,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-29T08:14:28Z",
+        "number": 28283,
+        "title": "[action] [PR:27217] mg_facts: Handle ACL bind points being non-alias",
+        "repo": "sonic-mgmt",
+        "testCase": "no"
+    },
+    {
+        "additions": 27,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-29T07:14:32Z",
+        "number": 28282,
+        "title": "[action] [PR:27501] [cacl]: Clamp SSH ACCEPT rule insert position to INPUT chain length",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 4,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-29T06:14:08Z",
+        "number": 28281,
+        "title": "[action] [PR:27839] `bgp/test_prefix_list_suppress.py` add `wait_until` for syslog",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 92,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-29T07:14:21Z",
+        "number": 28280,
+        "title": "[action] [PR:28098] [tests] Exclude frr_bmp from container checks when its FEATURE entry is absent",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 96,
+        "author": "yxieca",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T00:11:56Z",
+        "number": 28278,
+        "title": "platform_tests: extend config reload wait to 600s on BMC and log ready time",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 229,
+        "author": "yxieca",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T04:18:48Z",
+        "number": 28276,
+        "title": "syslog_helpers: wait for tcpdump readiness before generating log message",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 69,
+        "author": "augusdn",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T12:59:32Z",
+        "number": 28274,
+        "title": "[bgp] Add native LMA establish-combo coverage",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 15,
+        "author": "augusdn",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T12:59:20Z",
+        "number": 28273,
+        "title": "[tests] Guard unsupported DMA feature checks",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 11,
+        "author": "yenlu-keith",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-29T04:36:28Z",
+        "number": 28268,
+        "title": "[test_syslog_rate_limit] syslog rate-limit need to have strict matching format on log_generator",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 24,
+        "author": "weiguo-nvidia",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-29T03:29:43Z",
+        "number": 28265,
+        "title": "[HFT]: Align InfluxDB series naming with countersyncd",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 8,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-28T16:14:15Z",
+        "number": 28264,
+        "title": "[action] [PR:28241] Save the \u201cis_this_dut_smartswitch\u201d in a variable before starting \u201cconfig reload\u201d and then use that for the later check.",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 6,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-28T16:14:03Z",
+        "number": 28263,
+        "title": "[action] [PR:28243] pfcwd_background_traffic:Move yield inside try block, so that if something goes wrong in the caller, we can cleanup.",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 4,
+        "author": "Bharath-cisco",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-29T04:50:09Z",
+        "number": 28262,
+        "title": "[dhcp_relay] Use the VLAN MAC for the agent_relay_mode DISCOVER on dual-ToR",
+        "repo": "sonic-mgmt",
+        "testCase": "no"
+    },
+    {
+        "additions": 21,
+        "author": "ediwibowo-msft",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T13:07:37Z",
+        "number": 28259,
+        "title": "[tacacs]: Preserve TACACS server port on restore_tacacs_servers",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 2,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-28T09:14:37Z",
+        "number": 28258,
+        "title": "[action] [PR:28047] [memory_checker] Use the standard Monit failure timeout",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 283,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-28T09:14:27Z",
+        "number": 28257,
+        "title": "[action] [PR:27713] [performance_meter]: Add bounded syslog reader for switch-create measurement",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 2,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-29T04:14:36Z",
+        "number": 28252,
+        "title": "ci: make dualtor-aa-vpp a required PR checker again",
+        "repo": "sonic-mgmt",
+        "testCase": "no"
+    },
+    {
+        "additions": 41,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-28T02:13:32Z",
+        "number": 28250,
+        "title": "[action] [PR:27851] [sfp][mellanox] Check SFP Software Control Setting for test_power_override",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 2,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-28T02:13:19Z",
+        "number": 28248,
+        "title": "[action] [PR:28112] qos: use selected DUT for buffer port selection",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 2,
+        "author": "mssonicbld",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-28T02:13:05Z",
+        "number": 28245,
+        "title": "[action] [PR:28109] drop-counters: use selected DUT for VLAN MAC",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 6,
+        "author": "rraghav-cisco",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-28T00:44:17Z",
+        "number": 28243,
+        "title": "pfcwd_background_traffic:Move yield inside try block, so that if something goes wrong in the caller, we can cleanup.",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 6,
+        "author": "yxieca",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-28T17:45:03Z",
+        "number": 28242,
+        "title": "[dns/static_dns] Conditionally xfail static-IP dynamic DNS test on BMC",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 8,
+        "author": "rraghav-cisco",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-27T03:04:49Z",
+        "number": 28241,
+        "title": "Save the \u201cis_this_dut_smartswitch\u201d in a variable before starting \u201cconfig reload\u201d and then use that for the later check.",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 4,
+        "author": "Xichen96",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T01:15:25Z",
+        "number": 28238,
+        "title": "crm: require clean FDB baseline before validation",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
         "additions": 1,
         "author": "deepak-singhal0408",
         "baseRefName": "master",
@@ -8,6 +328,26 @@
         "title": "[ansible]: Preserve prefix length for LT2 host routes",
         "repo": "sonic-mgmt",
         "testCase": "no"
+    },
+    {
+        "additions": 235,
+        "author": "augusdn",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T00:26:23Z",
+        "number": 28221,
+        "title": "[performance_meter]: Harden bounded syslog rotation handling",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 10,
+        "author": "sdszhang",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-28T02:51:52Z",
+        "number": 28206,
+        "title": "[topology]: Add FT2 CPO-64 and CPO-16 topologies",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
     },
     {
         "additions": 3,
@@ -78,6 +418,26 @@
         "title": "[ansible/vm_set]: Avoid GoBGP shim hostname lookup",
         "repo": "sonic-mgmt",
         "testCase": "no"
+    },
+    {
+        "additions": 4,
+        "author": "donghaolicd",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-29T23:24:23Z",
+        "number": 28181,
+        "title": "[gnmi] Extend audit syslog capture to one minute",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 61,
+        "author": "Xichen96",
+        "baseRefName": "202605",
+        "mergedAt": "2026-09-29T03:43:34Z",
+        "number": 28180,
+        "title": "[202605] Prevent gNMI certificate tests from stopping telemetry",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
     },
     {
         "additions": 19,
@@ -246,6 +606,16 @@
         "mergedAt": "2026-09-25T09:13:49Z",
         "number": 28157,
         "title": "[action] [PR:27770] [everflow]: Make conditional_mark keys order-independent for parametrized node IDs",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 62,
+        "author": "Xichen96",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-29T00:12:55Z",
+        "number": 28145,
+        "title": "Prevent gNMI certificate tests from stopping telemetry",
         "repo": "sonic-mgmt",
         "testCase": "yes"
     },
@@ -530,6 +900,16 @@
         "testCase": "yes"
     },
     {
+        "additions": 2,
+        "author": "mssonicbld",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-28T07:32:10Z",
+        "number": 28047,
+        "title": "[memory_checker] Use the standard Monit failure timeout",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
         "additions": 10,
         "author": "sakshamkhurana21",
         "baseRefName": "master",
@@ -576,6 +956,16 @@
         "mergedAt": "2026-09-24T02:54:19Z",
         "number": 28027,
         "title": "[202605][kubesonic] Backport daemonset readiness fix (#27866)",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 1,
+        "author": "az-pz",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-28T02:17:52Z",
+        "number": 28018,
+        "title": "[platform_tests]: Fix SFP shutdown timeout scaling",
         "repo": "sonic-mgmt",
         "testCase": "yes"
     },
@@ -660,6 +1050,26 @@
         "testCase": "yes"
     },
     {
+        "additions": 575,
+        "author": "chinmoy-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T00:46:02Z",
+        "number": 27971,
+        "title": "[redfish] Add Rack Manager OEM telemetry test",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 1,
+        "author": "lolyu",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-28T07:02:02Z",
+        "number": 27968,
+        "title": "ci: run remove-topo before add-topo for the dualtor-aa-vpp PR checker",
+        "repo": "sonic-mgmt",
+        "testCase": "no"
+    },
+    {
         "additions": 12,
         "author": "lolyu",
         "baseRefName": "master",
@@ -688,6 +1098,16 @@
         "title": "[action] [PR:24652] Revert \"Add pre step to change counterpoll port interval to 2000 in golden config\"",
         "repo": "sonic-mgmt",
         "testCase": "no"
+    },
+    {
+        "additions": 65,
+        "author": "shreyansh-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T00:40:48Z",
+        "number": 27960,
+        "title": "[redfish] Prove PowerCycle by the switch host boot id",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
     },
     {
         "additions": 11,
@@ -990,6 +1410,16 @@
         "testCase": "yes"
     },
     {
+        "additions": 41,
+        "author": "mdhoff-ms",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-28T00:22:16Z",
+        "number": 27851,
+        "title": "[sfp][mellanox] Check SFP Software Control Setting for test_power_override",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
         "additions": 5,
         "author": "mssonicbld",
         "baseRefName": "master",
@@ -1018,6 +1448,16 @@
         "title": "everflow: pace policer test traffic",
         "repo": "sonic-mgmt",
         "testCase": "no"
+    },
+    {
+        "additions": 4,
+        "author": "arista-nwolfe",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-28T21:06:57Z",
+        "number": 27839,
+        "title": "`bgp/test_prefix_list_suppress.py` add `wait_until` for syslog",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
     },
     {
         "additions": 3,
@@ -1880,6 +2320,16 @@
         "testCase": "yes"
     },
     {
+        "additions": 61,
+        "author": "augusdn",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T13:02:52Z",
+        "number": 27537,
+        "title": "[fib] Skip hash tests only for proven single-path defaults",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
         "additions": 1,
         "author": "mssonicbld",
         "baseRefName": "202511",
@@ -2228,6 +2678,16 @@
         "title": "[action] [PR:25277] KVM dut configs for ut2",
         "repo": "sonic-mgmt",
         "testCase": "no"
+    },
+    {
+        "additions": 9,
+        "author": "sanjair-git",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-27T06:08:10Z",
+        "number": 27463,
+        "title": "[BMC] Platform test reboot fixes w.r.t BMC",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
     },
     {
         "additions": 34,
@@ -2600,6 +3060,16 @@
         "testCase": "yes"
     },
     {
+        "additions": 0,
+        "author": "BYGX-wcr",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-29T22:51:50Z",
+        "number": 27172,
+        "title": "Unskip log_fidelity/test_bgp_shutdown.py on vms-kvm-t2",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
         "additions": 1,
         "author": "ryanzhu706",
         "baseRefName": "master",
@@ -2756,6 +3226,16 @@
         "mergedAt": "2026-09-02T00:49:06Z",
         "number": 27047,
         "title": "Fix common sonic-db-cli functions to be multi asic aware",
+        "repo": "sonic-mgmt",
+        "testCase": "yes"
+    },
+    {
+        "additions": 57,
+        "author": "yenlu-keith",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-27T04:51:50Z",
+        "number": 27045,
+        "title": "[test_vxlan_vnet_bgp_subintf] failed to synchronize DUT NTP and need fallback to ptf NTP server",
         "repo": "sonic-mgmt",
         "testCase": "yes"
     },
@@ -3366,6 +3846,16 @@
         "mergedAt": "2026-09-10T13:28:21Z",
         "number": 24146,
         "title": "HLD for VDM testing for Transceivers",
+        "repo": "sonic-mgmt",
+        "testCase": "no"
+    },
+    {
+        "additions": 1,
+        "author": "app/dependabot",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-30T21:57:37Z",
+        "number": 23874,
+        "title": "Bump pytest from 6.2.5 to 9.0.3 in /test_reporting",
         "repo": "sonic-mgmt",
         "testCase": "no"
     },

@@ -1,5 +1,59 @@
 [
     {
+        "additions": 12,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-18T21:41:09Z",
+        "number": 171,
+        "title": "Renovate: merge labeled security updates with Renovate's own automerge",
+        "repo": "sonic-dhcp-relay"
+    },
+    {
+        "additions": 6,
+        "author": "bhouse-nexthop",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-14T15:54:55Z",
+        "number": 168,
+        "title": "Add Renovate configuration",
+        "repo": "sonic-dhcp-relay"
+    },
+    {
+        "additions": 3,
+        "author": "yijingyan2",
+        "baseRefName": "master",
+        "mergedAt": "2026-11-08T00:27:19Z",
+        "number": 166,
+        "title": "[ci] switch to sonic-ubuntu-1c agent pool",
+        "repo": "sonic-dhcp-relay"
+    },
+    {
+        "additions": 42,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-09T19:16:50Z",
+        "number": 156,
+        "title": "[dhcp4relay] Add Link Selection when source interface sets giaddr",
+        "repo": "sonic-dhcp-relay"
+    },
+    {
+        "additions": 23,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-14T14:08:20Z",
+        "number": 154,
+        "title": "dhcp relay: validate server reply input",
+        "repo": "sonic-dhcp-relay"
+    },
+    {
+        "additions": 304,
+        "author": "ashutosh-agrawal",
+        "baseRefName": "master",
+        "mergedAt": "2026-09-29T12:47:58Z",
+        "number": 149,
+        "title": "dhcp4relay: suppress client packets on standby mux ports",
+        "repo": "sonic-dhcp-relay"
+    },
+    {
         "additions": 226,
         "author": "Xichen96",
         "baseRefName": "202411",
@@ -114,6 +168,15 @@
         "mergedAt": "2026-08-20T12:47:41Z",
         "number": 128,
         "title": "[dhcp6relay] Relay packets received on physical PortChannel members",
+        "repo": "sonic-dhcp-relay"
+    },
+    {
+        "additions": 297,
+        "author": "Xichen96",
+        "baseRefName": "master",
+        "mergedAt": "2026-10-15T06:21:33Z",
+        "number": 122,
+        "title": "[dhcp4relay] Implement RFC 6607 VSS-Control",
         "repo": "sonic-dhcp-relay"
     },
     {
